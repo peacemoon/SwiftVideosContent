@@ -1,0 +1,10 @@
+[
+    {
+        "id": "swiftconf-2018-a-better-mvc",
+        "name": "A Better MVC",
+        "source": {
+            "type": "youtube",
+            "value": "https://www.youtube.com"
+        }
+    },
+]
