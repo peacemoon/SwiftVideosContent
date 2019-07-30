@@ -1,0 +1,21 @@
+[
+    {
+        "id": "swiftconf-2018-a-better-mvc",
+        "name": "A Better MVC",
+        "authorMetaData": {
+            "id": "apple-talks",
+            "name": "Apple Talks"
+        },
+        "conferenceMetaData": {
+            "id": "app-builders",
+            "name": "App Builders"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "HN2nyjFZH9Y"
+        }
+    },
+]
