@@ -1,0 +1,59 @@
+[
+    {
+        "id": "swift-and-fika_2018_adventures-in-api-design",
+        "name": "Adventures In API Design",
+        "authorMetaData": {
+            "id": "daniel-kennett",
+            "name": "Daniel Kennett"
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "f4ihOnvU68Y"
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_how-not-to-write-swift",
+        "name": "How Not to Write Swift",
+        "authorMetaData": {
+            "id": "paul-hudson",
+            "name": "Paul Hudson"
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "x5Q6InjzoBk"
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_navigating-machine-learning-landscape",
+        "name": "Navigating the Machine Learning Landscape for Apple Devices",
+        "authorMetaData": {
+            "id": "meghan-kane",
+            "name": "Meghan Kane"
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "nc8e7KT8gvg"
+        }
+    }
+]
