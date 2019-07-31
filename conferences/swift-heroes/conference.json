@@ -1,17 +1,18 @@
 {
     "meta": {
-        "id": "app-builders",
-        "name": "App Builders"
+        "id": "swift-heroes",
+        "name": "Swift Heroes"
     },
     "editions": [
         {
-            "year": "2017"
+            "year": 2017
         },
         {
-            "year": "2018"
+            "year": 2018
         },
         {
-            "year": "2019"
+            "year": 2019
         },
     ]
 }
+w
