@@ -1,5 +1,5 @@
-[
-    {
+{
+    "metaData": {
         "id": "swiftconf-2018-a-better-mvc",
         "name": "A Better MVC",
         "authorMetaData": {
@@ -18,4 +18,5 @@
             "value": "HN2nyjFZH9Y"
         }
     },
-]
+    "description": "Some description"    
+}
