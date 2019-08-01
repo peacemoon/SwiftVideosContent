@@ -138,58 +138,12 @@
         }
     },
     {
-        "id": "appbuilders_2019_",
+        "id": "appbuilders_2019_building-app-for-every-ios-device",
         "name": "Size Doesn't Matter: Building an App for Every iOS Device",
         "authors": [
             {
-                "id": "",
+                "id": "janina-kutyn",
                 "name": "Janina Kutyn"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": ""
-        }
-    },
-    {
-        "id": "appbuilders_2019_how-to-build-a-modern-ios-app",
-        "name": "How to Build a Modern iOS App",
-        "authors": [
-            {
-                "id": "",
-                "name": "Paul Hudson"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": ""
-        }
-    },
-    {
-        "id": "appbuilders_2019_swift-generics-pats",
-        "name": "Swift Generics - The 5 Stages of PATs",
-        "authors": [
-            {
-                "id": "david-hart",
-                "name": "David Hart"
             }
         ],
         "conference": {

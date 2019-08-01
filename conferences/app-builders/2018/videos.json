@@ -1,5 +1,52 @@
 [
     {
+        "id": "appbuilders_2019_how-to-build-a-modern-ios-app",
+        "name": "How to Build a Modern iOS App",
+        "authors": [
+            {
+                "id": "paul-hudson",
+                "name": "Paul Hudson"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2019_swift-generics-pats",
+        "name": "Swift Generics - The 5 Stages of PATs",
+        "authors": [
+            {
+                "id": "david-hart",
+                "name": "David Hart"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    }
+
+    {
         "id": "appbuilders_2018_quest-for-better-world",
         "name": "A Quest for a Better World",
         "authors": [
@@ -27,8 +74,8 @@
         "name": "iOS: 10 years in review",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "alexsander-akers",
+                "name": "Alexsander Akers"
             }
         ],
         "conference": {
@@ -252,6 +299,7 @@
             "value": ""
         }
     },
+
     {
         "id": "appbuilders_2018_becoming-an-effective-contributor-to-swift",
         "name": "Becoming An Effective Contributor to Swift",
