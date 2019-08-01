@@ -1,6 +1,6 @@
 [
     {
-        "id": "appbuilders_2019_how-to-build-a-modern-ios-app",
+        "id": "appbuilders_2018_how-to-build-a-modern-ios-app",
         "name": "How to Build a Modern iOS App",
         "authors": [
             {
@@ -23,7 +23,7 @@
         }
     },
     {
-        "id": "appbuilders_2019_swift-generics-pats",
+        "id": "appbuilders_2018_swift-generics-pats",
         "name": "Swift Generics - The 5 Stages of PATs",
         "authors": [
             {
@@ -44,8 +44,7 @@
             "type": "youtube",
             "value": ""
         }
-    }
-
+    },
     {
         "id": "appbuilders_2018_quest-for-better-world",
         "name": "A Quest for a Better World",
@@ -171,11 +170,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -194,11 +193,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -217,11 +216,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -240,11 +239,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -263,11 +262,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -286,11 +285,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -310,11 +309,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -333,11 +332,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -356,11 +355,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },
@@ -379,11 +378,11 @@
             }
         ],
         "conference": {
-            "conferenceMetaData": {
+            "metaData": {
                 "id": "app-builders",
                 "name": "App Builders"
             },
-            "conferenceEdition": {
+            "edition": {
                 "year": 2018
             }
         },

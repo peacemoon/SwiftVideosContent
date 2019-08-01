@@ -2,16 +2,18 @@
     {
         "id": "swift-and-fika_2018_adventures-in-api-design",
         "name": "Adventures In API Design",
-        "authorMetaData": {
+        "authors": {
             "id": "daniel-kennett",
             "name": "Daniel Kennett"
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
@@ -21,16 +23,18 @@
     {
         "id": "swift-and-fika_2018_how-not-to-write-swift",
         "name": "How Not to Write Swift",
-        "authorMetaData": {
+        "authors": {
             "id": "paul-hudson",
             "name": "Paul Hudson"
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
@@ -40,16 +44,18 @@
     {
         "id": "swift-and-fika_2018_navigating-machine-learning-landscape",
         "name": "Navigating the Machine Learning Landscape for Apple Devices",
-        "authorMetaData": {
+        "authors": {
             "id": "meghan-kane",
             "name": "Meghan Kane"
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
@@ -59,16 +65,18 @@
     {
         "id": "swift-and-fika_2018_lost-art-system-design",
         "name": "The Lost Art of System Design",
-        "authorMetaData": {
+        "authors": {
             "id": "john-sundell",
             "name": "John Sundell"
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
@@ -78,16 +86,18 @@
     {
         "id": "swift-and-fika_2018_open-source-swift",
         "name": "Open Source & Swift",
-        "authorMetaData": {
+        "authors": {
             "id": "roy-marmelstein",
             "name": "Roy Marmelstein"
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
@@ -97,16 +107,18 @@
     {
         "id": "swift-and-fika_2018_race-performance-standard-ios-elements-tech",
         "name": "The Amazing Race; Performance of Standard iOS Elements & Tech",
-        "authorMetaData": {
+        "authors": {
             "id": "janina-kutyn",
             "name": "Janina Kutyn"
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
@@ -116,16 +128,18 @@
     {
         "id": "swift-and-fika_2018_bespoke-artisanal-swift-static-analysis",
         "name": "Bespoke Artisanal Swift Static Analysis",
-        "authorMetaData": {
+        "authors": {
             "id": "jp-simard",
             "name": "JP Simard"
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
@@ -135,16 +149,18 @@
     {
         "id": "swift-and-fika_2018_practical-structure-dependency-injectioin",
         "name": "Practical Structure to Configure Dependency Injection in Swift",
-        "authorMetaData": {
+        "authors": {
             "id": "",
             "name": ""
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
@@ -154,16 +170,18 @@
     {
         "id": "swift-and-fika_2018_use-cryptography-do-not-learn-it",
         "name": "Use Cryptography; Don't Learn It",
-        "authorMetaData": {
+        "authors": {
             "id": "anastasiia-vixentael",
             "name": "Anastasiia Vixentael"
         },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "conference": {
+            "metaData": {
+                "id": "swift-and-fika",
+                "name": "Swift & Fika"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",

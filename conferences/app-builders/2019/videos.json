@@ -19,7 +19,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "kiRaJhA_L30"
         }
     },
     {
@@ -42,7 +42,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "kD8dRvEQ5II"
         }
     },
     {
@@ -65,7 +65,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "3BVkbWXcFS4"
         }
     },
     {
@@ -88,7 +88,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "MIX0MReEb_M"
         }
     },
     {
@@ -111,7 +111,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "FQvAr0-vmOk"
         }
     },
     {
@@ -134,7 +134,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "YpCe3ujlDDo"
         }
     },
     {
@@ -157,7 +157,76 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "2sImrtlesfQ"
+        }
+    },
+    {
+        "id": "appbuilders_2019_use-c-objectivec-libraries-in-swift-project",
+        "name": "Use C, C++ and Objective C Libraries in a Swift Project",
+        "authors": [
+            {
+                "id": "cecilia-humlelu",
+                "name": "Cecilia Humlelu"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "jcNxtM_yTfk"
+        }
+    },
+    {
+        "id": "appbuilders_2019_swift-ide",
+        "name": "That Swift IDE",
+        "authors": [
+            {
+                "id": "marcin-krzyzanowski",
+                "name": "Marcin Krzyzanowski"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "PCJ0nCq16Ec"
+        }
+    },
+    {
+        "id": "appbuilders_2019_swift-ide",
+        "name": "Kotlin for Swift Developers",
+        "authors": [
+            {
+                "id": "jonas-schmid",
+                "name": "Jonas Schmid"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "j0g68PqQufQ"
         }
     }
 ]
