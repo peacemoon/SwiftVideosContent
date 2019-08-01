@@ -1,6 +1,6 @@
 [
     {
-        "id": "appbuilders-2018-a-better-mvc",
+        "id": "appbuilders_2018_a-better-mvc",
         "name": "A Better MVC",
         "authorMetaData": {
             "id": "apple-talks",
@@ -19,7 +19,7 @@
         }
     },
     {
-        "id": "appbuilders-2018-adventures-in-api-design",
+        "id": "appbuilders_2018_adventures-in-api-design",
         "name": "Adventures In API Design",
         "authorMetaData": {
             "id": "apple-talks",

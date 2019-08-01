@@ -55,5 +55,158 @@
             "type": "youtube",
             "value": "nc8e7KT8gvg"
         }
-    }
+    },
+    {
+        "id": "swift-and-fika_2018_lost-art-system-design",
+        "name": "The Lost Art of System Design",
+        "authorMetaData": {
+            "id": "john-sundell",
+            "name": "John Sundell"
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "ujOc3a7Hav0"
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_open-source-swift",
+        "name": "Open Source & Swift",
+        "authorMetaData": {
+            "id": "roy-marmelstein",
+            "name": "Roy Marmelstein"
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Fj6iFCZ800U"
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_race-performance-standard-ios-elements-tech",
+        "name": "The Amazing Race; Performance of Standard iOS Elements & Tech",
+        "authorMetaData": {
+            "id": "janina-kutyn",
+            "name": "Janina Kutyn"
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "8Gms7S6Ut1U"
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_bespoke-artisanal-swift-static-analysis",
+        "name": "Bespoke Artisanal Swift Static Analysis",
+        "authorMetaData": {
+            "id": "jp-simard",
+            "name": "JP Simard"
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "iUGnWgs_YHE"
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_practical-structure-dependency-injectioin",
+        "name": "Practical Structure to Configure Dependency Injection in Swift",
+        "authorMetaData": {
+            "id": "",
+            "name": ""
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "h6iikGy7dk0"
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_use-cryptography-do-not-learn-it",
+        "name": "Use Cryptography; Don't Learn It",
+        "authorMetaData": {
+            "id": "anastasiia-vixentael",
+            "name": "Anastasiia Vixentael"
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": "up3Njl8GWJ4"
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_",
+        "name": "",
+        "authorMetaData": {
+            "id": "",
+            "name": ""
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "swift-and-fika_2018_",
+        "name": "",
+        "authorMetaData": {
+            "id": "",
+            "name": ""
+        },
+        "conferenceMetaData": {
+            "id": "swift-and-fika",
+            "name": "Swift & Fika"
+        },
+        "conferenceEdition": {
+            "year": 2018
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+
 ]
