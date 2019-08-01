@@ -207,7 +207,7 @@
         }
     },
     {
-        "id": "appbuilders_2019_swift-ide",
+        "id": "appbuilders_2019_kotlin-for-swift-developers",
         "name": "Kotlin for Swift Developers",
         "authors": [
             {
@@ -227,6 +227,29 @@
         "source": {
             "type": "youtube",
             "value": "j0g68PqQufQ"
+        }
+    },
+    {
+        "id": "appbuilders_2019_from-problem-to-solution",
+        "name": "From Problem to Solution",
+        "authors": [
+            {
+                "id": "soroush-khanlou",
+                "name": "Soroush Khanlou"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "N90_q8Uzc4A"
         }
     }
 ]
