@@ -1,40 +1,347 @@
 [
     {
-        "id": "appbuilders_2018_a-better-mvc",
-        "name": "A Better MVC",
-        "authorMetaData": {
-            "id": "apple-talks",
-            "name": "Apple Talks"
-        },
-        "conferenceMetaData": {
-            "id": "app-builders",
-            "name": "App Builders"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "id": "appbuilders_2018_quest-for-better-world",
+        "name": "A Quest for a Better World",
+        "authors": [
+            {
+                "id": "adrian-kosmaczewski",
+                "name": "Adrian Kosmaczewski"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
-            "value": "HN2nyjFZH9Y"
+            "value": ""
         }
     },
     {
-        "id": "appbuilders_2018_adventures-in-api-design",
-        "name": "Adventures In API Design",
-        "authorMetaData": {
-            "id": "apple-talks",
-            "name": "Apple Talks"
-        },
-        "conferenceMetaData": {
-            "id": "app-builders",
-            "name": "App Builders"
-        },
-        "conferenceEdition": {
-            "year": 2018
+        "id": "appbuilders_2018_ios-10-years-review",
+        "name": "iOS: 10 years in review",
+        "authors": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2018
+            }
         },
         "source": {
             "type": "youtube",
-            "value": "HN2nyjFZH9Y"
+            "value": ""
         }
     },
+    {
+        "id": "appbuilders_2018_why-we-build-products",
+        "name": "Why We Build Products",
+        "authors": [
+            {
+                "id": "sebastian-schmidt",
+                "name": "Sebastian Schmidt"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_into-the-deep",
+        "name": "Into the Deep – or what would 80s have done with depth sensing technology?",
+        "authors": [
+            {
+                "id": "tobias-due-munk",
+                "name": "Tobias Due Munk"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_bootstrapping-machine-learning-training-process",
+        "name": "Bootstrapping the Machine Learning Training Process",
+        "authors": [
+            {
+                "id": "meghan-kane",
+                "name": "Meghan Kane"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_swift-objectivec",
+        "name": "Swift & Objective-C: The most adventurous mashup since Avengers: Infinity War",
+        "authors": [
+            {
+                "id": "matthias-tretter",
+                "name": "Matthias Tretter"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_native-ios-app-sap",
+        "name": "Native iOS Apps for the Enterprise with SAP",
+        "authors": [
+            {
+                "id": "andreas-schlosser",
+                "name": "Andreas Schlosser"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_little-app-got-us-big-trouble",
+        "name": "The Little App that Got Us into Big Trouble",
+        "authors": [
+            {
+                "id": "vikram-kriplaney",
+                "name": "Vikram Kriplaney"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_rethinking-object-oriented-design",
+        "name": "Rethinking Object-Oriented Design",
+        "authors": [
+            {
+                "id": "graham-lee",
+                "name": "Graham Lee"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_a-better-mvc",
+        "name": "A Better MVC",
+        "authors": [
+            {
+                "id": "dave-delong",
+                "name": "Dave DeLong"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_ios-application-architecture",
+        "name": "iOS Application Architecture",
+        "authors": [
+            {
+                "id": "krzysztof-zablocki",
+                "name": "Krzysztof Zablocki"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_becoming-an-effective-contributor-to-swift",
+        "name": "Becoming An Effective Contributor to Swift",
+        "authors": [
+            {
+                "id": "harlan-haskins",
+                "name": "Harlan Haskins"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_sharing",
+        "name": "Sharing",
+        "authors": [
+            {
+                "id": "",
+                "name": "John Sundell"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_lessons-learned-from-app-store",
+        "name": "Lessons Learned from the App Store",
+        "authors": [
+            {
+                "id": "phillip-shoemaker",
+                "name": "Phillip Shoemaker"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2018_advanced-debugging-techniques",
+        "name": "Advanced Debugging Techniques your senior hasn’t told you about",
+        "authors": [
+            {
+                "id": "carola-nitz",
+                "name": "Carola Nitz"
+            }
+        ],
+        "conference": {
+            "conferenceMetaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "conferenceEdition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    }
 ]

@@ -1,10 +1,209 @@
 [
     {
-        "id": "swiftconf-2018-a-better-mvc",
-        "name": "A Better MVC",
+        "id": "appbuilders_2019_how-to-tame-core-animation",
+        "name": "How to Tame Core Animation",
+        "authors": [
+            {
+                "id": "kristaps-grinbergs",
+                "name": "Kristaps Grinbergs"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
         "source": {
             "type": "youtube",
-            "value": "https://www.youtube.com"
+            "value": ""
         }
     },
+    {
+        "id": "appbuilders_2019_onion-like-ios-architecture-solution",
+        "name": "Onion-like iOS Architecture Solution",
+        "authors": [
+            {
+                "id": "aleksandar-vacic",
+                "name": "Aleksandar Vacić"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2019_protocol-witnesses",
+        "name": "Protocol Witnesses",
+        "authors": [
+            {
+                "id": "brandon-williams",
+                "name": "Brandon Williams"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2019_ship-it-safe",
+        "name": "Ship it Safe",
+        "authors": [
+            {
+                "id": "guilherme-rambo",
+                "name": "Guilherme Rambo"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2019_sharing-code-between-ios-android-apps",
+        "name": "Sharing Code Between iOS and Android Apps",
+        "authors": [
+            {
+                "id": "marco-zimmermann",
+                "name": "Marco Zimmermann"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2019_growth-for-juniros-and-seniors",
+        "name": "Supporting Each Other: Growth for Juniors and Seniors",
+        "authors": [
+            {
+                "id": "lara-martin",
+                "name": "Lara Martin"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2019_",
+        "name": "Size Doesn't Matter: Building an App for Every iOS Device",
+        "authors": [
+            {
+                "id": "",
+                "name": "Janina Kutyn"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2019_how-to-build-a-modern-ios-app",
+        "name": "How to Build a Modern iOS App",
+        "authors": [
+            {
+                "id": "",
+                "name": "Paul Hudson"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "appbuilders_2019_swift-generics-pats",
+        "name": "Swift Generics - The 5 Stages of PATs",
+        "authors": [
+            {
+                "id": "david-hart",
+                "name": "David Hart"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    }
 ]

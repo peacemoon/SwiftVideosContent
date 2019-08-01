@@ -169,44 +169,5 @@
             "type": "youtube",
             "value": "up3Njl8GWJ4"
         }
-    },
-    {
-        "id": "swift-and-fika_2018_",
-        "name": "",
-        "authorMetaData": {
-            "id": "",
-            "name": ""
-        },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
-        },
-        "source": {
-            "type": "youtube",
-            "value": ""
-        }
-    },
-    {
-        "id": "swift-and-fika_2018_",
-        "name": "",
-        "authorMetaData": {
-            "id": "",
-            "name": ""
-        },
-        "conferenceMetaData": {
-            "id": "swift-and-fika",
-            "name": "Swift & Fika"
-        },
-        "conferenceEdition": {
-            "year": 2018
-        },
-        "source": {
-            "type": "youtube",
-            "value": ""
-        }
-    },
-
+    }
 ]
