@@ -2,10 +2,13 @@
     {
         "id": "swift-and-fika_2018_adventures-in-api-design",
         "name": "Adventures In API Design",
-        "authors": {
-            "id": "daniel-kennett",
-            "name": "Daniel Kennett"
-        },
+        "authors": [
+            {
+                "id": "daniel-kennett",
+                "name": "Daniel Kennett"
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
@@ -23,10 +26,13 @@
     {
         "id": "swift-and-fika_2018_how-not-to-write-swift",
         "name": "How Not to Write Swift",
-        "authors": {
-            "id": "paul-hudson",
-            "name": "Paul Hudson"
-        },
+        "authors": [
+            {
+                "id": "paul-hudson",
+                "name": "Paul Hudson"
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
@@ -44,10 +50,13 @@
     {
         "id": "swift-and-fika_2018_navigating-machine-learning-landscape",
         "name": "Navigating the Machine Learning Landscape for Apple Devices",
-        "authors": {
-            "id": "meghan-kane",
-            "name": "Meghan Kane"
-        },
+        "authors": [
+            {
+                "id": "meghan-kane",
+                "name": "Meghan Kane"
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
@@ -65,10 +74,13 @@
     {
         "id": "swift-and-fika_2018_lost-art-system-design",
         "name": "The Lost Art of System Design",
-        "authors": {
-            "id": "john-sundell",
-            "name": "John Sundell"
-        },
+        "authors": [
+            {
+                "id": "john-sundell",
+                "name": "John Sundell"
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
@@ -86,10 +98,13 @@
     {
         "id": "swift-and-fika_2018_open-source-swift",
         "name": "Open Source & Swift",
-        "authors": {
-            "id": "roy-marmelstein",
-            "name": "Roy Marmelstein"
-        },
+        "authors": [
+            {
+                "id": "roy-marmelstein",
+                "name": "Roy Marmelstein"
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
@@ -107,10 +122,13 @@
     {
         "id": "swift-and-fika_2018_race-performance-standard-ios-elements-tech",
         "name": "The Amazing Race; Performance of Standard iOS Elements & Tech",
-        "authors": {
-            "id": "janina-kutyn",
-            "name": "Janina Kutyn"
-        },
+        "authors": [
+            {
+                "id": "janina-kutyn",
+                "name": "Janina Kutyn"
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
@@ -128,10 +146,13 @@
     {
         "id": "swift-and-fika_2018_bespoke-artisanal-swift-static-analysis",
         "name": "Bespoke Artisanal Swift Static Analysis",
-        "authors": {
-            "id": "jp-simard",
-            "name": "JP Simard"
-        },
+        "authors": [
+            {
+                "id": "jp-simard",
+                "name": "JP Simard"
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
@@ -149,10 +170,13 @@
     {
         "id": "swift-and-fika_2018_practical-structure-dependency-injectioin",
         "name": "Practical Structure to Configure Dependency Injection in Swift",
-        "authors": {
-            "id": "",
-            "name": ""
-        },
+        "authors": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
@@ -170,10 +194,13 @@
     {
         "id": "swift-and-fika_2018_use-cryptography-do-not-learn-it",
         "name": "Use Cryptography; Don't Learn It",
-        "authors": {
-            "id": "anastasiia-vixentael",
-            "name": "Anastasiia Vixentael"
-        },
+        "authors": [
+            {
+                "id": "anastasiia-vixentael",
+                "name": "Anastasiia Vixentael"
+            }
+        ]
+        ,
         "conference": {
             "metaData": {
                 "id": "swift-and-fika",
