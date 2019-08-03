@@ -1,1 +1,34 @@
-Hello World
+[
+    {
+        "id": "apple-talks",
+        "name": "Apple Talks"
+    },
+    {
+        "id": "janina-kutyn",
+        "name": "Kutyn"
+    },
+    {
+        "id": "anita-singh",
+        "name": "Anita Singh"
+    },
+    {
+        "id": "jonas-schmid",
+        "name": "Jonas Schmid"
+    },
+    {
+        "id": "fernando-cejas",
+        "name": "Fernando Cejas"
+    },
+    {
+        "id": "adam-gask",
+        "name": "Adam Gask"
+    },
+    {
+        "id": "adam-bell",
+        "name": "Adam Bell"
+    },
+    {
+        "id": "adrian-kosmaczewski",
+        "name": "Adrian Kosmaczewski"
+    }
+]
