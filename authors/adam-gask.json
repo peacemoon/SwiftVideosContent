@@ -1,0 +1,12 @@
+{
+    "metaData": {
+        "id": "adam-gask",
+        "name": "Adam Gask"
+    },
+    "resources": [
+        {
+            "type": "homepage",
+            "value": "https://www.google.com"
+        }
+    ]
+}
