@@ -1,0 +1,12 @@
+{
+    "metaData": {
+        "id": "john-sundell",
+        "name": "John Sundell"
+    },
+    "resources": [
+        {
+            "type": "homepage",
+            "value": "https://www.swiftbysundell.com/"
+        }
+    ]
+}
