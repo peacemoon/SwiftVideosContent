@@ -1,0 +1,347 @@
+[
+    {
+        "id": "frenchkit_2018_the-next-700-devices",
+        "name": "The Next 700 Devices",
+        "authors": [
+            {
+                "id": "chris-eidhof",
+                "name": "Chris Eidhof"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "OLDHgg0uh6A"
+        }
+    },
+    {
+        "id": "frenchkit_2018_building-a-compiler-in-swift",
+        "name": "Building a Compiler in Swift",
+        "authors": [
+            {
+                "id": "nick-lockwood",
+                "name": "Nick Lockwood"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "frenchkit_2018_dpendency-injection-patterns",
+        "name": "Dependency Injection Patterns for iOS Apps",
+        "authors": [
+            {
+                "id": "yoichi-tagaya",
+                "name": "Yoichi Tagaya"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "frenchkit_2018_answering-the-existential-question",
+        "name": "Answering the Existential Question",
+        "authors": [
+            {
+                "id": "sam-giddins",
+                "name": "Sam Giddins"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "s5M_d8xyAJ4"
+        }
+    },
+    {
+        "id": "frenchkit_2018_the-lost-art-of-system-design",
+        "name": "The Lost Art of System Design",
+        "authors": [
+            {
+                "id": "john-sundell",
+                "name": "John Sundell"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "bAokeFxW2fo"
+        }
+    },
+    {
+        "id": "frenchkit_2018_product-management-for-independent-ios-developers",
+        "name": "Product Management for Independent iOS Developers",
+        "authors": [
+            {
+                "id": "dave-verwer",
+                "name": "Dave Verwer"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "K60NyiILVP0"
+        }
+    },
+    {
+        "id": "frenchkit_2018_brew-create",
+        "name": "Brew Create",
+        "authors": [
+            {
+                "id": "Max Howell",
+                "name": "Max Howell"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "WMMPRS58n-o"
+        }
+    },
+    {
+        "id": "frenchkit_2018_improving-your-developer-experience-with-opensource-swift",
+        "name": "Improving Your Developper Experience With Open-Source Swift",
+        "authors": [
+            {
+                "id": "dimitri-dupuis-latour",
+                "name": "Dimitri Dupuis-Latour"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "olS5w9fBxog"
+        }
+    },
+    {
+        "id": "frenchkit_2018_the-underestimated-power-of-keyPaths",
+        "name": "The Underestimated Power of KeyPaths",
+        "authors": [
+            {
+                "id": "vincent-pradeilles",
+                "name": "Vincent Pradeilles"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "jpAT5DoSUgw"
+        }
+    },
+    {
+        "id": "frenchkit_2018_automating-your-api-client-library",
+        "name": "Automating your API Client Library",
+        "authors": [
+            {
+                "id": "jeffrey-macko",
+                "name": "Jeffrey Macko"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "BpF5lXGT4MM"
+        }
+    },
+    {
+        "id": "frenchkit_2018_tracking-concepts-zalando-app",
+        "name": "Tracking Concepts in the Zalando App",
+        "authors": [
+            {
+                "id": "kateryna-gridina",
+                "name": "Kateryna Gridina"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "SaUOykx2HYo"
+        }
+    },
+    {
+        "id": "frenchkit_2018_swift-strings-seven-ways",
+        "name": "Swift Strings Seven Ways",
+        "authors": [
+            {
+                "id": "mattt",
+                "name": "Mattt"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "linHwUqeagU"
+        }
+    },
+    {
+        "id": "frenchkit_2018_sharing-swift-writing-code-that-scales",
+        "name": "Sharing Swift: writing code that scales",
+        "authors": [
+            {
+                "id": "florent-pillet",
+                "name": "Florent Pillet"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "1G63BKeNfjA"
+        }
+    },
+    {
+        "id": "frenchkit_2018_going-prod-with-server-side-swift",
+        "name": "Going Prod with Server-Side Swift",
+        "authors": [
+            {
+                "id": "pim-stolk",
+                "name": "Pim Stolk"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "tRakjsKwdg4"
+        }
+    },
+    {
+        "id": "frenchkit_2018_from-research-laboratories-to-mass-production-lines-for-apple",
+        "name": "ELDIM: From Research Laboratories to Mass Production lines for Apple",
+        "authors": [
+            {
+                "id": "vincent-leroux",
+                "name": "Vincent Leroux"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "3IJDvf6DfOY"
+        }
+    }
+]
