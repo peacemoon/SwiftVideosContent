@@ -343,5 +343,74 @@
             "type": "youtube",
             "value": "3IJDvf6DfOY"
         }
+    },
+    {
+        "id": "frenchkit_2018_why-an-investment-in-tooling-pays-dividends",
+        "name": "Why an Investment in Tooling Pays Dividends",
+        "authors": [
+            {
+                "id": "andy-bennett",
+                "name": "Andy Bennett"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "cXfZhy4fCUE"
+        }
+    },
+    {
+        "id": "frenchkit_2018_image-classification-car-rental-damage-report",
+        "name": "Image classification in real world: Car rental damage report",
+        "authors": [
+            {
+                "id": "mathieu-hausherr",
+                "name": "Mathieu Hausherr"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "uwqY0_Zm4HE"
+        }
+    },
+    {
+        "id": "frenchkit_2018_safe-injection",
+        "name": "Safe Injection",
+        "authors": [
+            {
+                "id": "jean-christophe-pastant",
+                "name": "Jean-Christophe Pastant"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "frenchkit",
+                "name": "FrenchKit"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "uwqY0_Zm4HE"
+        }
     }
 ]
