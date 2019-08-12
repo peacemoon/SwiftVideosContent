@@ -1,0 +1,393 @@
+[
+    {
+        "id": "uikonf_2019_a11y-oop-adding-new-accessibility-features-to-not-so-new-apps",
+        "name": "A11y-oop Adding new Accessibility Features to not-so-new Apps",
+        "authors": [
+            {
+                "id": "alaina-kafkes",
+                "name": "Alaina Kafkes"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "298NWlzb8WU"
+        }
+    },
+    {
+        "id": "uikonf_2019_rolling-your-own-network-stack",
+        "name": "Rolling your own Network Stack",
+        "authors": [
+            {
+                "id": "glenna-buford",
+                "name": "Glenna Buford"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "D_4OMSn_YYs"
+        }
+    },
+    {
+        "id": "uikonf_2019_muse-prototype-challenges",
+        "name": "Muse Prototype Challenges",
+        "authors": [
+            {
+                "id": "julia-roggatz",
+                "name": "Julia Roggatz"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "A_fe2c6IUUo"
+        }
+    },
+    {
+        "id": "uikonf_2019_what-to-expect-when-you-are-templating",
+        "name": "What to expect when you are templating?",
+        "authors": [
+            {
+                "id": "kate-castellano",
+                "name": "Kate Castellano"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "_Dom_Fn87C0"
+        }
+    },
+    {
+        "id": "uikonf_2019_declarative-presentations",
+        "name": "Declarative Presentations",
+        "authors": [
+            {
+                "id": "nataliya-patsovska",
+                "name": "Nataliya Patsovska"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "WFtYn4g4Rqg"
+        }
+    },
+    {
+        "id": "uikonf_2019_from-heroic-leaders-to-high-performing-teams",
+        "name": "From Heroic Leaders To High Performing Teams",
+        "authors": [
+            {
+                "id": "füsun-wehrmann",
+                "name": "Füsun Wehrmann"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "2KsbaibzB04"
+        }
+    },
+    {
+        "id": "uikonf_2019_advanced-colors-in-ios",
+        "name": "Advanced Colors in iOS",
+        "authors": [
+            {
+                "id": "neha-kulkarni",
+                "name": "Neha Kulkarni"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "r67wKzRViio"
+        }
+    },
+    {
+        "id": "uikonf_2019_swift-to-hack-hardware",
+        "name": "Swift to Hack Hardware",
+        "authors": [
+            {
+                "id": "sally-shepard",
+                "name": "Sally Shepard"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "_LlNHWl7fqY"
+        }
+    },
+    {
+        "id": "uikonf_2019_promises-in-ios",
+        "name": "Promises in iOS",
+        "authors": [
+            {
+                "id": "anne-cahalan",
+                "name": "Anne Cahalan"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "TAzbEpR8imo"
+        }
+    },
+    {
+        "id": "uikonf_2019_mockolo-efficient-mock-generator-for-swift",
+        "name": "Mockolo: Efficient Mock Generator for Swift",
+        "authors": [
+            {
+                "id": "ellie-shin",
+                "name": "Ellie Shin"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Tkg8721fObU"
+        }
+    },
+    {
+        "id": "uikonf_2019_consistency-principle",
+        "name": "Consistency Principle",
+        "authors": [
+            {
+                "id": "julie-yaunches",
+                "name": "Julie Yaunches"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "3HoCsq6ijWY"
+        }
+    },
+    {
+        "id": "uikonf_2019_inclusive-and-accessible-app-development",
+        "name": "Inclusive and Accessible App Development",
+        "authors": [
+            {
+                "id": "kaya-thomas",
+                "name": "Kaya Thomas"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "M7GOoZMMrnY"
+        }
+    },
+    {
+        "id": "uikonf_2019_internationalizing-your-app",
+        "name": "",
+        "authors": [
+            {
+                "id": "kristina-fox",
+                "name": "Kristina Fox"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "fF131-_8QjM"
+        }
+    },
+    {
+        "id": "uikonf_2019_mobile-me-complicated",
+        "name": "Mobile && Me == It's Complicated",
+        "authors": [
+            {
+                "id": "lea-marolt",
+                "name": "lea-marolt"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "cZnD6mpyNoo"
+        }
+    },
+    {
+        "id": "uikonf_2019_detangling-gesture-recognizers",
+        "name": "Detangling Gesture Recognizers",
+        "authors": [
+            {
+                "id": "shannon-hughes",
+                "name": "Shannon Hughes"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "yw1AVD_0_w8"
+        }
+    },
+    {
+        "id": "uikonf_2019_kotlin_native",
+        "name": "Kotlin/Native",
+        "authors": [
+            {
+                "id": "ellen-shapiro",
+                "name": "Ellen Shapiro "
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "dMm6zyW2i9I"
+        }
+    },
+    {
+        "id": "uikonf_2019_how-to-market-your-mobile-app",
+        "name": "How to Market Your Mobile App",
+        "authors": [
+            {
+                "id": "Lisa Dziuba",
+                "name": "Lisa Dziuba"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "uikonf",
+                "name": "UIKonf"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "MPrnLhpuUSc"
+        }
+    }
+]
