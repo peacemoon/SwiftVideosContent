@@ -1,0 +1,366 @@
+[
+    {
+        "id": "swift-heroes_2018_separation-of-concerns-refactoring-view-controllers",
+        "name": "Separation of concerns: Refactoring view controllers live",
+        "authors": [
+            {
+                "id": "paul-hudson",
+                "name": "Paul Hudson"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "hIaPdjS5GNo"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_speeding-up-as-an-ios-developer",
+        "name": "Speeding up as an iOS developer",
+        "authors": [
+            {
+                "id": "Antoine van der Lee ",
+                "name": "Antoine van der Lee "
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "0n1TMSonw2Q"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_debug-like-a-pro",
+        "name": "Debug like a Pro",
+        "authors": [
+            {
+                "id": "vadim-drobinin",
+                "name": "Vadim Drobinin"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "RKEh640oFPM"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_advanced-swift-optics",
+        "name": "Advanced Swift Optics",
+        "authors": [
+            {
+                "id": "elviro-rocca",
+                "name": "Elviro Rocca"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "ki2WSw2WXV4"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_react-native-and-swift",
+        "name": "React Native & Swift: best friends forever",
+        "authors": [
+            {
+                "id": "marco-de-nittis",
+                "name": "Marco De Nittis"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "YfmYM-F0nXQ"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_graphql-for-mobile-developers",
+        "name": "GraphQL for mobile developers",
+        "authors": [
+            {
+                "id": "daniel-leivers",
+                "name": "Daniel Leivers"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "4DIvKPzj28s"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_two-years-of-ui-testing",
+        "name": "Two years of UI Testing",
+        "authors": [
+            {
+                "id": "tomas-camin",
+                "name": "Tomas Camin"
+            },
+            {
+                "id": "francesco-bigagnoli",
+                "name": "Francesco Bigagnoli"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "kO2XwAd9RaA"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_getting-started-with-server-side-swift-and-vapor",
+        "name": "Getting started with Server-Side Swift and Vapor",
+        "authors": [
+            {
+                "id": "tim-condon",
+                "name": "Tim Condon"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "ReuJImJffI8"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_rxswift-for-ui",
+        "name": "RxSwift for UI",
+        "authors": [
+            {
+                "id": "stefano-mondino",
+                "name": "Stefano Mondino"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "mLXfpg0h_HU"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_the-importance-of-privacy",
+        "name": "The importance of privacy",
+        "authors": [
+            {
+                "id": "carrasco-molina",
+                "name": "Carrasco Molina"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "ByAHg4u6EzM"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_designing-better-app-icons",
+        "name": "Designing Better App Icons",
+        "authors": [
+            {
+                "id": "michael-flarup",
+                "name": "Michael Flarup"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "nqK1ROWEiJk"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_demystifying-ml-in-ios",
+        "name": "Demystifying ML in iOS",
+        "authors": [
+            {
+                "id": "sanfilippo",
+                "name": "sanfilippo"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "swift-heroes_2018_",
+        "name": "",
+        "authors": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "swift-heroes_2018_",
+        "name": "",
+        "authors": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "swift-heroes_2018_",
+        "name": "",
+        "authors": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+]
