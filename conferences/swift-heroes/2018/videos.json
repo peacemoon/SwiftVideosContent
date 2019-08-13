@@ -224,8 +224,8 @@
         "name": "The importance of privacy",
         "authors": [
             {
-                "id": "carrasco-molina",
-                "name": "Carrasco Molina"
+                "id": "manuel-carrasco-molina",
+                "name": "Manuel Carrasco Molina"
             }
         ]
         ,
@@ -272,8 +272,8 @@
         "name": "Demystifying ML in iOS",
         "authors": [
             {
-                "id": "sanfilippo",
-                "name": "sanfilippo"
+                "id": "calogero-sanfilippo",
+                "name": "Calogero Sanfilippo"
             }
         ]
         ,
@@ -292,12 +292,36 @@
         }
     },
     {
-        "id": "swift-heroes_2018_",
-        "name": "",
+        "id": "swift-heroes_2018_siri-shortcuts",
+        "name": "Siri Shortcuts",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "ellen-shapiro",
+                "name": "Ellen Shapiro"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-heroes",
+                "name": "Swift Heroes"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "PT8qeL4eHSg"
+        }
+    },
+    {
+        "id": "swift-heroes_2018_hammer-nail",
+        "name": "If all you have is a hammer, everything looks like a nail",
+        "authors": [
+            {
+                "id": "rikke-koblauch",
+                "name": "Rikke Koblauch"
             }
         ]
         ,
@@ -316,12 +340,12 @@
         }
     },
     {
-        "id": "swift-heroes_2018_",
-        "name": "",
+        "id": "swift-heroes_2018_keynote",
+        "name": "Keynote",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "Krzysztof Zablocki",
+                "name": "Krzysztof Zablocki"
             }
         ]
         ,
@@ -336,31 +360,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "kyOtj16k_lQ"
         }
-    },
-    {
-        "id": "swift-heroes_2018_",
-        "name": "",
-        "authors": [
-            {
-                "id": "",
-                "name": ""
-            }
-        ]
-        ,
-        "conference": {
-            "metaData": {
-                "id": "swift-heroes",
-                "name": "Swift Heroes"
-            },
-            "edition": {
-                "year": 2018
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": ""
-        }
-    },
+    }
 ]
