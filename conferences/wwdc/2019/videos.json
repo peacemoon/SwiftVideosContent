@@ -1725,8 +1725,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_debugging-in-xcode-11",
+        "name": "Debugging in Xcode 11",
         "authors": [
             {
                 "id": "apple",
@@ -1748,8 +1748,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_testing-in-xcode",
+        "name": "Testing in Xcode",
         "authors": [
             {
                 "id": "apple",
@@ -1771,8 +1771,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_developing-a-great-profiling-experience",
+        "name": "Developing a Great Profiling Experience",
         "authors": [
             {
                 "id": "apple",
@@ -1794,8 +1794,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_modern-swift-api-design",
+        "name": "Modern Swift API Design",
         "authors": [
             {
                 "id": "apple",
@@ -1817,8 +1817,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_binary-Frameworks-in-swift",
+        "name": "Binary Frameworks in Swift",
         "authors": [
             {
                 "id": "apple",
@@ -1840,8 +1840,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_improving-battery-life-and-performance",
+        "name": "Improving Battery Life and Performance",
         "authors": [
             {
                 "id": "apple",
