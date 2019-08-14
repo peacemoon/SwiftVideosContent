@@ -1863,8 +1863,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_getting-the-most-out-of-simulator",
+        "name": "Getting the Most Out of Simulator",
         "authors": [
             {
                 "id": "apple",
@@ -1886,8 +1886,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019-optimizing-storage-in-your-app",
+        "name": "Optimizing Storage in Your App",
         "authors": [
             {
                 "id": "apple",
@@ -1909,8 +1909,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_drawing-classification-and-one-shot-object-detection-in-turi-create",
+        "name": "Drawing Classification and One-Shot Object Detection in Turi Create",
         "authors": [
             {
                 "id": "apple",
@@ -1932,8 +1932,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_modeling-in-custom-instruments",
+        "name": "Modeling in Custom Instruments",
         "authors": [
             {
                 "id": "apple",
@@ -1955,8 +1955,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_designing-for-adverse-network-and-temperature-conditions",
+        "name": "Designing for Adverse Network and Temperature Conditions",
         "authors": [
             {
                 "id": "apple",
