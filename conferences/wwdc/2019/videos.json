@@ -644,8 +644,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_font-management-and-text-scaling",
+        "name": "Font Management and Text Scaling",
         "authors": [
             {
                 "id": "apple",
@@ -667,8 +667,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_creating-great-apps-using-core-ml-and-arkit",
+        "name": "Creating Great Apps Using Core ML and ARKit",
         "authors": [
             {
                 "id": "apple",
@@ -690,8 +690,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_making-apps-with-core-data",
+        "name": "Making Apps with Core Data",
         "authors": [
             {
                 "id": "apple",
@@ -713,8 +713,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_integrating-swiftui",
+        "name": "Integrating SwiftUI",
         "authors": [
             {
                 "id": "apple",
@@ -736,8 +736,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-natural-language-framework",
+        "name": "Advances in Natural Language Framework",
         "authors": [
             {
                 "id": "apple",
@@ -759,8 +759,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_mastering-xcode-previews",
+        "name": "Mastering Xcode Previews",
         "authors": [
             {
                 "id": "apple",
@@ -782,8 +782,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_text-recognition-in-vision-framework",
+        "name": "Text Recognition in Vision Framework",
         "authors": [
             {
                 "id": "apple",
@@ -805,8 +805,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_taking-ipad-apps-for-mac-to-the-next-level",
+        "name": "Taking iPad Apps for Mac to the Next Level",
         "authors": [
             {
                 "id": "apple",
@@ -828,8 +828,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-mapKit-and-mapKit-js",
+        "name": "What’s New in MapKit and MapKit JS",
         "authors": [
             {
                 "id": "apple",
@@ -851,8 +851,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_building-custom-views-with-swiftui",
+        "name": "Building Custom Views with SwiftUI",
         "authors": [
             {
                 "id": "apple",
@@ -874,8 +874,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_accessibility-in-swiftui",
+        "name": "Accessibility in SwiftUI",
         "authors": [
             {
                 "id": "apple",
@@ -897,8 +897,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_great-developer-habits",
+        "name": "Great Developer Habits",
         "authors": [
             {
                 "id": "apple",
@@ -920,8 +920,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_swiftui-on-all-devices",
+        "name": "SwiftUI On All Devices",
         "authors": [
             {
                 "id": "apple",
@@ -943,8 +943,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_adding-indoor-maps-to-your-app-and-website",
+        "name": "Adding Indoor Maps to your App and Website",
         "authors": [
             {
                 "id": "apple",
@@ -966,8 +966,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_integrating-with-siri-event-suggestions",
+        "name": "Integrating with Siri Event Suggestions",
         "authors": [
             {
                 "id": "apple",
@@ -989,8 +989,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_visual-design-and-accessibility",
+        "name": "Visual Design and Accessibility",
         "authors": [
             {
                 "id": "apple",
@@ -1012,8 +1012,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-the-indoor-maps-program",
+        "name": "Introducing the Indoor Maps Program",
         "authors": [
             {
                 "id": "apple",
@@ -1035,8 +1035,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_window-management-in-your-multitasking-app",
+        "name": "Window Management in Your Multitasking App",
         "authors": [
             {
                 "id": "apple",
@@ -1058,8 +1058,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-classKit",
+        "name": "What’s New in ClassKit",
         "authors": [
             {
                 "id": "apple",
@@ -1081,8 +1081,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_creating-an-accessible-reading-experience",
+        "name": "Creating an Accessible Reading Experience",
         "authors": [
             {
                 "id": "apple",
@@ -1104,8 +1104,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-multi-camera-capture-for-ios",
+        "name": "Introducing Multi-Camera Capture for iOS",
         "authors": [
             {
                 "id": "apple",
@@ -1127,8 +1127,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_making-apps-more-accessible-with-custom-actions",
+        "name": "Making Apps More Accessible With Custom Actions",
         "authors": [
             {
                 "id": "apple",
@@ -1150,8 +1150,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_extended-runtime-for-watchos-apps",
+        "name": "Extended Runtime for watchOS Apps",
         "authors": [
             {
                 "id": "apple",
@@ -1173,8 +1173,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-carplay-systems",
+        "name": "Advances in CarPlay Systems",
         "authors": [
             {
                 "id": "apple",
@@ -1196,8 +1196,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_exploring-tinted-graphic-complications",
+        "name": "Exploring Tinted Graphic Complications",
         "authors": [
             {
                 "id": "apple",
@@ -1219,8 +1219,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_writing-great-accessibility-labels",
+        "name": "Writing Great Accessibility Labels",
         "authors": [
             {
                 "id": "apple",
@@ -1242,8 +1242,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-speech-recognition",
+        "name": "Advances in Speech Recognition",
         "authors": [
             {
                 "id": "apple",
@@ -1265,8 +1265,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_accessibility-inspector",
+        "name": "Accessibility Inspector",
         "authors": [
             {
                 "id": "apple",
@@ -1288,8 +1288,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_architecting-your-app-for-multiple-windows",
+        "name": "Architecting Your App for Multiple Windows",
         "authors": [
             {
                 "id": "apple",
@@ -1311,8 +1311,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_targeting-content-with-multiple-windows",
+        "name": "Targeting Content with Multiple Windows",
         "authors": [
             {
                 "id": "apple",
@@ -1334,8 +1334,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-photo-segmentation-mattes",
+        "name": "Introducing Photo Segmentation Mattes",
         "authors": [
             {
                 "id": "apple",
@@ -1357,8 +1357,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_large-content-viewer",
+        "name": "Large Content Viewer- Ensuring Readability for Everyone",
         "authors": [
             {
                 "id": "apple",
@@ -1380,8 +1380,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_embedding-and-sharing-visually-rich-links",
+        "name": "Embedding and Sharing Visually Rich Links",
         "authors": [
             {
                 "id": "apple",
@@ -1403,8 +1403,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-app-store-connect",
+        "name": "What's New in App Store Connect",
         "authors": [
             {
                 "id": "apple",
@@ -1426,8 +1426,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_in-app-purchases-and-using-server-to-server-notifications",
+        "name": "In-App-Purchases and Using Server-to-Server Notifications",
         "authors": [
             {
                 "id": "apple",
@@ -1449,8 +1449,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-managing-apple-devices",
+        "name": "What’s New in Managing Apple Devices",
         "authors": [
             {
                 "id": "apple",
@@ -1472,8 +1472,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_app-distribution–from-ad-hoc-to-enterprise",
+        "name": "App Distribution – From Ad-hoc to Enterprise",
         "authors": [
             {
                 "id": "apple",
@@ -1495,8 +1495,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_subscription-offers-best-practices",
+        "name": "Subscription Offers Best Practices",
         "authors": [
             {
                 "id": "apple",
@@ -1518,8 +1518,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-xcode-11",
+        "name": "What's New in Xcode 11",
         "authors": [
             {
                 "id": "apple",
@@ -1541,8 +1541,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-swift",
+        "name": "What's New in Swift",
         "authors": [
             {
                 "id": "apple",
@@ -1564,8 +1564,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_creating-great Localized Experiences with Xcode 11",
+        "name": "Creating Great Localized Experiences with Xcode 11",
         "authors": [
             {
                 "id": "apple",
@@ -1587,8 +1587,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_getting-started-with-xcode",
+        "name": "Getting Started with Xcode",
         "authors": [
             {
                 "id": "apple",
@@ -1610,8 +1610,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_swift-playgrounds-3",
+        "name": "Swift Playgrounds 3",
         "authors": [
             {
                 "id": "apple",
@@ -1633,8 +1633,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_adopting-swift-packages-in-xcode",
+        "name": "Adopting Swift Packages in Xcode",
         "authors": [
             {
                 "id": "apple",
@@ -1656,8 +1656,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-clang-and-llvm",
+        "name": "What's New in Clang and LLVM",
         "authors": [
             {
                 "id": "apple",
@@ -1679,8 +1679,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_creating-swift-packages",
+        "name": "Creating Swift Packages",
         "authors": [
             {
                 "id": "apple",
@@ -1702,8 +1702,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_getting-started-with-instruments",
+        "name": "Getting Started with Instruments",
         "authors": [
             {
                 "id": "apple",
