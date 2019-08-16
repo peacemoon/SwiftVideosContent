@@ -2,16 +2,20 @@
     "metaData": {
         "id": "wwdc_2019_keynote",
         "name": "Keynote",
-        "authorMetaData": {
-            "id": "apple",
-            "name": "Apple"
-        },
-        "conferenceMetaData": {
-            "id": "wwdc",
-            "name": "WWDC"
-        },
-        "conferenceEdition": {
-            "year": 2019
+        "authors": [
+            {
+                "id": "apple",
+                "name": "Apple"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "wwdc",
+                "name": "WWDC"
+            },
+            "edition": {
+                "year": 2019
+            }
         },
         "source": {
             "type": "wwdc",

@@ -1978,8 +1978,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_optimizing-app-launch",
+        "name": "Optimizing App Launch",
         "authors": [
             {
                 "id": "apple",
@@ -2001,8 +2001,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_training-object-detection-models-in-create-ml",
+        "name": "Training Object Detection Models in Create ML",
         "authors": [
             {
                 "id": "apple",
@@ -2024,8 +2024,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_training-sound-classification-models-in-create-ml",
+        "name": "Training Sound Classification Models in Create ML",
         "authors": [
             {
                 "id": "apple",
@@ -2047,8 +2047,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_building-activity-classification-models-in-create-ml",
+        "name": "Building Activity Classification Models in Create ML",
         "authors": [
             {
                 "id": "apple",
@@ -2070,8 +2070,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_training-recommendation-models-in-create-ml",
+        "name": "Training Recommendation Models in Create ML",
         "authors": [
             {
                 "id": "apple",
@@ -2093,8 +2093,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_training-text-classifiers-in-create-ml",
+        "name": "Training Text Classifiers in Create ML",
         "authors": [
             {
                 "id": "apple",
@@ -2116,8 +2116,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_lldb-beyond-po",
+        "name": "LLDB: Beyond po",
         "authors": [
             {
                 "id": "apple",
@@ -2139,8 +2139,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-the-create-ml-app",
+        "name": "Introducing the Create ML App",
         "authors": [
             {
                 "id": "apple",
@@ -2162,8 +2162,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_reaching_the_big_screen_with_airplay_2",
+        "name": "Reaching the Big Screen with AirPlay 2",
         "authors": [
             {
                 "id": "apple",
@@ -2185,8 +2185,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-low-latency-hls",
+        "name": "Introducing Low-Latency HLS",
         "authors": [
             {
                 "id": "apple",
@@ -2208,8 +2208,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_delivering-intuitive-media-playback-with-avkit",
+        "name": "Delivering Intuitive Media Playback with AVKit",
         "authors": [
             {
                 "id": "apple",
@@ -2231,8 +2231,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_hevc-video-with-alpha",
+        "name": "HEVC Video with Alpha",
         "authors": [
             {
                 "id": "apple",
@@ -2254,8 +2254,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_hls-authoring-for-airplay-2-video",
+        "name": "HLS Authoring for AirPlay 2 Video",
         "authors": [
             {
                 "id": "apple",
@@ -2277,8 +2277,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_modernizing-your-audio-app",
+        "name": "Modernizing Your Audio App",
         "authors": [
             {
                 "id": "apple",
@@ -2300,8 +2300,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_auv3-extensions-user-presets",
+        "name": "AUv3 Extensions User Presets",
         "authors": [
             {
                 "id": "apple",
@@ -2323,8 +2323,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-avaudioengine",
+        "name": "What's New in AVAudioEngine",
         "authors": [
             {
                 "id": "apple",
@@ -2346,8 +2346,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_supporting-dark-mode-in-your-web-content",
+        "name": "Supporting Dark Mode in Your Web Content",
         "authors": [
             {
                 "id": "apple",
@@ -2369,8 +2369,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_understanding-cpu-usage-with-web-inspector",
+        "name": "Understanding CPU Usage with Web Inspector",
         "authors": [
             {
                 "id": "apple",
@@ -2392,8 +2392,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_auditing-web-content-with-web-inspector",
+        "name": "Auditing Web Content with Web Inspector",
         "authors": [
             {
                 "id": "apple",
@@ -2415,8 +2415,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-safari",
+        "name": "What's New in Safari",
         "authors": [
             {
                 "id": "apple",
@@ -2438,8 +2438,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-authentication",
+        "name": "What's New in Authentication",
         "authors": [
             {
                 "id": "apple",
@@ -2461,8 +2461,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-for-web-developers",
+        "name": "What's New for Web Developers",
         "authors": [
             {
                 "id": "apple",
@@ -2484,8 +2484,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-core-haptics",
+        "name": "Introducing Core Haptics",
         "authors": [
             {
                 "id": "apple",
@@ -2507,8 +2507,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_modern-rendering-with-metal",
+        "name": "Modern Rendering with Metal",
         "authors": [
             {
                 "id": "apple",
@@ -2530,8 +2530,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_working-with-usd",
+        "name": "Working with USD",
         "authors": [
             {
                 "id": "apple",
@@ -2553,8 +2553,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-realitykit-and-reality-composer",
+        "name": "Introducing RealityKit and Reality Composer",
         "authors": [
             {
                 "id": "apple",
@@ -2576,8 +2576,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-arkit-3",
+        "name": "Introducing ARKit 3",
         "authors": [
             {
                 "id": "apple",
@@ -2599,8 +2599,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_building-apps-with-realitykit",
+        "name": "Building Apps with RealityKit",
         "authors": [
             {
                 "id": "apple",
@@ -2622,8 +2622,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_delivering-optimized-metal-apps-and-games",
+        "name": "Delivering Optimized Metal Apps and Games",
         "authors": [
             {
                 "id": "apple",
@@ -2645,8 +2645,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_bringing-people-into-ar",
+        "name": "Bringing People into AR",
         "authors": [
             {
                 "id": "apple",
@@ -2668,8 +2668,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_metal-for-pro-apps",
+        "name": "Metal for Pro Apps",
         "authors": [
             {
                 "id": "apple",
@@ -2691,8 +2691,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_building-ar-experiences-with-reality-composer",
+        "name": "Building AR Experiences with Reality Composer",
         "authors": [
             {
                 "id": "apple",
@@ -2714,8 +2714,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_building-collaborative-ar-experiences",
+        "name": "Building Collaborative AR Experiences",
         "authors": [
             {
                 "id": "apple",
@@ -2737,8 +2737,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_bringing-opengl-apps-to-metal",
+        "name": "Bringing OpenGL Apps to Metal",
         "authors": [
             {
                 "id": "apple",
@@ -2760,8 +2760,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-ar-quick-look",
+        "name": "Advances in AR Quick Look",
         "authors": [
             {
                 "id": "apple",
@@ -2783,8 +2783,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_ray-tracing-with-metal",
+        "name": "Ray Tracing with Metal",
         "authors": [
             {
                 "id": "apple",
@@ -2806,8 +2806,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_metal-for-machine-learning",
+        "name": "Metal for Machine Learning",
         "authors": [
             {
                 "id": "apple",
@@ -2829,8 +2829,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_game-center-player-identifiers",
+        "name": "Game Center Player Identifiers",
         "authors": [
             {
                 "id": "apple",
@@ -2852,8 +2852,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_supporting-new-game-controllers",
+        "name": "Supporting New Game Controllers",
         "authors": [
             {
                 "id": "apple",
@@ -2875,8 +2875,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-macos-security",
+        "name": "Advances in macOS Security",
         "authors": [
             {
                 "id": "apple",
@@ -2898,8 +2898,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_system-extensions-and-driverkit",
+        "name": "System Extensions and DriverKit",
         "authors": [
             {
                 "id": "apple",
@@ -2921,8 +2921,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_all-about-notarization",
+        "name": "All About Notarization",
         "authors": [
             {
                 "id": "apple",
@@ -2944,8 +2944,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_core-ml-3-framework",
+        "name": "Core ML 3 Framework",
         "authors": [
             {
                 "id": "apple",
@@ -2967,8 +2967,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-core-location",
+        "name": "What's New in Core Location",
         "authors": [
             {
                 "id": "apple",
@@ -2990,8 +2990,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-sign-in-with-apple",
+        "name": "Introducing Sign In with Apple",
         "authors": [
             {
                 "id": "apple",
@@ -3013,8 +3013,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-app-background-execution",
+        "name": "Advances in App Background Execution",
         "authors": [
             {
                 "id": "apple",
@@ -3036,8 +3036,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_designing-or-privacy",
+        "name": "Designing for Privacy",
         "authors": [
             {
                 "id": "apple",
@@ -3059,8 +3059,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_cryptography-and-your-apps",
+        "name": "Cryptography and Your Apps",
         "authors": [
             {
                 "id": "apple",
@@ -3082,8 +3082,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-apple-file-systems",
+        "name": "What's New in Apple File Systems",
         "authors": [
             {
                 "id": "apple",
@@ -3105,8 +3105,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-networking-part-1",
+        "name": "Advances in Networking, Part 1",
         "authors": [
             {
                 "id": "apple",
@@ -3128,8 +3128,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-networking-part-2",
+        "name": "Advances in Networking, Part 2",
         "authors": [
             {
                 "id": "apple",
@@ -3151,8 +3151,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_network-extensions-for-the-modern-mac",
+        "name": "Network Extensions for the Modern Mac",
         "authors": [
             {
                 "id": "apple",
@@ -3174,8 +3174,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_core-nfc-enhancements",
+        "name": "Core NFC Enhancements",
         "authors": [
             {
                 "id": "apple",
@@ -3197,8 +3197,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_streaming-audio-on-watchos-6",
+        "name": "Streaming Audio on watchOS 6",
         "authors": [
             {
                 "id": "apple",
@@ -3220,8 +3220,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-universal-links",
+        "name": "What's New in Universal Links",
         "authors": [
             {
                 "id": "apple",
@@ -3243,8 +3243,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-accelerate-for-swift",
+        "name": "Introducing Accelerate for Swift",
         "authors": [
             {
                 "id": "apple",
@@ -3266,8 +3266,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-file-management-and-quick-look",
+        "name": "What’s New in File Management and Quick Look",
         "authors": [
             {
                 "id": "apple",
@@ -3289,8 +3289,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-safari-extensions",
+        "name": "What's New in Safari Extensions",
         "authors": [
             {
                 "id": "apple",
@@ -3312,8 +3312,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_combine-in-practice",
+        "name": "Combine in Practice",
         "authors": [
             {
                 "id": "apple",
@@ -3335,8 +3335,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_introducing-combine",
+        "name": "Introducing Combine",
         "authors": [
             {
                 "id": "apple",
@@ -3358,8 +3358,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_advances-in-foundation",
+        "name": "Advances in Foundation",
         "authors": [
             {
                 "id": "apple",
@@ -3381,8 +3381,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_designing-award-winning-apps-and-games",
+        "name": "Designing Award Winning Apps and Games",
         "authors": [
             {
                 "id": "apple",
@@ -3404,8 +3404,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_designing-great-ml-experiences",
+        "name": "Designing Great ML Experiences",
         "authors": [
             {
                 "id": "apple",
@@ -3427,8 +3427,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_building-great-shortcuts",
+        "name": "Building Great Shortcuts",
         "authors": [
             {
                 "id": "apple",
@@ -3450,8 +3450,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_designing-great-shortcuts",
+        "name": "Designing Great Shortcuts",
         "authors": [
             {
                 "id": "apple",
@@ -3473,8 +3473,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-ios-design",
+        "name": "What's New in iOS Design",
         "authors": [
             {
                 "id": "apple",
@@ -3496,8 +3496,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_designing-ipad-ppps-for-mac",
+        "name": "Designing iPad Apps for Mac",
         "authors": [
             {
                 "id": "apple",
@@ -3519,8 +3519,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_designing-audio-haptic-experiences",
+        "name": "Designing Audio-Haptic Experiences",
         "authors": [
             {
                 "id": "apple",
@@ -3542,8 +3542,8 @@
         }
     },
     {
-        "id": "wwdc_2019_",
-        "name": "",
+        "id": "wwdc_2019_what-new-in-core-bluetooth",
+        "name": "What's New in Core Bluetooth",
         "authors": [
             {
                 "id": "apple",
