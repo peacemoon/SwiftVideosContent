@@ -1,11 +1,11 @@
 [
     {
-        "id": "appbuilders_2017_swift-scripting-in-practice",
-        "name": "Swift scripting in practice",
+        "id": "appbuilders_2019_how-to-tame-core-animation",
+        "name": "How to Tame Core Animation",
         "authors": [
             {
-                "id": "john-sundell",
-                "name": "John Sundell"
+                "id": "kristaps-grinbergs",
+                "name": "Kristaps Grinbergs"
             }
         ],
         "conference": {
@@ -14,21 +14,21 @@
                 "name": "App Builders"
             },
             "edition": {
-                "year": 2017
+                "year": 2019
             }
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "kiRaJhA_L30"
         }
     },
     {
-        "id": "appbuilders_2017_scaling-open-source-communities",
-        "name": "Scaling open source communities",
+        "id": "appbuilders_2019_onion-like-ios-architecture-solution",
+        "name": "Onion-like iOS Architecture Solution",
         "authors": [
             {
-                "id": "felix-krause",
-                "name": "Felix Krause"
+                "id": "aleksandar-vacic",
+                "name": "Aleksandar Vacić"
             }
         ],
         "conference": {
@@ -37,21 +37,21 @@
                 "name": "App Builders"
             },
             "edition": {
-                "year": 2017
+                "year": 2019
             }
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "kD8dRvEQ5II"
         }
     },
     {
-        "id": "appbuilders_2017_silver-bullets-in-swift",
-        "name": "Silver Bullets in Swift",
+        "id": "appbuilders_2019_protocol-witnesses",
+        "name": "Protocol Witnesses",
         "authors": [
             {
-                "id": "roy-marmelstein",
-                "name": "Roy Marmelstein"
+                "id": "brandon-williams",
+                "name": "Brandon Williams"
             }
         ],
         "conference": {
@@ -60,21 +60,21 @@
                 "name": "App Builders"
             },
             "edition": {
-                "year": 2017
+                "year": 2019
             }
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "3BVkbWXcFS4"
         }
     },
     {
-        "id": "appbuilders_2017_getting-started-machine-learning",
-        "name": "Getting Started with Machine Learning in your iOS apps",
+        "id": "appbuilders_2019_ship-it-safe",
+        "name": "Ship it Safe",
         "authors": [
             {
-                "id": "meghan-kane",
-                "name": "Meghan Kane"
+                "id": "guilherme-rambo",
+                "name": "Guilherme Rambo"
             }
         ],
         "conference": {
@@ -83,12 +83,173 @@
                 "name": "App Builders"
             },
             "edition": {
-                "year": 2017
+                "year": 2019
             }
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "MIX0MReEb_M"
+        }
+    },
+    {
+        "id": "appbuilders_2019_sharing-code-between-ios-android-apps",
+        "name": "Sharing Code Between iOS and Android Apps",
+        "authors": [
+            {
+                "id": "marco-zimmermann",
+                "name": "Marco Zimmermann"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "FQvAr0-vmOk"
+        }
+    },
+    {
+        "id": "appbuilders_2019_growth-for-juniros-and-seniors",
+        "name": "Supporting Each Other: Growth for Juniors and Seniors",
+        "authors": [
+            {
+                "id": "lara-martin",
+                "name": "Lara Martin"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "YpCe3ujlDDo"
+        }
+    },
+    {
+        "id": "appbuilders_2019_building-app-for-every-ios-device",
+        "name": "Size Doesn't Matter: Building an App for Every iOS Device",
+        "authors": [
+            {
+                "id": "janina-kutyn",
+                "name": "Janina Kutyn"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "2sImrtlesfQ"
+        }
+    },
+    {
+        "id": "appbuilders_2019_use-c-objectivec-libraries-in-swift-project",
+        "name": "Use C, C++ and Objective C Libraries in a Swift Project",
+        "authors": [
+            {
+                "id": "cecilia-humlelu",
+                "name": "Cecilia Humlelu"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "jcNxtM_yTfk"
+        }
+    },
+    {
+        "id": "appbuilders_2019_swift-ide",
+        "name": "That Swift IDE",
+        "authors": [
+            {
+                "id": "marcin-krzyzanowski",
+                "name": "Marcin Krzyzanowski"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "PCJ0nCq16Ec"
+        }
+    },
+    {
+        "id": "appbuilders_2019_kotlin-for-swift-developers",
+        "name": "Kotlin for Swift Developers",
+        "authors": [
+            {
+                "id": "jonas-schmid",
+                "name": "Jonas Schmid"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "j0g68PqQufQ"
+        }
+    },
+    {
+        "id": "appbuilders_2019_from-problem-to-solution",
+        "name": "From Problem to Solution",
+        "authors": [
+            {
+                "id": "soroush-khanlou",
+                "name": "Soroush Khanlou"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "N90_q8Uzc4A"
         }
     }
 ]
