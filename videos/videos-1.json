@@ -1,5 +1,97 @@
 [
     {
+        "id": "appbuilders_2017_swift-scripting-in-practice",
+        "name": "Swift scripting in practice",
+        "authors": [
+            {
+                "id": "john-sundell",
+                "name": "John Sundell"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2017
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "PFdh5G3BJqM"
+        }
+    },
+    {
+        "id": "appbuilders_2017_scaling-open-source-communities",
+        "name": "Scaling open source communities",
+        "authors": [
+            {
+                "id": "felix-krause",
+                "name": "Felix Krause"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2017
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "WGru3rytGMk"
+        }
+    },
+    {
+        "id": "appbuilders_2017_silver-bullets-in-swift",
+        "name": "Silver Bullets in Swift",
+        "authors": [
+            {
+                "id": "roy-marmelstein",
+                "name": "Roy Marmelstein"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2017
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "zUABfqFOb2Q"
+        }
+    },
+    {
+        "id": "appbuilders_2017_getting-started-machine-learning",
+        "name": "Getting Started with Machine Learning in your iOS apps",
+        "authors": [
+            {
+                "id": "meghan-kane",
+                "name": "Meghan Kane"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "app-builders",
+                "name": "App Builders"
+            },
+            "edition": {
+                "year": 2017
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "lw7hrRLkbGM"
+        }
+    },
+    {
         "id": "appbuilders_2019_how-to-tame-core-animation",
         "name": "How to Tame Core Animation",
         "authors": [
