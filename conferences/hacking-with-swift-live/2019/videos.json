@@ -1,0 +1,186 @@
+[
+    {
+        "id": "hacking-with-swift-live_2019_high-performance-systems-in-swift",
+        "name": "High Performance Systems in Swift",
+        "authors": [
+            {
+                "id": "cory-benfield",
+                "name": "Cory Benfield"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "hacking-with-swift-live",
+                "name": "Hacking with Swift: Live"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "WCUj581Dpec"
+        }
+    },
+    {
+        "id": "hacking-with-swift-live_2019_thinking-outside-the-box-with-swift-package-manager",
+        "name": "Thinking Outside the Box with Swift Package Manager",
+        "authors": [
+            {
+                "id": "ellen-shapiro",
+                "name": "Ellen Shapiro"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "hacking-with-swift-live",
+                "name": "Hacking with Swift: Live"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "CqNPk9gSAaE"
+        }
+    },
+    {
+        "id": "hacking-with-swift-live_2019_the-swift-behind-swiftui",
+        "name": "The Swift Behind SwiftUI",
+        "authors": [
+            {
+                "id": "daniel-steinberg",
+                "name": "Daniel Steinberg"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "hacking-with-swift-live",
+                "name": "Hacking with Swift: Live"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "2eK8voQeokk"
+        }
+    },
+    {
+        "id": "hacking-with-swift-live_2019_auditing-your-app-with-the-accessibility-inspector",
+        "name": "Auditing your App with the Accessibility Inspector",
+        "authors": [
+            {
+                "id": "kilo-loco",
+                "name": "Kilo Loco"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "hacking-with-swift-live",
+                "name": "Hacking with Swift: Live"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "sqGSYGHJMVM"
+        }
+    },
+    {
+        "id": "hacking-with-swift-live_2019_extending-uicolor-to-support-custom-styling",
+        "name": "Extending UIColor to Support Custom Styling",
+        "authors": [
+            {
+                "id": "kelly-hutchison",
+                "name": "Kelly Hutchison"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "hacking-with-swift-live",
+                "name": "Hacking with Swift: Live"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "NV1AcxVIA2k"
+        }
+    },
+    {
+        "id": "hacking-with-swift-live_2019_swift-hardware-hacking",
+        "name": "Swift Hardware Hacking",
+        "authors": [
+            {
+                "id": "sally-shepard",
+                "name": "Sally Shepard"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "hacking-with-swift-live",
+                "name": "Hacking with Swift: Live"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "rNWWqtm-tTk"
+        }
+    },
+    {
+        "id": "hacking-with-swift-live_2019_an-illustrated-history-of-easter-eggs",
+        "name": "An Illustrated History of Easter Eggs",
+        "authors": [
+            {
+                "id": "james-thomson",
+                "name": "James Thomson"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "hacking-with-swift-live",
+                "name": "Hacking with Swift: Live"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "fAaqSr-yShc"
+        }
+    },
+    {
+        "id": "hacking-with-swift-live_2019_gentle-generics",
+        "name": "Gentle Generics",
+        "authors": [
+            {
+                "id": "john-sundell",
+                "name": "John Sundell"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "hacking-with-swift-live",
+                "name": "Hacking with Swift: Live"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "y4qFRLp_JNM"
+        }
+    }
+]
