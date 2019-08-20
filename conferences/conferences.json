@@ -22,5 +22,9 @@
     {
         "id": "swift-heroes",
         "name": "Swift Heroes"
+    },
+    {
+        "id": "hacking-with-swift-live",
+        "name": "Hacking with Swift: Live"
     }
 ]
