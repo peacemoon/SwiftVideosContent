@@ -28,11 +28,12 @@ public class VideosGenerator {
     // MARK: APIs
 
     public func generate() {
-        // Iterate through list of conferences
         do {
             let jsonDecoder = JSONDecoder()
+            // Iterate through list of conferences
             try Folder(path: baseConferencesPath).makeSubfolderSequence().forEach { conferenceFolder in
                 if conferenceFolder.isConferenceFolder {
+                    // Iterate through list of editions in this conference
                     conferenceFolder.makeSubfolderSequence().forEach { editionFolder in
                         if editionFolder.isConferenceEditionFolder {
                             do {
@@ -59,8 +60,9 @@ public class VideosGenerator {
         guard let videosString = videos.prettyPrintedString else {
             return
         }
+
         let videosFolder = try Folder(path: baseVideosPath)
-        
+
         let outputFile = try videosFolder.createFile(named: "videos-1.json")
         try outputFile.write(string: videosString)
 
