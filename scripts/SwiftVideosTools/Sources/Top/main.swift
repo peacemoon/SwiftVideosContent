@@ -1,7 +1,7 @@
 import Foundation
 import ColorizeSwift
 
-// swift run --package-path scripts/SwiftVideosTools/ .
+// swift run --package-path scripts/SwiftVideosTools/ /Users/atran/Desktop/Projects/ios/SwiftVideosContent
 
 let rootContentPath = "/Users/atran/Desktop/Projects/iOS/SwiftVideosContent/content"
 
