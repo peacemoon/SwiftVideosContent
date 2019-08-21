@@ -1,38 +1,362 @@
 [
-    {
-        "id": "apple-talks",
-        "name": "Apple Talks"
-    },
-    {
-        "id": "janina-kutyn",
-        "name": "Kutyn"
-    },
-    {
-        "id": "anita-singh",
-        "name": "Anita Singh"
-    },
-    {
-        "id": "jonas-schmid",
-        "name": "Jonas Schmid"
-    },
-    {
-        "id": "fernando-cejas",
-        "name": "Fernando Cejas"
-    },
-    {
-        "id": "adam-gask",
-        "name": "Adam Gask"
-    },
-    {
-        "id": "adam-bell",
-        "name": "Adam Bell"
-    },
-    {
-        "id": "adrian-kosmaczewski",
-        "name": "Adrian Kosmaczewski"
-    },
-    {
-        "id": "john-sundell",
-        "name": "John Sundell"
-    }
+  {
+    "id" : "john-sundell",
+    "name" : "John Sundell"
+  },
+  {
+    "id" : "felix-krause",
+    "name" : "Felix Krause"
+  },
+  {
+    "id" : "roy-marmelstein",
+    "name" : "Roy Marmelstein"
+  },
+  {
+    "id" : "meghan-kane",
+    "name" : "Meghan Kane"
+  },
+  {
+    "id" : "paul-hudson",
+    "name" : "Paul Hudson"
+  },
+  {
+    "id" : "david-hart",
+    "name" : "David Hart"
+  },
+  {
+    "id" : "adrian-kosmaczewski",
+    "name" : "Adrian Kosmaczewski"
+  },
+  {
+    "id" : "alexsander-akers",
+    "name" : "Alexsander Akers"
+  },
+  {
+    "id" : "sebastian-schmidt",
+    "name" : "Sebastian Schmidt"
+  },
+  {
+    "id" : "tobias-due-munk",
+    "name" : "Tobias Due Munk"
+  },
+  {
+    "id" : "matthias-tretter",
+    "name" : "Matthias Tretter"
+  },
+  {
+    "id" : "andreas-schlosser",
+    "name" : "Andreas Schlosser"
+  },
+  {
+    "id" : "vikram-kriplaney",
+    "name" : "Vikram Kriplaney"
+  },
+  {
+    "id" : "graham-lee",
+    "name" : "Graham Lee"
+  },
+  {
+    "id" : "dave-delong",
+    "name" : "Dave DeLong"
+  },
+  {
+    "id" : "krzysztof-zablocki",
+    "name" : "Krzysztof Zablocki"
+  },
+  {
+    "id" : "harlan-haskins",
+    "name" : "Harlan Haskins"
+  },
+  {
+    "id" : "",
+    "name" : "John Sundell"
+  },
+  {
+    "id" : "phillip-shoemaker",
+    "name" : "Phillip Shoemaker"
+  },
+  {
+    "id" : "carola-nitz",
+    "name" : "Carola Nitz"
+  },
+  {
+    "id" : "kristaps-grinbergs",
+    "name" : "Kristaps Grinbergs"
+  },
+  {
+    "id" : "aleksandar-vacic",
+    "name" : "Aleksandar Vacić"
+  },
+  {
+    "id" : "brandon-williams",
+    "name" : "Brandon Williams"
+  },
+  {
+    "id" : "guilherme-rambo",
+    "name" : "Guilherme Rambo"
+  },
+  {
+    "id" : "marco-zimmermann",
+    "name" : "Marco Zimmermann"
+  },
+  {
+    "id" : "lara-martin",
+    "name" : "Lara Martin"
+  },
+  {
+    "id" : "janina-kutyn",
+    "name" : "Janina Kutyn"
+  },
+  {
+    "id" : "cecilia-humlelu",
+    "name" : "Cecilia Humlelu"
+  },
+  {
+    "id" : "marcin-krzyzanowski",
+    "name" : "Marcin Krzyzanowski"
+  },
+  {
+    "id" : "jonas-schmid",
+    "name" : "Jonas Schmid"
+  },
+  {
+    "id" : "soroush-khanlou",
+    "name" : "Soroush Khanlou"
+  },
+  {
+    "id" : "chris-eidhof",
+    "name" : "Chris Eidhof"
+  },
+  {
+    "id" : "nick-lockwood",
+    "name" : "Nick Lockwood"
+  },
+  {
+    "id" : "yoichi-tagaya",
+    "name" : "Yoichi Tagaya"
+  },
+  {
+    "id" : "sam-giddins",
+    "name" : "Sam Giddins"
+  },
+  {
+    "id" : "dave-verwer",
+    "name" : "Dave Verwer"
+  },
+  {
+    "id" : "Max Howell",
+    "name" : "Max Howell"
+  },
+  {
+    "id" : "dimitri-dupuis-latour",
+    "name" : "Dimitri Dupuis-Latour"
+  },
+  {
+    "id" : "vincent-pradeilles",
+    "name" : "Vincent Pradeilles"
+  },
+  {
+    "id" : "jeffrey-macko",
+    "name" : "Jeffrey Macko"
+  },
+  {
+    "id" : "kateryna-gridina",
+    "name" : "Kateryna Gridina"
+  },
+  {
+    "id" : "mattt",
+    "name" : "Mattt"
+  },
+  {
+    "id" : "florent-pillet",
+    "name" : "Florent Pillet"
+  },
+  {
+    "id" : "pim-stolk",
+    "name" : "Pim Stolk"
+  },
+  {
+    "id" : "vincent-leroux",
+    "name" : "Vincent Leroux"
+  },
+  {
+    "id" : "andy-bennett",
+    "name" : "Andy Bennett"
+  },
+  {
+    "id" : "mathieu-hausherr",
+    "name" : "Mathieu Hausherr"
+  },
+  {
+    "id" : "jean-christophe-pastant",
+    "name" : "Jean-Christophe Pastant"
+  },
+  {
+    "id" : "cory-benfield",
+    "name" : "Cory Benfield"
+  },
+  {
+    "id" : "ellen-shapiro",
+    "name" : "Ellen Shapiro"
+  },
+  {
+    "id" : "daniel-steinberg",
+    "name" : "Daniel Steinberg"
+  },
+  {
+    "id" : "kilo-loco",
+    "name" : "Kilo Loco"
+  },
+  {
+    "id" : "kelly-hutchison",
+    "name" : "Kelly Hutchison"
+  },
+  {
+    "id" : "sally-shepard",
+    "name" : "Sally Shepard"
+  },
+  {
+    "id" : "james-thomson",
+    "name" : "James Thomson"
+  },
+  {
+    "id" : "daniel-kennett",
+    "name" : "Daniel Kennett"
+  },
+  {
+    "id" : "jp-simard",
+    "name" : "JP Simard"
+  },
+  {
+    "id" : "",
+    "name" : ""
+  },
+  {
+    "id" : "anastasiia-vixentael",
+    "name" : "Anastasiia Vixentael"
+  },
+  {
+    "id" : "Antoine van der Lee ",
+    "name" : "Antoine van der Lee "
+  },
+  {
+    "id" : "vadim-drobinin",
+    "name" : "Vadim Drobinin"
+  },
+  {
+    "id" : "elviro-rocca",
+    "name" : "Elviro Rocca"
+  },
+  {
+    "id" : "marco-de-nittis",
+    "name" : "Marco De Nittis"
+  },
+  {
+    "id" : "daniel-leivers",
+    "name" : "Daniel Leivers"
+  },
+  {
+    "id" : "tomas-camin",
+    "name" : "Tomas Camin"
+  },
+  {
+    "id" : "francesco-bigagnoli",
+    "name" : "Francesco Bigagnoli"
+  },
+  {
+    "id" : "tim-condon",
+    "name" : "Tim Condon"
+  },
+  {
+    "id" : "stefano-mondino",
+    "name" : "Stefano Mondino"
+  },
+  {
+    "id" : "manuel-carrasco-molina",
+    "name" : "Manuel Carrasco Molina"
+  },
+  {
+    "id" : "michael-flarup",
+    "name" : "Michael Flarup"
+  },
+  {
+    "id" : "calogero-sanfilippo",
+    "name" : "Calogero Sanfilippo"
+  },
+  {
+    "id" : "rikke-koblauch",
+    "name" : "Rikke Koblauch"
+  },
+  {
+    "id" : "Krzysztof Zablocki",
+    "name" : "Krzysztof Zablocki"
+  },
+  {
+    "id" : "alaina-kafkes",
+    "name" : "Alaina Kafkes"
+  },
+  {
+    "id" : "glenna-buford",
+    "name" : "Glenna Buford"
+  },
+  {
+    "id" : "julia-roggatz",
+    "name" : "Julia Roggatz"
+  },
+  {
+    "id" : "kate-castellano",
+    "name" : "Kate Castellano"
+  },
+  {
+    "id" : "nataliya-patsovska",
+    "name" : "Nataliya Patsovska"
+  },
+  {
+    "id" : "füsun-wehrmann",
+    "name" : "Füsun Wehrmann"
+  },
+  {
+    "id" : "neha-kulkarni",
+    "name" : "Neha Kulkarni"
+  },
+  {
+    "id" : "anne-cahalan",
+    "name" : "Anne Cahalan"
+  },
+  {
+    "id" : "ellie-shin",
+    "name" : "Ellie Shin"
+  },
+  {
+    "id" : "julie-yaunches",
+    "name" : "Julie Yaunches"
+  },
+  {
+    "id" : "kaya-thomas",
+    "name" : "Kaya Thomas"
+  },
+  {
+    "id" : "kristina-fox",
+    "name" : "Kristina Fox"
+  },
+  {
+    "id" : "lea-marolt",
+    "name" : "lea-marolt"
+  },
+  {
+    "id" : "shannon-hughes",
+    "name" : "Shannon Hughes"
+  },
+  {
+    "id" : "ellen-shapiro",
+    "name" : "Ellen Shapiro "
+  },
+  {
+    "id" : "Lisa Dziuba",
+    "name" : "Lisa Dziuba"
+  },
+  {
+    "id" : "apple",
+    "name" : "Apple"
+  }
 ]

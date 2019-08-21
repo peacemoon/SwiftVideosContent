@@ -1,347 +1,5848 @@
 [
-    {
-        "id": "appbuilders_2017_swift-scripting-in-practice",
-        "name": "Swift scripting in practice",
-        "authors": [
-            {
-                "id": "john-sundell",
-                "name": "John Sundell"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2017
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "PFdh5G3BJqM"
-        }
+  {
+    "id" : "appbuilders_2017_swift-scripting-in-practice",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2017
+      }
     },
-    {
-        "id": "appbuilders_2017_scaling-open-source-communities",
-        "name": "Scaling open source communities",
-        "authors": [
-            {
-                "id": "felix-krause",
-                "name": "Felix Krause"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2017
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "WGru3rytGMk"
-        }
+    "source" : {
+      "type" : "youtube",
+      "value" : "PFdh5G3BJqM"
     },
-    {
-        "id": "appbuilders_2017_silver-bullets-in-swift",
-        "name": "Silver Bullets in Swift",
-        "authors": [
-            {
-                "id": "roy-marmelstein",
-                "name": "Roy Marmelstein"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2017
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "zUABfqFOb2Q"
-        }
+    "name" : "Swift scripting in practice",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2017_scaling-open-source-communities",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2017
+      }
     },
-    {
-        "id": "appbuilders_2017_getting-started-machine-learning",
-        "name": "Getting Started with Machine Learning in your iOS apps",
-        "authors": [
-            {
-                "id": "meghan-kane",
-                "name": "Meghan Kane"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2017
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "lw7hrRLkbGM"
-        }
+    "source" : {
+      "type" : "youtube",
+      "value" : "WGru3rytGMk"
     },
-    {
-        "id": "appbuilders_2019_how-to-tame-core-animation",
-        "name": "How to Tame Core Animation",
-        "authors": [
-            {
-                "id": "kristaps-grinbergs",
-                "name": "Kristaps Grinbergs"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "kiRaJhA_L30"
-        }
+    "name" : "Scaling open source communities",
+    "authors" : [
+      {
+        "id" : "felix-krause",
+        "name" : "Felix Krause"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2017_silver-bullets-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2017
+      }
     },
-    {
-        "id": "appbuilders_2019_onion-like-ios-architecture-solution",
-        "name": "Onion-like iOS Architecture Solution",
-        "authors": [
-            {
-                "id": "aleksandar-vacic",
-                "name": "Aleksandar Vacić"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "kD8dRvEQ5II"
-        }
+    "source" : {
+      "type" : "youtube",
+      "value" : "zUABfqFOb2Q"
     },
-    {
-        "id": "appbuilders_2019_protocol-witnesses",
-        "name": "Protocol Witnesses",
-        "authors": [
-            {
-                "id": "brandon-williams",
-                "name": "Brandon Williams"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "3BVkbWXcFS4"
-        }
+    "name" : "Silver Bullets in Swift",
+    "authors" : [
+      {
+        "id" : "roy-marmelstein",
+        "name" : "Roy Marmelstein"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2017_getting-started-machine-learning",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2017
+      }
     },
-    {
-        "id": "appbuilders_2019_ship-it-safe",
-        "name": "Ship it Safe",
-        "authors": [
-            {
-                "id": "guilherme-rambo",
-                "name": "Guilherme Rambo"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "MIX0MReEb_M"
-        }
+    "source" : {
+      "type" : "youtube",
+      "value" : "lw7hrRLkbGM"
     },
-    {
-        "id": "appbuilders_2019_sharing-code-between-ios-android-apps",
-        "name": "Sharing Code Between iOS and Android Apps",
-        "authors": [
-            {
-                "id": "marco-zimmermann",
-                "name": "Marco Zimmermann"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "FQvAr0-vmOk"
-        }
+    "name" : "Getting Started with Machine Learning in your iOS apps",
+    "authors" : [
+      {
+        "id" : "meghan-kane",
+        "name" : "Meghan Kane"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_how-to-build-a-modern-ios-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
     },
-    {
-        "id": "appbuilders_2019_growth-for-juniros-and-seniors",
-        "name": "Supporting Each Other: Growth for Juniors and Seniors",
-        "authors": [
-            {
-                "id": "lara-martin",
-                "name": "Lara Martin"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "YpCe3ujlDDo"
-        }
+    "source" : {
+      "type" : "youtube",
+      "value" : "gmc5gwMNzBE"
     },
-    {
-        "id": "appbuilders_2019_building-app-for-every-ios-device",
-        "name": "Size Doesn't Matter: Building an App for Every iOS Device",
-        "authors": [
-            {
-                "id": "janina-kutyn",
-                "name": "Janina Kutyn"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "2sImrtlesfQ"
-        }
+    "name" : "How to Build a Modern iOS App: Wide color, 3D Touch, Spotlight, and more",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_swift-generics-pats",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
     },
-    {
-        "id": "appbuilders_2019_use-c-objectivec-libraries-in-swift-project",
-        "name": "Use C, C++ and Objective C Libraries in a Swift Project",
-        "authors": [
-            {
-                "id": "cecilia-humlelu",
-                "name": "Cecilia Humlelu"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "jcNxtM_yTfk"
-        }
+    "source" : {
+      "type" : "youtube",
+      "value" : "_CJXGCaA2_4"
     },
-    {
-        "id": "appbuilders_2019_swift-ide",
-        "name": "That Swift IDE",
-        "authors": [
-            {
-                "id": "marcin-krzyzanowski",
-                "name": "Marcin Krzyzanowski"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "PCJ0nCq16Ec"
-        }
+    "name" : "Swift Generics - The 5 Stages of PATs",
+    "authors" : [
+      {
+        "id" : "david-hart",
+        "name" : "David Hart"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_quest-for-better-world",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
     },
-    {
-        "id": "appbuilders_2019_kotlin-for-swift-developers",
-        "name": "Kotlin for Swift Developers",
-        "authors": [
-            {
-                "id": "jonas-schmid",
-                "name": "Jonas Schmid"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "j0g68PqQufQ"
-        }
+    "source" : {
+      "type" : "youtube",
+      "value" : "bncZlutcAfo"
     },
-    {
-        "id": "appbuilders_2019_from-problem-to-solution",
-        "name": "From Problem to Solution",
-        "authors": [
-            {
-                "id": "soroush-khanlou",
-                "name": "Soroush Khanlou"
-            }
-        ],
-        "conference": {
-            "metaData": {
-                "id": "app-builders",
-                "name": "App Builders"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "youtube",
-            "value": "N90_q8Uzc4A"
-        }
-    }
+    "name" : "A Quest for a Better World",
+    "authors" : [
+      {
+        "id" : "adrian-kosmaczewski",
+        "name" : "Adrian Kosmaczewski"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_ios-10-years-review",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "doe06IAphJs"
+    },
+    "name" : "iOS: 10 years in review",
+    "authors" : [
+      {
+        "id" : "alexsander-akers",
+        "name" : "Alexsander Akers"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_why-we-build-products",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "7-NUdnYkmdU"
+    },
+    "name" : "Why We Build Products",
+    "authors" : [
+      {
+        "id" : "sebastian-schmidt",
+        "name" : "Sebastian Schmidt"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_into-the-deep",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "SCOLRVVRDJk"
+    },
+    "name" : "Into the Deep – or what would 80s have done with depth sensing technology?",
+    "authors" : [
+      {
+        "id" : "tobias-due-munk",
+        "name" : "Tobias Due Munk"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_bootstrapping-machine-learning-training-process",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ugiPfm8ICZo"
+    },
+    "name" : "Bootstrapping the Machine Learning Training Process",
+    "authors" : [
+      {
+        "id" : "meghan-kane",
+        "name" : "Meghan Kane"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_swift-objectivec",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "c-LAJKqyBCI"
+    },
+    "name" : "Swift & Objective-C: The most adventurous mashup since Avengers: Infinity War",
+    "authors" : [
+      {
+        "id" : "matthias-tretter",
+        "name" : "Matthias Tretter"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_native-ios-app-sap",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "a-szgW-uXZ8"
+    },
+    "name" : "Native iOS Apps for the Enterprise with SAP",
+    "authors" : [
+      {
+        "id" : "andreas-schlosser",
+        "name" : "Andreas Schlosser"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_little-app-got-us-big-trouble",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kFdc1ahcRX4"
+    },
+    "name" : "The Little App that Got Us into Big Trouble",
+    "authors" : [
+      {
+        "id" : "vikram-kriplaney",
+        "name" : "Vikram Kriplaney"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_rethinking-object-oriented-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "6OQq2kE5wUY"
+    },
+    "name" : "Rethinking Object-Oriented Design",
+    "authors" : [
+      {
+        "id" : "graham-lee",
+        "name" : "Graham Lee"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_a-better-mvc",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "YWVzCd5FYbs"
+    },
+    "name" : "A Better MVC",
+    "authors" : [
+      {
+        "id" : "dave-delong",
+        "name" : "Dave DeLong"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_ios-application-architecture",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "PdkWjdKOqfo"
+    },
+    "name" : "iOS Application Architecture",
+    "authors" : [
+      {
+        "id" : "krzysztof-zablocki",
+        "name" : "Krzysztof Zablocki"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_becoming-an-effective-contributor-to-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "oGJKsp-pZPk"
+    },
+    "name" : "Becoming An Effective Contributor to Swift",
+    "authors" : [
+      {
+        "id" : "harlan-haskins",
+        "name" : "Harlan Haskins"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_sharing",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "_mQNwL8HkS0"
+    },
+    "name" : "Sharing",
+    "authors" : [
+      {
+        "id" : "",
+        "name" : "John Sundell"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_lessons-learned-from-app-store",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "tJeEuxn9mug"
+    },
+    "name" : "Lessons Learned from the App Store",
+    "authors" : [
+      {
+        "id" : "phillip-shoemaker",
+        "name" : "Phillip Shoemaker"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2018_advanced-debugging-techniques",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "LbAlIzxSO6M"
+    },
+    "name" : "Advanced Debugging Techniques your senior hasn’t told you about",
+    "authors" : [
+      {
+        "id" : "carola-nitz",
+        "name" : "Carola Nitz"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_how-to-tame-core-animation",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kiRaJhA_L30"
+    },
+    "name" : "How to Tame Core Animation",
+    "authors" : [
+      {
+        "id" : "kristaps-grinbergs",
+        "name" : "Kristaps Grinbergs"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_onion-like-ios-architecture-solution",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kD8dRvEQ5II"
+    },
+    "name" : "Onion-like iOS Architecture Solution",
+    "authors" : [
+      {
+        "id" : "aleksandar-vacic",
+        "name" : "Aleksandar Vacić"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_protocol-witnesses",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3BVkbWXcFS4"
+    },
+    "name" : "Protocol Witnesses",
+    "authors" : [
+      {
+        "id" : "brandon-williams",
+        "name" : "Brandon Williams"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_ship-it-safe",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "MIX0MReEb_M"
+    },
+    "name" : "Ship it Safe",
+    "authors" : [
+      {
+        "id" : "guilherme-rambo",
+        "name" : "Guilherme Rambo"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_sharing-code-between-ios-android-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "FQvAr0-vmOk"
+    },
+    "name" : "Sharing Code Between iOS and Android Apps",
+    "authors" : [
+      {
+        "id" : "marco-zimmermann",
+        "name" : "Marco Zimmermann"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_growth-for-juniros-and-seniors",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "YpCe3ujlDDo"
+    },
+    "name" : "Supporting Each Other: Growth for Juniors and Seniors",
+    "authors" : [
+      {
+        "id" : "lara-martin",
+        "name" : "Lara Martin"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_building-app-for-every-ios-device",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "2sImrtlesfQ"
+    },
+    "name" : "Size Doesn't Matter: Building an App for Every iOS Device",
+    "authors" : [
+      {
+        "id" : "janina-kutyn",
+        "name" : "Janina Kutyn"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_use-c-objectivec-libraries-in-swift-project",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jcNxtM_yTfk"
+    },
+    "name" : "Use C, C++ and Objective C Libraries in a Swift Project",
+    "authors" : [
+      {
+        "id" : "cecilia-humlelu",
+        "name" : "Cecilia Humlelu"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_swift-ide",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "PCJ0nCq16Ec"
+    },
+    "name" : "That Swift IDE",
+    "authors" : [
+      {
+        "id" : "marcin-krzyzanowski",
+        "name" : "Marcin Krzyzanowski"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_kotlin-for-swift-developers",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "j0g68PqQufQ"
+    },
+    "name" : "Kotlin for Swift Developers",
+    "authors" : [
+      {
+        "id" : "jonas-schmid",
+        "name" : "Jonas Schmid"
+      }
+    ]
+  },
+  {
+    "id" : "appbuilders_2019_from-problem-to-solution",
+    "conference" : {
+      "metaData" : {
+        "id" : "app-builders",
+        "name" : "App Builders"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "N90_q8Uzc4A"
+    },
+    "name" : "From Problem to Solution",
+    "authors" : [
+      {
+        "id" : "soroush-khanlou",
+        "name" : "Soroush Khanlou"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_the-next-700-devices",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "OLDHgg0uh6A"
+    },
+    "name" : "The Next 700 Devices",
+    "authors" : [
+      {
+        "id" : "chris-eidhof",
+        "name" : "Chris Eidhof"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_building-a-compiler-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : ""
+    },
+    "name" : "Building a Compiler in Swift",
+    "authors" : [
+      {
+        "id" : "nick-lockwood",
+        "name" : "Nick Lockwood"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_dpendency-injection-patterns",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : ""
+    },
+    "name" : "Dependency Injection Patterns for iOS Apps",
+    "authors" : [
+      {
+        "id" : "yoichi-tagaya",
+        "name" : "Yoichi Tagaya"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_answering-the-existential-question",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "s5M_d8xyAJ4"
+    },
+    "name" : "Answering the Existential Question",
+    "authors" : [
+      {
+        "id" : "sam-giddins",
+        "name" : "Sam Giddins"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_the-lost-art-of-system-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "bAokeFxW2fo"
+    },
+    "name" : "The Lost Art of System Design",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_product-management-for-independent-ios-developers",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "K60NyiILVP0"
+    },
+    "name" : "Product Management for Independent iOS Developers",
+    "authors" : [
+      {
+        "id" : "dave-verwer",
+        "name" : "Dave Verwer"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_brew-create",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "WMMPRS58n-o"
+    },
+    "name" : "Brew Create",
+    "authors" : [
+      {
+        "id" : "Max Howell",
+        "name" : "Max Howell"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_improving-your-developer-experience-with-opensource-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "olS5w9fBxog"
+    },
+    "name" : "Improving Your Developper Experience With Open-Source Swift",
+    "authors" : [
+      {
+        "id" : "dimitri-dupuis-latour",
+        "name" : "Dimitri Dupuis-Latour"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_the-underestimated-power-of-keyPaths",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jpAT5DoSUgw"
+    },
+    "name" : "The Underestimated Power of KeyPaths",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_automating-your-api-client-library",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "BpF5lXGT4MM"
+    },
+    "name" : "Automating your API Client Library",
+    "authors" : [
+      {
+        "id" : "jeffrey-macko",
+        "name" : "Jeffrey Macko"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_tracking-concepts-zalando-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "SaUOykx2HYo"
+    },
+    "name" : "Tracking Concepts in the Zalando App",
+    "authors" : [
+      {
+        "id" : "kateryna-gridina",
+        "name" : "Kateryna Gridina"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_swift-strings-seven-ways",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "linHwUqeagU"
+    },
+    "name" : "Swift Strings Seven Ways",
+    "authors" : [
+      {
+        "id" : "mattt",
+        "name" : "Mattt"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_sharing-swift-writing-code-that-scales",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1G63BKeNfjA"
+    },
+    "name" : "Sharing Swift: writing code that scales",
+    "authors" : [
+      {
+        "id" : "florent-pillet",
+        "name" : "Florent Pillet"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_going-prod-with-server-side-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "tRakjsKwdg4"
+    },
+    "name" : "Going Prod with Server-Side Swift",
+    "authors" : [
+      {
+        "id" : "pim-stolk",
+        "name" : "Pim Stolk"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_from-research-laboratories-to-mass-production-lines-for-apple",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3IJDvf6DfOY"
+    },
+    "name" : "ELDIM: From Research Laboratories to Mass Production lines for Apple",
+    "authors" : [
+      {
+        "id" : "vincent-leroux",
+        "name" : "Vincent Leroux"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_why-an-investment-in-tooling-pays-dividends",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "cXfZhy4fCUE"
+    },
+    "name" : "Why an Investment in Tooling Pays Dividends",
+    "authors" : [
+      {
+        "id" : "andy-bennett",
+        "name" : "Andy Bennett"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_image-classification-car-rental-damage-report",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "uwqY0_Zm4HE"
+    },
+    "name" : "Image classification in real world: Car rental damage report",
+    "authors" : [
+      {
+        "id" : "mathieu-hausherr",
+        "name" : "Mathieu Hausherr"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2018_safe-injection",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "uwqY0_Zm4HE"
+    },
+    "name" : "Safe Injection",
+    "authors" : [
+      {
+        "id" : "jean-christophe-pastant",
+        "name" : "Jean-Christophe Pastant"
+      }
+    ]
+  },
+  {
+    "id" : "hacking-with-swift-live_2019_high-performance-systems-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "hacking-with-swift-live",
+        "name" : "Hacking with Swift: Live"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "WCUj581Dpec"
+    },
+    "name" : "High Performance Systems in Swift",
+    "authors" : [
+      {
+        "id" : "cory-benfield",
+        "name" : "Cory Benfield"
+      }
+    ]
+  },
+  {
+    "id" : "hacking-with-swift-live_2019_thinking-outside-the-box-with-swift-package-manager",
+    "conference" : {
+      "metaData" : {
+        "id" : "hacking-with-swift-live",
+        "name" : "Hacking with Swift: Live"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CqNPk9gSAaE"
+    },
+    "name" : "Thinking Outside the Box with Swift Package Manager",
+    "authors" : [
+      {
+        "id" : "ellen-shapiro",
+        "name" : "Ellen Shapiro"
+      }
+    ]
+  },
+  {
+    "id" : "hacking-with-swift-live_2019_the-swift-behind-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "hacking-with-swift-live",
+        "name" : "Hacking with Swift: Live"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "2eK8voQeokk"
+    },
+    "name" : "The Swift Behind SwiftUI",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ]
+  },
+  {
+    "id" : "hacking-with-swift-live_2019_auditing-your-app-with-the-accessibility-inspector",
+    "conference" : {
+      "metaData" : {
+        "id" : "hacking-with-swift-live",
+        "name" : "Hacking with Swift: Live"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "sqGSYGHJMVM"
+    },
+    "name" : "Auditing your App with the Accessibility Inspector",
+    "authors" : [
+      {
+        "id" : "kilo-loco",
+        "name" : "Kilo Loco"
+      }
+    ]
+  },
+  {
+    "id" : "hacking-with-swift-live_2019_extending-uicolor-to-support-custom-styling",
+    "conference" : {
+      "metaData" : {
+        "id" : "hacking-with-swift-live",
+        "name" : "Hacking with Swift: Live"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "NV1AcxVIA2k"
+    },
+    "name" : "Extending UIColor to Support Custom Styling",
+    "authors" : [
+      {
+        "id" : "kelly-hutchison",
+        "name" : "Kelly Hutchison"
+      }
+    ]
+  },
+  {
+    "id" : "hacking-with-swift-live_2019_swift-hardware-hacking",
+    "conference" : {
+      "metaData" : {
+        "id" : "hacking-with-swift-live",
+        "name" : "Hacking with Swift: Live"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "rNWWqtm-tTk"
+    },
+    "name" : "Swift Hardware Hacking",
+    "authors" : [
+      {
+        "id" : "sally-shepard",
+        "name" : "Sally Shepard"
+      }
+    ]
+  },
+  {
+    "id" : "hacking-with-swift-live_2019_an-illustrated-history-of-easter-eggs",
+    "conference" : {
+      "metaData" : {
+        "id" : "hacking-with-swift-live",
+        "name" : "Hacking with Swift: Live"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fAaqSr-yShc"
+    },
+    "name" : "An Illustrated History of Easter Eggs",
+    "authors" : [
+      {
+        "id" : "james-thomson",
+        "name" : "James Thomson"
+      }
+    ]
+  },
+  {
+    "id" : "hacking-with-swift-live_2019_gentle-generics",
+    "conference" : {
+      "metaData" : {
+        "id" : "hacking-with-swift-live",
+        "name" : "Hacking with Swift: Live"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "y4qFRLp_JNM"
+    },
+    "name" : "Gentle Generics",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_adventures-in-api-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "f4ihOnvU68Y"
+    },
+    "name" : "Adventures In API Design",
+    "authors" : [
+      {
+        "id" : "daniel-kennett",
+        "name" : "Daniel Kennett"
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_how-not-to-write-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "x5Q6InjzoBk"
+    },
+    "name" : "How Not to Write Swift",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_navigating-machine-learning-landscape",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nc8e7KT8gvg"
+    },
+    "name" : "Navigating the Machine Learning Landscape for Apple Devices",
+    "authors" : [
+      {
+        "id" : "meghan-kane",
+        "name" : "Meghan Kane"
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_lost-art-system-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ujOc3a7Hav0"
+    },
+    "name" : "The Lost Art of System Design",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_open-source-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Fj6iFCZ800U"
+    },
+    "name" : "Open Source & Swift",
+    "authors" : [
+      {
+        "id" : "roy-marmelstein",
+        "name" : "Roy Marmelstein"
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_race-performance-standard-ios-elements-tech",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "8Gms7S6Ut1U"
+    },
+    "name" : "The Amazing Race; Performance of Standard iOS Elements & Tech",
+    "authors" : [
+      {
+        "id" : "janina-kutyn",
+        "name" : "Janina Kutyn"
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_bespoke-artisanal-swift-static-analysis",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "iUGnWgs_YHE"
+    },
+    "name" : "Bespoke Artisanal Swift Static Analysis",
+    "authors" : [
+      {
+        "id" : "jp-simard",
+        "name" : "JP Simard"
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_practical-structure-dependency-injectioin",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "h6iikGy7dk0"
+    },
+    "name" : "Practical Structure to Configure Dependency Injection in Swift",
+    "authors" : [
+      {
+        "id" : "",
+        "name" : ""
+      }
+    ]
+  },
+  {
+    "id" : "swift-and-fika_2018_use-cryptography-do-not-learn-it",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-and-fika",
+        "name" : "Swift & Fika"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "up3Njl8GWJ4"
+    },
+    "name" : "Use Cryptography; Don't Learn It",
+    "authors" : [
+      {
+        "id" : "anastasiia-vixentael",
+        "name" : "Anastasiia Vixentael"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_separation-of-concerns-refactoring-view-controllers",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "hIaPdjS5GNo"
+    },
+    "name" : "Separation of concerns: Refactoring view controllers live",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_speeding-up-as-an-ios-developer",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "0n1TMSonw2Q"
+    },
+    "name" : "Speeding up as an iOS developer",
+    "authors" : [
+      {
+        "id" : "Antoine van der Lee ",
+        "name" : "Antoine van der Lee "
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_debug-like-a-pro",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "RKEh640oFPM"
+    },
+    "name" : "Debug like a Pro",
+    "authors" : [
+      {
+        "id" : "vadim-drobinin",
+        "name" : "Vadim Drobinin"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_advanced-swift-optics",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ki2WSw2WXV4"
+    },
+    "name" : "Advanced Swift Optics",
+    "authors" : [
+      {
+        "id" : "elviro-rocca",
+        "name" : "Elviro Rocca"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_react-native-and-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "YfmYM-F0nXQ"
+    },
+    "name" : "React Native & Swift: best friends forever",
+    "authors" : [
+      {
+        "id" : "marco-de-nittis",
+        "name" : "Marco De Nittis"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_graphql-for-mobile-developers",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "4DIvKPzj28s"
+    },
+    "name" : "GraphQL for mobile developers",
+    "authors" : [
+      {
+        "id" : "daniel-leivers",
+        "name" : "Daniel Leivers"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_two-years-of-ui-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kO2XwAd9RaA"
+    },
+    "name" : "Two years of UI Testing",
+    "authors" : [
+      {
+        "id" : "tomas-camin",
+        "name" : "Tomas Camin"
+      },
+      {
+        "id" : "francesco-bigagnoli",
+        "name" : "Francesco Bigagnoli"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_getting-started-with-server-side-swift-and-vapor",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ReuJImJffI8"
+    },
+    "name" : "Getting started with Server-Side Swift and Vapor",
+    "authors" : [
+      {
+        "id" : "tim-condon",
+        "name" : "Tim Condon"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_rxswift-for-ui",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "mLXfpg0h_HU"
+    },
+    "name" : "RxSwift for UI",
+    "authors" : [
+      {
+        "id" : "stefano-mondino",
+        "name" : "Stefano Mondino"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_the-importance-of-privacy",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ByAHg4u6EzM"
+    },
+    "name" : "The importance of privacy",
+    "authors" : [
+      {
+        "id" : "manuel-carrasco-molina",
+        "name" : "Manuel Carrasco Molina"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_designing-better-app-icons",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nqK1ROWEiJk"
+    },
+    "name" : "Designing Better App Icons",
+    "authors" : [
+      {
+        "id" : "michael-flarup",
+        "name" : "Michael Flarup"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_demystifying-ml-in-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : ""
+    },
+    "name" : "Demystifying ML in iOS",
+    "authors" : [
+      {
+        "id" : "calogero-sanfilippo",
+        "name" : "Calogero Sanfilippo"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_siri-shortcuts",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "PT8qeL4eHSg"
+    },
+    "name" : "Siri Shortcuts",
+    "authors" : [
+      {
+        "id" : "ellen-shapiro",
+        "name" : "Ellen Shapiro"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_hammer-nail",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : ""
+    },
+    "name" : "If all you have is a hammer, everything looks like a nail",
+    "authors" : [
+      {
+        "id" : "rikke-koblauch",
+        "name" : "Rikke Koblauch"
+      }
+    ]
+  },
+  {
+    "id" : "swift-heroes_2018_keynote",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kyOtj16k_lQ"
+    },
+    "name" : "Keynote",
+    "authors" : [
+      {
+        "id" : "Krzysztof Zablocki",
+        "name" : "Krzysztof Zablocki"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_a11y-oop-adding-new-accessibility-features-to-not-so-new-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "298NWlzb8WU"
+    },
+    "name" : "A11y-oop Adding new Accessibility Features to not-so-new Apps",
+    "authors" : [
+      {
+        "id" : "alaina-kafkes",
+        "name" : "Alaina Kafkes"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_rolling-your-own-network-stack",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "D_4OMSn_YYs"
+    },
+    "name" : "Rolling your own Network Stack",
+    "authors" : [
+      {
+        "id" : "glenna-buford",
+        "name" : "Glenna Buford"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_muse-prototype-challenges",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "A_fe2c6IUUo"
+    },
+    "name" : "Muse Prototype Challenges",
+    "authors" : [
+      {
+        "id" : "julia-roggatz",
+        "name" : "Julia Roggatz"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_what-to-expect-when-you-are-templating",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "_Dom_Fn87C0"
+    },
+    "name" : "What to expect when you are templating?",
+    "authors" : [
+      {
+        "id" : "kate-castellano",
+        "name" : "Kate Castellano"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_declarative-presentations",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "WFtYn4g4Rqg"
+    },
+    "name" : "Declarative Presentations",
+    "authors" : [
+      {
+        "id" : "nataliya-patsovska",
+        "name" : "Nataliya Patsovska"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_from-heroic-leaders-to-high-performing-teams",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "2KsbaibzB04"
+    },
+    "name" : "From Heroic Leaders To High Performing Teams",
+    "authors" : [
+      {
+        "id" : "füsun-wehrmann",
+        "name" : "Füsun Wehrmann"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_advanced-colors-in-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "r67wKzRViio"
+    },
+    "name" : "Advanced Colors in iOS",
+    "authors" : [
+      {
+        "id" : "neha-kulkarni",
+        "name" : "Neha Kulkarni"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_swift-to-hack-hardware",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "_LlNHWl7fqY"
+    },
+    "name" : "Swift to Hack Hardware",
+    "authors" : [
+      {
+        "id" : "sally-shepard",
+        "name" : "Sally Shepard"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_promises-in-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "TAzbEpR8imo"
+    },
+    "name" : "Promises in iOS",
+    "authors" : [
+      {
+        "id" : "anne-cahalan",
+        "name" : "Anne Cahalan"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_mockolo-efficient-mock-generator-for-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Tkg8721fObU"
+    },
+    "name" : "Mockolo: Efficient Mock Generator for Swift",
+    "authors" : [
+      {
+        "id" : "ellie-shin",
+        "name" : "Ellie Shin"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_consistency-principle",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3HoCsq6ijWY"
+    },
+    "name" : "Consistency Principle",
+    "authors" : [
+      {
+        "id" : "julie-yaunches",
+        "name" : "Julie Yaunches"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_inclusive-and-accessible-app-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "M7GOoZMMrnY"
+    },
+    "name" : "Inclusive and Accessible App Development",
+    "authors" : [
+      {
+        "id" : "kaya-thomas",
+        "name" : "Kaya Thomas"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_internationalizing-your-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fF131-_8QjM"
+    },
+    "name" : "",
+    "authors" : [
+      {
+        "id" : "kristina-fox",
+        "name" : "Kristina Fox"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_mobile-me-complicated",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "cZnD6mpyNoo"
+    },
+    "name" : "Mobile && Me == It's Complicated",
+    "authors" : [
+      {
+        "id" : "lea-marolt",
+        "name" : "lea-marolt"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_detangling-gesture-recognizers",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "yw1AVD_0_w8"
+    },
+    "name" : "Detangling Gesture Recognizers",
+    "authors" : [
+      {
+        "id" : "shannon-hughes",
+        "name" : "Shannon Hughes"
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_kotlin_native",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "dMm6zyW2i9I"
+    },
+    "name" : "Kotlin\/Native",
+    "authors" : [
+      {
+        "id" : "ellen-shapiro",
+        "name" : "Ellen Shapiro "
+      }
+    ]
+  },
+  {
+    "id" : "uikonf_2019_how-to-market-your-mobile-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "MPrnLhpuUSc"
+    },
+    "name" : "How to Market Your Mobile App",
+    "authors" : [
+      {
+        "id" : "Lisa Dziuba",
+        "name" : "Lisa Dziuba"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_keynote",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/p-events-delivery.akamaized.net\/3004qzusahnbjppuwydgjzsdyzsippar\/m3u8\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Keynote",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_platforms-state-of-the-union",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/103bax22h2udxu0n\/103\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Platforms State of the Union",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_apple-design-awards",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/104d6zyhb21vki\/104\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Apple Design Awards",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_using-core-data-with-cloudkit",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/202mm1h4jl4wiz1h3\/202\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Using Core Data With CloudKit",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-desktop-class-browsing-on-ipad",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/203d4wzq0eky2pgtir3\/203\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Desktop-class Browsing on iPad",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-swiftui-building-your-first-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/204isgnpbqud244\/204\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing SwiftUI: Building Your First App",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-ipad-apps-for-mac",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/205uk2opbsrhdunlbn\/205\/hls_vod_mvp.m3u8"
+    },
+    "name" : "",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-sf-symbols",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/206u451oe8jmzj52\/206\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing SF Symbols",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-sirikit-media-intents",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/207k9p5h61k6sovy6hr\/207\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing SiriKit Media Intents",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_creating-independent-watch-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/208ryw5t6xyu0a6\/208\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Creating Independent Watch Apps",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-machine-learning",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/209w6qieg12bqlrpjzu\/209\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Machine Learning",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-appKit-for-macos",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/210fo5cr4fwdfn0\/210\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What’s New in AppKit for macOS",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_mastering-the-living-room-with-tvos",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/211p61zvgdkn99y\/211\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Mastering the Living Room With tvOS",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-multiple-windows-on-ipad",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/212nyxqyrke8a9t\/212\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Multiple Windows on iPad",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-parameters-for-shortcuts",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/213q1mftanbup84jc\/213\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Parameters for Shortcuts",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_implementing-dark-mode-on-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/214iqtpuhih53fw2\/214\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Implementing Dark Mode on iOS",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-collection-view-layout",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/215wh1hurdxwcctfc8\/215\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in Collection View Layout",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_swiftui-essentials",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/216oe5ad0gu7zw8cqfd\/216\/hls_vod_mvp.m3u8"
+    },
+    "name" : "SwiftUI Essentials",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_researchkit-and-carekit-reimagined",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/217hlrq3o5glluc\/217\/hls_vod_mvp.m3u8"
+    },
+    "name" : "ResearchKit and CareKit Reimagined",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_exploring-new-data-representations-in-healthkit",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/218cnjfazt0v1am\/218\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Exploring New Data Representations in HealthKit",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_swiftui-on-watchos",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/219s60i7y7dovs8r4\/219\/hls_vod_mvp.m3u8"
+    },
+    "name" : "SwiftUI on watchOS",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-ui-data-sources",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/220xl4hxzzr7b19\/220\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in UI Data Sources",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-pencilkit",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/221xy1ko7h8ub79is\/221\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing PencilKit",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_understanding-images-in-vision-framework",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/222z7uanb8bo1e\/222\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Understanding Images in Vision Framework",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_expanding-the-sensory-experience-with-core-haptics",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/223ignoocw8xnuqx5di\/223\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Expanding the Sensory Experience with Core Haptics",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_modernizing-your-ui-for-ios-13",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/224xnuourakjstfak\/224\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Modernizing Your UI for iOS 13",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-camera-capture-photo-segmentation",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/225dh4oy0vvscxxr\/225\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in Camera Capture & Photo Segmentation",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_data-flow-through-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/226mq9pvm28zqfqer2a\/226\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Data Flow Through SwiftUI",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_font-management-and-text-scaling",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/227a5yni0swztyj0\/227\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Font Management and Text Scaling",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_creating-great-apps-using-core-ml-and-arkit",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/228l55lz3fc9f4\/228\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Creating Great Apps Using Core ML and ARKit",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_making-apps-with-core-data",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/230p2cw8ht4ow4invto\/230\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Making Apps with Core Data",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_integrating-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/231qbm6xl2bbd5t\/231\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Integrating SwiftUI",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-natural-language-framework",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/232kg63jt891ci\/232\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in Natural Language Framework",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_mastering-xcode-previews",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/233zklqtgixxmuulng\/233\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Mastering Xcode Previews",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_text-recognition-in-vision-framework",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/234rye7511ohnx5dmvl\/234\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Text Recognition in Vision Framework",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_taking-ipad-apps-for-mac-to-the-next-level",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/235piwr25l1xxn6\/235\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Taking iPad Apps for Mac to the Next Level",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-mapKit-and-mapKit-js",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/236an22jpbgtmv9ya\/236\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What’s New in MapKit and MapKit JS",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_building-custom-views-with-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/237x70rryl2b933v\/237\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Building Custom Views with SwiftUI",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_accessibility-in-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/238w8avpcuaf5ox\/238\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Accessibility in SwiftUI",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_great-developer-habits",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/239lnmy9z9ulgdrcej\/239\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Great Developer Habits",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_swiftui-on-all-devices",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/240kqdx1bcyovfjoz\/240\/hls_vod_mvp.m3u8"
+    },
+    "name" : "SwiftUI On All Devices",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_adding-indoor-maps-to-your-app-and-website",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/241j0ejuokeaycdis\/241\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Adding Indoor Maps to your App and Website",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_integrating-with-siri-event-suggestions",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/243ce6ir170wt9zmal\/243\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Integrating with Siri Event Suggestions",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_visual-design-and-accessibility",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/244gmopitz5ezs2kkq\/244\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Visual Design and Accessibility",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-the-indoor-maps-program",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/245hrnwbhlkgmim8y\/245\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing the Indoor Maps Program",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_window-management-in-your-multitasking-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/246bnifwqasd17ytre\/246\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Window Management in Your Multitasking App",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-classKit",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/247cie5skcsefhpnhxq\/247\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What’s New in ClassKit",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_creating-an-accessible-reading-experience",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/248ts94v3ev4q5\/248\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Creating an Accessible Reading Experience",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-multi-camera-capture-for-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/249a0jw909n3uq0\/249\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Multi-Camera Capture for iOS",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_making-apps-more-accessible-with-custom-actions",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/250iaz7b18msfiy\/250\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Making Apps More Accessible With Custom Actions",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_extended-runtime-for-watchos-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/251jiw68lhjtoxak\/251\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Extended Runtime for watchOS Apps",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-carplay-systems",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/252ogueb17a2lv\/252\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in CarPlay Systems",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_exploring-tinted-graphic-complications",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/253llfvak2onhcnjf3w\/253\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Exploring Tinted Graphic Complications",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_writing-great-accessibility-labels",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/254fml0e526wtu2\/254\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Writing Great Accessibility Labels",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-speech-recognition",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/256p7m9z4yst71ai\/256\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in Speech Recognition",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_accessibility-inspector",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/257zstehah872m64ht5\/257\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Accessibility Inspector",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_architecting-your-app-for-multiple-windows",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/258ggtahutefvsda35yt\/258\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Architecting Your App for Multiple Windows",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_targeting-content-with-multiple-windows",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/259hnbafsdcioplsf653f\/259\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Targeting Content with Multiple Windows",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-photo-segmentation-mattes",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/260dn5488jol0b\/260\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Photo Segmentation Mattes",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_large-content-viewer",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/261p8np41tos4h2\/261\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Large Content Viewer- Ensuring Readability for Everyone",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_embedding-and-sharing-visually-rich-links",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/262piyu998eqe22u\/262\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Embedding and Sharing Visually Rich Links",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-app-store-connect",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/301xxdtu2sikt7naxe\/301\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in App Store Connect",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_in-app-purchases-and-using-server-to-server-notifications",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/302e9g1j6q9w575y3\/302\/hls_vod_mvp.m3u8"
+    },
+    "name" : "In-App-Purchases and Using Server-to-Server Notifications",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-managing-apple-devices",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/303te9o8pf35qp\/303\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What’s New in Managing Apple Devices",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_app-distribution–from-ad-hoc-to-enterprise",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/304uxy73xvmgt37\/304\/hls_vod_mvp.m3u8"
+    },
+    "name" : "App Distribution – From Ad-hoc to Enterprise",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_subscription-offers-best-practices",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/305k64jjy5srpt9o\/305\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Subscription Offers Best Practices",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-xcode-11",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/401dpvu3x1d3hgg5i6\/401\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Xcode 11",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/402fd460n3p3w5c\/402\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Swift",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_creating-great Localized Experiences with Xcode 11",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/403n9n5z0vd71jw4q2\/403\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Creating Great Localized Experiences with Xcode 11",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_getting-started-with-xcode",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/404w05ssefca567rh\/404\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Getting Started with Xcode",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_swift-playgrounds-3",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/405sz7ct71lrflqb\/405\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Swift Playgrounds 3",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_adopting-swift-packages-in-xcode",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/408bmshwds7eoqow1ud\/408\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Adopting Swift Packages in Xcode",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-clang-and-llvm",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/409t7ah0xy3ocqab4a\/409\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Clang and LLVM",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_creating-swift-packages",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/410p24ercmpgj258x\/410\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Creating Swift Packages",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_getting-started-with-instruments",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/411cbc60y12x68arcof\/411\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Getting Started with Instruments",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_debugging-in-xcode-11",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/412g1eatropvik82vk\/412\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Debugging in Xcode 11",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_testing-in-xcode",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/413kpguqjv5fqp9\/413\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Testing in Xcode",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_developing-a-great-profiling-experience",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/414ipe55m84vk1h53\/414\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Developing a Great Profiling Experience",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_modern-swift-api-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/415zrx4f6t10b2\/415\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Modern Swift API Design",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_binary-Frameworks-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/416h8485aty341c2\/416\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Binary Frameworks in Swift",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_improving-battery-life-and-performance",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/417vjfis9nusyysvl\/417\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Improving Battery Life and Performance",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_getting-the-most-out-of-simulator",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/418o9bbtoe880sauh\/418\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Getting the Most Out of Simulator",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019-optimizing-storage-in-your-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/419ef9ipua3hnd2y\/419\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Optimizing Storage in Your App",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_drawing-classification-and-one-shot-object-detection-in-turi-create",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/420yz3f4ost5x9c\/420\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Drawing Classification and One-Shot Object Detection in Turi Create",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_modeling-in-custom-instruments",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/421pew36g0j6fv4jm\/421\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Modeling in Custom Instruments",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_designing-for-adverse-network-and-temperature-conditions",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/422vrf3slx9wnqm6\/422\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Designing for Adverse Network and Temperature Conditions",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_optimizing-app-launch",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/423lzf3qsjedrzivc7\/423\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Optimizing App Launch",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_training-object-detection-models-in-create-ml",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/424gsffe67thwyafre\/424\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Training Object Detection Models in Create ML",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_training-sound-classification-models-in-create-ml",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/425bfacxsewtyh8uye5\/425\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Training Sound Classification Models in Create ML",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_building-activity-classification-models-in-create-ml",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/426s9m91e962yqv9\/426\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Building Activity Classification Models in Create ML",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_training-recommendation-models-in-create-ml",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/427quw6yo5agrbit\/427\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Training Recommendation Models in Create ML",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_training-text-classifiers-in-create-ml",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/428c7jhmepea85p6tz\/428\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Training Text Classifiers in Create ML",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_lldb-beyond-po",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/429s7ksrdjsg3bql\/429\/hls_vod_mvp.m3u8"
+    },
+    "name" : "LLDB: Beyond po",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-the-create-ml-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/430tw6e8xtxo3btga2\/430\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing the Create ML App",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_reaching_the_big_screen_with_airplay_2",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/501psbqh02kzce\/501\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Reaching the Big Screen with AirPlay 2",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-low-latency-hls",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/502gzyuhh8p2r8g8\/502\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Low-Latency HLS",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_delivering-intuitive-media-playback-with-avkit",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/503tnc2gfty50jit92m\/503\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Delivering Intuitive Media Playback with AVKit",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_hevc-video-with-alpha",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/506lqy7sprpfyo800\/506\/hls_vod_mvp.m3u8"
+    },
+    "name" : "HEVC Video with Alpha",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_hls-authoring-for-airplay-2-video",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/507fk9wyls0np6piwk\/507\/hls_vod_mvp.m3u8"
+    },
+    "name" : "HLS Authoring for AirPlay 2 Video",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_modernizing-your-audio-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/508kk896m9xoeaz1a\/508\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Modernizing Your Audio App",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_auv3-extensions-user-presets",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/509tdjld4pedsigr9\/509\/hls_vod_mvp.m3u8"
+    },
+    "name" : "AUv3 Extensions User Presets",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-avaudioengine",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/510v8txdlekug3npw2m\/510\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in AVAudioEngine",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_supporting-dark-mode-in-your-web-content",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/511e9x950grweijpm9y\/511\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Supporting Dark Mode in Your Web Content",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_understanding-cpu-usage-with-web-inspector",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/513w02gjyhgbk02\/513\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Understanding CPU Usage with Web Inspector",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_auditing-web-content-with-web-inspector",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/514u8cpyqzkiznkm1\/514\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Auditing Web Content with Web Inspector",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-safari",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/515nm8yj4zy65h15\/515\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Safari",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-authentication",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/516sogw464mg6d4uv\/516\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Authentication",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-for-web-developers",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/518lfev1wbktx9\/518\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New for Web Developers",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-core-haptics",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/520gfafwrte8ytre\/520\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Core Haptics",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_modern-rendering-with-metal",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/601fthb9otw94fg\/601\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Modern Rendering with Metal",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_working-with-usd",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/602ytoojud5i0kfnj4n\/602\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Working with USD",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-realitykit-and-reality-composer",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/603y6t9wal4i9m\/603\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing RealityKit and Reality Composer",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-arkit-3",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/604o2yt9ky18mbyd\/604\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing ARKit 3",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_building-apps-with-realitykit",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/605a9razz1cphz\/605\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Building Apps with RealityKit",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_delivering-optimized-metal-apps-and-games",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/606j537qmnh6o6\/606\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Delivering Optimized Metal Apps and Games",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_bringing-people-into-ar",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/607a2lcl8lpd7fnidym\/607\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Bringing People into AR",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_metal-for-pro-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/608ycxyv84z8ap14wot\/608\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Metal for Pro Apps",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_building-ar-experiences-with-reality-composer",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/609zbao33tlyym\/609\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Building AR Experiences with Reality Composer",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_building-collaborative-ar-experiences",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/610bh5ws7sw7lxoo\/610\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Building Collaborative AR Experiences",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_bringing-opengl-apps-to-metal",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/611h7e9ka5i87k5ya\/611\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Bringing OpenGL Apps to Metal",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-ar-quick-look",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/612umedd7bboc1\/612\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in AR Quick Look",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_ray-tracing-with-metal",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/613vjxxrkq20jn\/613\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Ray Tracing with Metal",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_metal-for-machine-learning",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/614o3sph3xudzgm6\/614\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Metal for Machine Learning",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_game-center-player-identifiers",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/615zdym8i4v282u\/615\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Game Center Player Identifiers",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_supporting-new-game-controllers",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/616my96cpgv09ab5lq\/616\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Supporting New Game Controllers",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-macos-security",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/701ngx868rfo8jlj\/701\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in macOS Security",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_system-extensions-and-driverkit",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/702vygott3n041\/702\/hls_vod_mvp.m3u8"
+    },
+    "name" : "System Extensions and DriverKit",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_all-about-notarization",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/703yqvyjv9mi5ur6\/703\/hls_vod_mvp.m3u8"
+    },
+    "name" : "All About Notarization",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_core-ml-3-framework",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/704t1nfga5vi1x60x\/704\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Core ML 3 Framework",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-core-location",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/705lx74ghrsthpyfude\/705\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Core Location",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-sign-in-with-apple",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/706sgor5wzq9m15o2r0\/706\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Sign In with Apple",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-app-background-execution",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/707smbqns2s4u1v49bn\/707\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in App Background Execution",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_designing-or-privacy",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/708pnd9swz5hx9anljy\/708\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Designing for Privacy",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_cryptography-and-your-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/709uek5h4l7kaefk2oh\/709\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Cryptography and Your Apps",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-apple-file-systems",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/710aunvynji5emrl\/710\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Apple File Systems",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-networking-part-1",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/712oixq9dtsljwqxm\/712\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in Networking, Part 1",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-networking-part-2",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/713b310k72bjpcmz6xn\/713\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in Networking, Part 2",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_network-extensions-for-the-modern-mac",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/714kr380j0vbvxv\/714\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Network Extensions for the Modern Mac",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_core-nfc-enhancements",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/715qg6xyd3qgplhd3m\/715\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Core NFC Enhancements",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_streaming-audio-on-watchos-6",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/716z5h7lh9mzhl\/716\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Streaming Audio on watchOS 6",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-universal-links",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/717b3lem5m2glj\/717\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Universal Links",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-accelerate-for-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/718sn5zybluwhbuq\/718\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Accelerate for Swift",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-file-management-and-quick-look",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/719dyb631z49zpjzk\/719\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What’s New in File Management and Quick Look",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-safari-extensions",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/720yo3jm1qljmlbddac\/720\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Safari Extensions",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_combine-in-practice",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/721ga0kflgr4ypfx\/721\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Combine in Practice",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_introducing-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/722l6blhn0efespfgx\/722\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Introducing Combine",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_advances-in-foundation",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/723ijngq6f3vi97\/723\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Advances in Foundation",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_designing-award-winning-apps-and-games",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/802lc4xsb0ixszml\/802\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Designing Award Winning Apps and Games",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_designing-great-ml-experiences",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/803acsrw3066p43dqm\/803\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Designing Great ML Experiences",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_building-great-shortcuts",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/805fgsgar5ertqwh8k\/805\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Building Great Shortcuts",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_designing-great-shortcuts",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/806xdewrgatyy46\/806\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Designing Great Shortcuts",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-ios-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/808knty6w7kjssfl\/808\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in iOS Design",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_designing-ipad-ppps-for-mac",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/809fdcsntdrt6yhjk\/809\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Designing iPad Apps for Mac",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_designing-audio-haptic-experiences",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/810fdftstga66w4hfadq\/810\/hls_vod_mvp.m3u8"
+    },
+    "name" : "Designing Audio-Haptic Experiences",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  },
+  {
+    "id" : "wwdc_2019_what-new-in-core-bluetooth",
+    "conference" : {
+      "metaData" : {
+        "id" : "wwdc",
+        "name" : "WWDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "wwdc",
+      "value" : "https:\/\/devstreaming-cdn.apple.com\/videos\/wwdc\/2019\/901myoscpux9y7nry55\/901\/hls_vod_mvp.m3u8"
+    },
+    "name" : "What's New in Core Bluetooth",
+    "authors" : [
+      {
+        "id" : "apple",
+        "name" : "Apple"
+      }
+    ]
+  }
 ]

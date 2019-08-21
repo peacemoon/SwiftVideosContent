@@ -4,5 +4,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
+enum ModelCodingError: Error {
+    case unknownValue
+}
