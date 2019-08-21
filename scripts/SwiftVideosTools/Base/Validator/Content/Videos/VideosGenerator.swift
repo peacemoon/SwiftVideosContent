@@ -60,7 +60,8 @@ public class VideosGenerator {
             return
         }
         let videosFolder = try Folder(path: baseVideosPath)
-        let outputFile = try videosFolder.createFile(named: "videos.json")
+        
+        let outputFile = try videosFolder.createFile(named: "videos-1.json")
         try outputFile.write(string: videosString)
 
         print("Videos are exported successfully".lightCyan())

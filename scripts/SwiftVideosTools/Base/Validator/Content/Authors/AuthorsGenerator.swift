@@ -31,7 +31,7 @@ public class AuthorsGenerator {
         // Iterate through list of conferences
         do {
             let videosFolder = try Folder(path: baseVideosPath)
-            let videosFile = try videosFolder.file(named: "videos.json")
+            let videosFile = try videosFolder.file(named: "videos-1.json")
             let videosContent = try videosFile.read()
             let jsonDecoder = JSONDecoder()
             let videos = try jsonDecoder.decode(VideosList.self, from: videosContent)
