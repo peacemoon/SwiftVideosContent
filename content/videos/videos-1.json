@@ -891,7 +891,7 @@
     "name" : "Brew Create",
     "authors" : [
       {
-        "id" : "Max Howell",
+        "id" : "max-howell",
         "name" : "Max Howell"
       }
     ]
@@ -1581,8 +1581,8 @@
     "name" : "Speeding up as an iOS developer",
     "authors" : [
       {
-        "id" : "Antoine van der Lee ",
-        "name" : "Antoine van der Lee "
+        "id" : "antoine-van-der-lee",
+        "name" : "Antoine van der Lee"
       }
     ]
   },
@@ -1884,7 +1884,7 @@
     "name" : "Keynote",
     "authors" : [
       {
-        "id" : "Krzysztof Zablocki",
+        "id" : "krzysztof-zablocki",
         "name" : "Krzysztof Zablocki"
       }
     ]
@@ -2253,7 +2253,7 @@
     "authors" : [
       {
         "id" : "ellen-shapiro",
-        "name" : "Ellen Shapiro "
+        "name" : "Ellen Shapiro"
       }
     ]
   },
@@ -2275,7 +2275,7 @@
     "name" : "How to Market Your Mobile App",
     "authors" : [
       {
-        "id" : "Lisa Dziuba",
+        "id" : "lisa-dziuba",
         "name" : "Lisa Dziuba"
       }
     ]
