@@ -52,7 +52,7 @@ public class AuthorsGenerator {
         let outputFile = try authorsFolder.createFile(named: "authors.json")
         try outputFile.write(string: authorsString)
 
-        print("Authors are exported successfully".lightCyan())
+        print("[Success] Authors are exported successfully".lightCyan())
     }
 }
 

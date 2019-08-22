@@ -21,6 +21,13 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		F6697FAA230E7D3A00FCEC14 /* AuthorsCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6697FA9230E7D3A00FCEC14 /* AuthorsCommand.swift */; };
+		F6697FAD230E809500FCEC14 /* AuthorsValidationCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6697FAC230E809500FCEC14 /* AuthorsValidationCommand.swift */; };
+		F6697FAF230E809E00FCEC14 /* AuthorsGenerationCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6697FAE230E809E00FCEC14 /* AuthorsGenerationCommand.swift */; };
+		F6697FB3230EAE3500FCEC14 /* VideosCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6697FB2230EAE3500FCEC14 /* VideosCommand.swift */; };
+		F6697FB5230EAE4100FCEC14 /* VideosValidationCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6697FB4230EAE4100FCEC14 /* VideosValidationCommand.swift */; };
+		F6697FB7230EAE4D00FCEC14 /* VideosGenerationCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6697FB6230EAE4D00FCEC14 /* VideosGenerationCommand.swift */; };
+		F6B79D65230E788500B52D10 /* CommandLineTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6B79D64230E788500B52D10 /* CommandLineTool.swift */; };
 		F6EFBFF7230D6F8B004C2D0A /* JSONValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EFBFEE230D6F8B004C2D0A /* JSONValidator.swift */; };
 		F6EFBFF8230D6F8B004C2D0A /* AuthorsValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EFBFEF230D6F8B004C2D0A /* AuthorsValidator.swift */; };
 		F6EFBFF9230D6F8B004C2D0A /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EFBFF0230D6F8B004C2D0A /* Validator.swift */; };
@@ -73,6 +80,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F6697FA9230E7D3A00FCEC14 /* AuthorsCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorsCommand.swift; sourceTree = "<group>"; };
+		F6697FAC230E809500FCEC14 /* AuthorsValidationCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorsValidationCommand.swift; sourceTree = "<group>"; };
+		F6697FAE230E809E00FCEC14 /* AuthorsGenerationCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorsGenerationCommand.swift; sourceTree = "<group>"; };
+		F6697FB2230EAE3500FCEC14 /* VideosCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideosCommand.swift; sourceTree = "<group>"; };
+		F6697FB4230EAE4100FCEC14 /* VideosValidationCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideosValidationCommand.swift; sourceTree = "<group>"; };
+		F6697FB6230EAE4D00FCEC14 /* VideosGenerationCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideosGenerationCommand.swift; sourceTree = "<group>"; };
+		F6B79D64230E788500B52D10 /* CommandLineTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommandLineTool.swift; sourceTree = "<group>"; };
 		F6EFBFEE230D6F8B004C2D0A /* JSONValidator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONValidator.swift; sourceTree = "<group>"; };
 		F6EFBFEF230D6F8B004C2D0A /* AuthorsValidator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthorsValidator.swift; sourceTree = "<group>"; };
 		F6EFBFF0230D6F8B004C2D0A /* Validator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
@@ -122,6 +136,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F6697FAB230E805900FCEC14 /* Authors */ = {
+			isa = PBXGroup;
+			children = (
+				F6697FA9230E7D3A00FCEC14 /* AuthorsCommand.swift */,
+				F6697FAC230E809500FCEC14 /* AuthorsValidationCommand.swift */,
+				F6697FAE230E809E00FCEC14 /* AuthorsGenerationCommand.swift */,
+			);
+			path = Authors;
+			sourceTree = "<group>";
+		};
+		F6697FB0230E897C00FCEC14 /* SwiftVideosTools */ = {
+			isa = PBXGroup;
+			children = (
+				OBJ_8 /* Top */,
+				F6EFBFEC230D6F8B004C2D0A /* Base */,
+			);
+			path = SwiftVideosTools;
+			sourceTree = "<group>";
+		};
+		F6697FB1230EAE2B00FCEC14 /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				F6697FB2230EAE3500FCEC14 /* VideosCommand.swift */,
+				F6697FB4230EAE4100FCEC14 /* VideosValidationCommand.swift */,
+				F6697FB6230EAE4D00FCEC14 /* VideosGenerationCommand.swift */,
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
 		F6EFBFEC230D6F8B004C2D0A /* Base */ = {
 			isa = PBXGroup;
 			children = (
@@ -175,6 +218,8 @@
 		F6EFC002230D807D004C2D0A /* Command */ = {
 			isa = PBXGroup;
 			children = (
+				F6697FB1230EAE2B00FCEC14 /* Videos */,
+				F6697FAB230E805900FCEC14 /* Authors */,
 			);
 			path = Command;
 			sourceTree = "<group>";
@@ -233,7 +278,7 @@
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		OBJ_5 /*  */ = {
+		OBJ_5 = {
 			isa = PBXGroup;
 			children = (
 				OBJ_6 /* Package.swift */,
@@ -242,14 +287,12 @@
 				OBJ_18 /* Products */,
 				OBJ_22 /* README.md */,
 			);
-			name = "";
 			sourceTree = "<group>";
 		};
 		OBJ_7 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				OBJ_8 /* Top */,
-				F6EFBFEC230D6F8B004C2D0A /* Base */,
+				F6697FB0230E897C00FCEC14 /* SwiftVideosTools */,
 			);
 			name = Sources;
 			sourceTree = SOURCE_ROOT;
@@ -258,9 +301,10 @@
 			isa = PBXGroup;
 			children = (
 				OBJ_9 /* main.swift */,
+				F6B79D64230E788500B52D10 /* CommandLineTool.swift */,
 			);
 			name = Top;
-			path = Sources/Top;
+			path = SwiftVideosTools/Top;
 			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
@@ -362,7 +406,7 @@
 				English,
 				en,
 			);
-			mainGroup = OBJ_5 /*  */;
+			mainGroup = OBJ_5;
 			productRefGroup = OBJ_18 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -399,18 +443,25 @@
 			buildActionMask = 0;
 			files = (
 				F6EFBFFB230D6F8B004C2D0A /* Author.swift in Sources */,
+				F6697FB7230EAE4D00FCEC14 /* VideosGenerationCommand.swift in Sources */,
 				F6EFC00B230D8358004C2D0A /* ConferencesValidator.swift in Sources */,
 				F6EFBFF9230D6F8B004C2D0A /* Validator.swift in Sources */,
+				F6697FB3230EAE3500FCEC14 /* VideosCommand.swift in Sources */,
+				F6697FAA230E7D3A00FCEC14 /* AuthorsCommand.swift in Sources */,
+				F6697FB5230EAE4100FCEC14 /* VideosValidationCommand.swift in Sources */,
 				F6EFBFF8230D6F8B004C2D0A /* AuthorsValidator.swift in Sources */,
 				F6EFBFFD230D6F8B004C2D0A /* Conference.swift in Sources */,
 				F6EFC009230D834F004C2D0A /* VideosValidator.swift in Sources */,
 				F6EFC00D230D8363004C2D0A /* AuthorsGenerator.swift in Sources */,
 				F6EFBFFF230D7101004C2D0A /* String+Extensions.swift in Sources */,
+				F6697FAD230E809500FCEC14 /* AuthorsValidationCommand.swift in Sources */,
 				F6EFBFF7230D6F8B004C2D0A /* JSONValidator.swift in Sources */,
 				OBJ_41 /* main.swift in Sources */,
 				F6EFC00F230D83B8004C2D0A /* VideosGenerator.swift in Sources */,
+				F6697FAF230E809E00FCEC14 /* AuthorsGenerationCommand.swift in Sources */,
 				F6EFBFFC230D6F8B004C2D0A /* Video.swift in Sources */,
 				F6EFBFFA230D6F8B004C2D0A /* ModelCodingError.swift in Sources */,
+				F6B79D65230E788500B52D10 /* CommandLineTool.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

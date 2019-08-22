@@ -36,15 +36,10 @@ public class AuthorsValidator {
 
     // MARK: APIs
 
-    func validateList() -> Bool {
-        do {
-            print("listPath = \(listPath)".lightBlue())
-            let file = try File(path: listPath)
-            let content = try file.read()
-            return try listValidator.validate(data: content)
-        } catch {
-            print("\(error)".red())
-            return false
-        }
+    func validateList() throws {
+        print("[Debug] listPath = \(listPath)".lightBlue())
+        let file = try File(path: listPath)
+        let content = try file.read()
+        _ = try listValidator.validate(data: content)
     }
 }

@@ -52,7 +52,7 @@ public class VideosGenerator {
 
             try export()
         } catch {
-            print("\(error)".red())
+            print("[Error] \(error)".red())
         }
     }
 
