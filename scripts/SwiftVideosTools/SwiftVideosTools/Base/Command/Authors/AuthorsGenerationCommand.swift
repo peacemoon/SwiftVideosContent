@@ -37,7 +37,7 @@ class AuthorsGenerationCommand: Command {
             print("[Error] Content path is missing".red())
             return
         }
-        let videosGenerator = VideosGenerator(rootContentPath: rootContentPath)
-        videosGenerator.generate()
+        let authorsGenerator = AuthorsGenerator(rootContentPath: rootContentPath)
+        authorsGenerator.generate()
     }
 }
