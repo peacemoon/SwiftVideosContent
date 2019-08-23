@@ -1,5 +1,9 @@
 [
     {
+        "id": "swift-to",
+        "name": "Swift TO"
+    },
+    {
         "id": "app-builders",
         "name": "App Builders"
     },
@@ -26,9 +30,5 @@
     {
         "id": "hacking-with-swift-live",
         "name": "Hacking with Swift: Live"
-    },
-    {
-        "id": "swift-to",
-        "name": "Swift TO"
     }
 ]
