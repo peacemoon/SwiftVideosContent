@@ -26,5 +26,9 @@
     {
         "id": "hacking-with-swift-live",
         "name": "Hacking with Swift: Live"
+    },
+    {
+        "id": "swift-to",
+        "name": "Swift TO"
     }
 ]

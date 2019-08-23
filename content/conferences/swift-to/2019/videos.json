@@ -1,0 +1,303 @@
+[
+    {
+        "id": "swift-to_2019_5-ways-to-level-up-your-mobile-development",
+        "name": "5 Ways to Level Up Your Mobile Development",
+        "authors": [
+            {
+                "id": "tim-mitra",
+                "name": "Tim Mitra"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354580074
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_modularize-all-the-things",
+        "name": "Modularize All the Things",
+        "authors": [
+            {
+                "id": "abbey-jackson",
+                "name": "Abbey Jackson"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354783100
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_from-swift-developer-to-full-time-youTuber-in-8-months",
+        "name": "From Swift Developer to Full Time YouTuber in 8 Months",
+        "authors": [
+            {
+                "id": "chris-ching",
+                "name": "Chris Ching"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354532436
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_pushing-swiftui-to-the-limit",
+        "name": "Pushing SwiftUI to the Limit",
+        "authors": [
+            {
+                "id": "veronica-ray",
+                "name": "Veronica Ray"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354555005
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_the-evolution-of-swift",
+        "name": "The Evolution of Swift",
+        "authors": [
+            {
+                "id": "paul-hudson",
+                "name": "Paul Hudson"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354554006
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_get-started-developing-server-side-swift-with-vapor",
+        "name": "Get Started Developing Server Side Swift with Vapor",
+        "authors": [
+            {
+                "id": "Leo Dion",
+                "name": "Leo Dion"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354555100
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_the-evolution-of-ios-development-at-scotiabank",
+        "name": "The Evolution of iOS Development at Scotiabank",
+        "authors": [
+            {
+                "id": "rohan-trivedi",
+                "name": "Rohan Trivedi"
+            },
+            {
+                "id": "charles-joseph",
+                "name": "Charles Joseph"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354579653
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_how-to-write-testable-code",
+        "name": "How to Write Testable Code",
+        "authors": [
+            {
+                "id": "marwan-alani",
+                "name": "Marwan Alani"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354561681
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_using-structs-as-a-data-interface-for-your-service-layer",
+        "name": "Using Structs as a Data Interface for your Service Layer",
+        "authors": [
+            {
+                "id": "lyle-resnick",
+                "name": "Lyle Resnick"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354555908
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_preparing-your-app-for-swiftui",
+        "name": "Building for the Long Haul: Preparing Your App for SwiftUI ",
+        "authors": [
+            {
+                "id": "frank-courville",
+                "name": "Frank Courville"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354579304
+            }
+        }
+    },
+    {
+        "id": "swift-to_2019_continuous-integration-bitrise",
+        "name": "Continuous Integration - What, Why & How feat. Bitrise",
+        "authors": [
+            {
+                "id": "kyle-newsome",
+                "name": "Kyle Newsome"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-to",
+                "name": "Swift TO"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "showcase": 6225806,
+                "video": 354782851
+            }
+        }
+    }
+]
