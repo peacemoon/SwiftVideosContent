@@ -168,7 +168,7 @@
 		F6EFBFEC230D6F8B004C2D0A /* Base */ = {
 			isa = PBXGroup;
 			children = (
-				F6EFC002230D807D004C2D0A /* Command */,
+				F6EFC002230D807D004C2D0A /* Commands */,
 				F6EFBFED230D6F8B004C2D0A /* Validator */,
 				F6EFBFF2230D6F8B004C2D0A /* Models */,
 				F6EFBFF1230D6F8B004C2D0A /* Utils */,
@@ -215,13 +215,13 @@
 			path = Content;
 			sourceTree = "<group>";
 		};
-		F6EFC002230D807D004C2D0A /* Command */ = {
+		F6EFC002230D807D004C2D0A /* Commands */ = {
 			isa = PBXGroup;
 			children = (
 				F6697FB1230EAE2B00FCEC14 /* Videos */,
 				F6697FAB230E805900FCEC14 /* Authors */,
 			);
-			path = Command;
+			path = Commands;
 			sourceTree = "<group>";
 		};
 		F6EFC005230D8326004C2D0A /* Authors */ = {
