@@ -46,7 +46,7 @@
         }
     },
     {
-        "id": "dotswift_2019_the-underestimated-power-of-keyPaths",
+        "id": "dotswift_2019_the-underestimated-power-of-keypaths",
         "name": "The underestimated power of KeyPaths",
         "authors": [
             {
@@ -69,7 +69,7 @@
         }
     },
     {
-        "id": "dotswift_2019_implementing-json-rpc-with-swiftNIO",
+        "id": "dotswift_2019_implementing-json-rpc-with-swiftnio",
         "name": "Implementing JSON-RPC with SwiftNIO",
         "authors": [
             {
@@ -207,7 +207,7 @@
         }
     },
     {
-        "id": "dotswift_2019_wh@t-is-th@t",
+        "id": "dotswift_2019_what-is-that",
         "name": "Wh@t is th@t",
         "authors": [
             {
