@@ -1,5 +1,9 @@
 [
     {
+        "id": "dotswift",
+        "name": "dotSwift"
+    },
+    {
         "id": "swift-to",
         "name": "Swift TO"
     },

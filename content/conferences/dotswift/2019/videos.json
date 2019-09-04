@@ -1,0 +1,232 @@
+[
+    {
+        "id": "dotswift_2019_just-enough-objective-c",
+        "name": "Just Enough Objective-C",
+        "authors": [
+            {
+                "id": "daniel-jalkut",
+                "name": "Daniel Jalkut"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "eSxXmnmjYZk"
+        }
+    },
+    {
+        "id": "dotswift_2019_high-performance-systems-in-swift",
+        "name": "High-performance systems in Swift",
+        "authors": [
+            {
+                "id": "johannes-weiss",
+                "name": "Johannes Weiss"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "iLDldae64xE"
+        }
+    },
+    {
+        "id": "dotswift_2019_the-underestimated-power-of-keyPaths",
+        "name": "The underestimated power of KeyPaths",
+        "authors": [
+            {
+                "id": "vincent-pradeilles",
+                "name": "Vincent Pradeilles"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "kxn35uybdMA"
+        }
+    },
+    {
+        "id": "dotswift_2019_implementing-json-rpc-with-swiftNIO",
+        "name": "Implementing JSON-RPC with SwiftNIO",
+        "authors": [
+            {
+                "id": "tom-doron",
+                "name": "Tom Doron"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Rlhlc6NaO4w"
+        }
+    },
+    {
+        "id": "dotswift_2019_marzipan-uikit-on-macos",
+        "name": "Marzipan - UIKit on macOS",
+        "authors": [
+            {
+                "id": "jan-kaltoun",
+                "name": "Jan Kaltoun"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "XSbO1igDm_Y"
+        }
+    },
+    {
+        "id": "dotswift_2019_catransform3d",
+        "name": "CATransform3D: You don't need to know them",
+        "authors": [
+            {
+                "id": "janina-kutyn",
+                "name": "Janina Kutyn"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "vZq09zB0sfU"
+        }
+    },
+    {
+        "id": "dotswift_2019_from-problem-to-solution",
+        "name": "From Problem to Solution",
+        "authors": [
+            {
+                "id": "soroush-khanlou",
+                "name": "Soroush Khanlou"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "3G_ffcgRLMw"
+        }
+    },
+    {
+        "id": "dotswift_2019_making-table-views-great-again",
+        "name": "Making Table Views Great Again",
+        "authors": [
+            {
+                "id": "lea-marolt-sonnenschein",
+                "name": "Lea Marolt Sonnenschein"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "dluKlOPPllY"
+        }
+    },
+    {
+        "id": "dotswift_2019_avoiding-the-kitchen-sink-database",
+        "name": "Avoiding the Kitchen Sink Database",
+        "authors": [
+            {
+                "id": "charles-parnot",
+                "name": "Charles Parnot"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "2TEWlVTPE2k"
+        }
+    },
+    {
+        "id": "dotswift_2019_wh@t-is-th@t",
+        "name": "Wh@t is th@t",
+        "authors": [
+            {
+                "id": "mark-dalrymple",
+                "name": "Mark Dalrymple"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "dotswift",
+                "name": "dotSwift"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "MPkMf7Pbp5c"
+        }
+    }
+]
