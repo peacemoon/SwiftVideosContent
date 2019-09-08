@@ -1,5 +1,9 @@
 [
     {
+        "id": "iosconfsg",
+        "name": "iOS Conf SG"
+    },
+    {
         "id": "dotswift",
         "name": "dotSwift"
     },
