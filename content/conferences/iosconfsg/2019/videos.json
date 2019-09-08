@@ -44,7 +44,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "ICnZq3MfrMA"
         }
     },
     {
@@ -68,7 +68,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "_F9KcXSLc_s"
         }
     },
     {
@@ -92,7 +92,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "X9wyuht5BLs"
         }
     },
     {
@@ -116,7 +116,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "_g1mqG5tA0s"
         }
     },
     {
@@ -140,7 +140,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "20k3000Pn4s"
         }
     },
     {
@@ -164,7 +164,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "2d6_vOfwnDk"
         }
     },
     {
@@ -192,12 +192,12 @@
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_mastering-multi-screen-ios-apps",
+        "name": "Mastering Multi-screen iOS Apps",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "paul-hudson",
+                "name": "Paul Hudson"
             }
         ]
         ,
@@ -212,16 +212,184 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "7P1KucwZ0A0"
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_behind-the-scenes-with-auto-layout",
+        "name": "Behind the Scenes with Auto Layout",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "agnes-vasarhelyi",
+                "name": "Agnes Vasarhelyi"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "gxfyb3ipUFg"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_building-ios-apps-without-xcode",
+        "name": "Building iOS Apps without Xcode",
+        "authors": [
+            {
+                "id": "Steven Hepting",
+                "name": "Steven Hepting"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "JRsWi8KC2Sw"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_make-uitest-great-again-using-localhost",
+        "name": "Make UITest great again, using localhost",
+        "authors": [
+            {
+                "id": "kenneth-poon",
+                "name": "Kenneth Poon"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "9JMVszZfFwk"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_how-fast-can-you-rotate-an-image",
+        "name": "How fast can you rotate an image",
+        "authors": [
+            {
+                "id": "Omer Iqbal",
+                "name": "Omer Iqbal"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "EPyoT_p0gQs"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_how-to-build-a-debug-view-almost-for-free",
+        "name": "How to build a debug view (almost) for free",
+        "authors": [
+            {
+                "id": "vincent-pradeilles",
+                "name": "Vincent Pradeilles"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "YRPwVF5dYDc"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_snowflake-id",
+        "name": "Snowflake ID",
+        "authors": [
+            {
+                "id": "sasmito-adibowo",
+                "name": "Sasmito Adibowo"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "RajJJnpTcf0"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_augmented-reality-game-with-arkit",
+        "name": "Augmented Reality Game with ARKit",
+        "authors": [
+            {
+                "id": "Christian Grail",
+                "name": "Christian Grail"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Q91z42kTJFM"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_from-problem-to-solution",
+        "name": "From Problem To Solution",
+        "authors": [
+            {
+                "id": "soroush-khanlou",
+                "name": "Soroush Khanlou"
             }
         ]
         ,
