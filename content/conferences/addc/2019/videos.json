@@ -1,0 +1,355 @@
+[
+    {
+        "id": "addc_2019_think-and-solve-for-user-expectations",
+        "name": "Think and solve for 'User Expectations'",
+        "authors": [
+            {
+                "id": "wiebe-elsinga",
+                "name": "Wiebe Elsinga"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    },
+    {
+        "id": "addc_2019_Building and scaling a culture of AB testing",
+        "name": "Building and scaling a culture of AB testing",
+        "authors": [
+            {
+                "id": "Jason van der Merwe",
+                "name": "Jason van der Merwe"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "CzIaeO6TagI"
+        }
+    },
+    {
+        "id": "addc_2019_fearlessly-Forward",
+        "name": "Fearlessly Forward: My intuitive approach to Silicon Valley",
+        "authors": [
+            {
+                "id": "Angela Guzman",
+                "name": "Angela Guzman"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "uBKKu50nyPE"
+        }
+    },
+    {
+        "id": "addc_2019_How to make your professional dreams come true",
+        "name": "How to make your professional dreams come true",
+        "authors": [
+            {
+                "id": "Eli Ganim",
+                "name": "Eli Ganim"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "azUqUdlAU5Q"
+        }
+    },
+    {
+        "id": "addc_2019_ Building great offline-first apps",
+        "name": "Building great offline-first apps",
+        "authors": [
+            {
+                "id": "Gopal Sharma",
+                "name": "Gopal Sharma"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "_to2me0busU"
+        }
+    },
+    {
+        "id": "addc_2019_Consistency is Key - Working with a Design System",
+        "name": "Consistency is Key - Working with a Design System",
+        "authors": [
+            {
+                "id": "Maria Neumayer",
+                "name": "Maria Neumayer"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "5bsWuWZQ8ss"
+        }
+    },
+    {
+        "id": "addc_2019_Design System and Component Libraries at Spotify",
+        "name": "Design System and Component Libraries at Spotify",
+        "authors": [
+            {
+                "id": "Roy Marmelstein",
+                "name": "Roy Marmelstein"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "ZgNuA9Ra9a0"
+        }
+    },
+    {
+        "id": "addc_2019_How we built a design system for consistency",
+        "name": "How we built a design system for consistency",
+        "authors": [
+            {
+                "id": "Clemens Morris",
+                "name": "Clemens Morris"
+            },
+            {
+                "id": "Omkar Pimple",
+                "name": "Omkar Pimple"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "9tpWI6kAIRo"
+        }
+    },
+    {
+        "id": "addc_2019_How to drive change and create impact on your organization",
+        "name": "How to drive change and create impact on your organization",
+        "authors": [
+            {
+                "id": "Luky Primadani",
+                "name": "Luky Primadani"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "pCQWs0tQ-p4"
+        }
+    },
+    {
+        "id": "addc_2019_Good rules for Bad apps",
+        "name": "Good rules for Bad apps",
+        "authors": [
+            {
+                "id": "Shem Magnezi",
+                "name": "Shem Magnezi"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "m6ozcLzWHQY"
+        }
+    },
+    {
+        "id": "addc_2019_bringing-swiftui-to-your-app",
+        "name": "Bringing SwiftUI to your App",
+        "authors": [
+            {
+                "id": "Daniel Steinberg",
+                "name": "Daniel Steinberg"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "bSx0p6BqQu0"
+        }
+    },
+    {
+        "id": "addc_2019_designing-for-interface-next",
+        "name": "Designing for Interface Next",
+        "authors": [
+            {
+                "id": "Karolina Miekina",
+                "name": "Karolina Miekina"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "ud2Y9UL0sC4"
+        }
+    },
+    {
+        "id": "addc_2019_Everyone Does Research",
+        "name": "Everyone Does Research",
+        "authors": [
+            {
+                "id": "Matthew Eng",
+                "name": "Matthew Eng"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "4IyWu-OXdLE"
+        }
+    },
+    {
+        "id": "addc_2019_The NPU Revolution",
+        "name": "The NPU Revolution",
+        "authors": [
+            {
+                "id": "Dan Abdinoor",
+                "name": "Dan Abdinoor"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Cqf8pK4V5G8"
+        }
+    },
+    {
+        "id": "addc_2019_run-design-sprints-and-become-a-product-hero",
+        "name": "Run Design Sprints and Become a Product Hero",
+        "authors": [
+            {
+                "id": "Ana Oarga",
+                "name": "Ana Oarga"
+            },
+            {
+                "id": "Raz Burciu",
+                "name": "Raz Burciu"
+            }
+        ],
+        "conference": {
+            "metaData": {
+                "id": "addc",
+                "name": "App Design & Development Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Pz9775F25g0"
+        }
+    }
+]
