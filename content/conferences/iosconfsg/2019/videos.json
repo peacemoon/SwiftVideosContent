@@ -1,6 +1,6 @@
 [
     {
-        "id": "iosconfsg_2019_Pedal to the Metal",
+        "id": "iosconfsg_2019_pedal-to-the-metal",
         "name": "Pedal to the Metal",
         "authors": [
             {
@@ -20,16 +20,16 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "fP5EGObW-NY"
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_swift-5s-brand-new-result-type",
+        "name": "Swift 5’s brand new Result Type",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "daniel-steinberg",
+                "name": "Daniel Steinberg"
             }
         ]
         ,
@@ -48,12 +48,12 @@
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_make-your-own-code-formatter-in-swift",
+        "name": "Make your own code formatter in Swift",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "Yasuhiro Inami",
+                "name": "Yasuhiro Inami"
             }
         ]
         ,
@@ -72,12 +72,12 @@
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_fear-not-for-the-filesystem-is-with-you",
+        "name": "Fear not, for the filesystem is with you",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "jeffrey-bergier",
+                "name": "Jeffrey Bergier"
             }
         ]
         ,
@@ -96,12 +96,12 @@
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_lessons-from-becoming-an-sdk-developer",
+        "name": "Lessons From Becoming an SDK Developer",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "Oscar Swanros",
+                "name": "Oscar Swanros"
             }
         ]
         ,
@@ -120,12 +120,12 @@
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_the-underestimated-power-of-keypaths",
+        "name": "The underestimated power of KeyPaths",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "vincent-pradeilles",
+                "name": "Vincent Pradeilles"
             }
         ]
         ,
@@ -144,12 +144,12 @@
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_algebraic-data-types-in-swift",
+        "name": "Algebraic Data Types in Swift",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "Heng Hong Lee",
+                "name": "Heng Hong Lee"
             }
         ]
         ,
@@ -168,12 +168,12 @@
         }
     },
     {
-        "id": "iosconfsg_2019_",
-        "name": "",
+        "id": "iosconfsg_2019_the-art-of-designing-code",
+        "name": "The Art of Designing Code",
         "authors": [
             {
-                "id": "",
-                "name": ""
+                "id": "mischa-hildebrand",
+                "name": "Mischa Hildebrand"
             }
         ]
         ,
@@ -188,7 +188,7 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "_qKlb7MbeKA"
         }
     },
     {
