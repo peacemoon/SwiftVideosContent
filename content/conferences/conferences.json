@@ -38,5 +38,9 @@
     {
         "id": "hacking-with-swift-live",
         "name": "Hacking with Swift: Live"
+    },
+    {
+        "id": "tryswift-tokio",
+        "name": "trySwift! Tokio"
     }
 ]
