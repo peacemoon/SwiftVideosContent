@@ -1,0 +1,410 @@
+[
+    {
+        "id": "iosconfsg_2019_pedal-to-the-metal",
+        "name": "Pedal to the Metal",
+        "authors": [
+            {
+                "id": "esteban-torres",
+                "name": "Esteban Torres"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "fP5EGObW-NY"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_swift-5s-brand-new-result-type",
+        "name": "Swift 5’s brand new Result Type",
+        "authors": [
+            {
+                "id": "daniel-steinberg",
+                "name": "Daniel Steinberg"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "ICnZq3MfrMA"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_make-your-own-code-formatter-in-swift",
+        "name": "Make your own code formatter in Swift",
+        "authors": [
+            {
+                "id": "Yasuhiro Inami",
+                "name": "Yasuhiro Inami"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "_F9KcXSLc_s"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_fear-not-for-the-filesystem-is-with-you",
+        "name": "Fear not, for the filesystem is with you",
+        "authors": [
+            {
+                "id": "jeffrey-bergier",
+                "name": "Jeffrey Bergier"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "X9wyuht5BLs"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_lessons-from-becoming-an-sdk-developer",
+        "name": "Lessons From Becoming an SDK Developer",
+        "authors": [
+            {
+                "id": "Oscar Swanros",
+                "name": "Oscar Swanros"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "_g1mqG5tA0s"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_the-underestimated-power-of-keypaths",
+        "name": "The underestimated power of KeyPaths",
+        "authors": [
+            {
+                "id": "vincent-pradeilles",
+                "name": "Vincent Pradeilles"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "20k3000Pn4s"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_algebraic-data-types-in-swift",
+        "name": "Algebraic Data Types in Swift",
+        "authors": [
+            {
+                "id": "Heng Hong Lee",
+                "name": "Heng Hong Lee"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "2d6_vOfwnDk"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_the-art-of-designing-code",
+        "name": "The Art of Designing Code",
+        "authors": [
+            {
+                "id": "mischa-hildebrand",
+                "name": "Mischa Hildebrand"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "_qKlb7MbeKA"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_mastering-multi-screen-ios-apps",
+        "name": "Mastering Multi-screen iOS Apps",
+        "authors": [
+            {
+                "id": "paul-hudson",
+                "name": "Paul Hudson"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "7P1KucwZ0A0"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_behind-the-scenes-with-auto-layout",
+        "name": "Behind the Scenes with Auto Layout",
+        "authors": [
+            {
+                "id": "agnes-vasarhelyi",
+                "name": "Agnes Vasarhelyi"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "gxfyb3ipUFg"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_building-ios-apps-without-xcode",
+        "name": "Building iOS Apps without Xcode",
+        "authors": [
+            {
+                "id": "Steven Hepting",
+                "name": "Steven Hepting"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "JRsWi8KC2Sw"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_make-uitest-great-again-using-localhost",
+        "name": "Make UITest great again, using localhost",
+        "authors": [
+            {
+                "id": "kenneth-poon",
+                "name": "Kenneth Poon"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "9JMVszZfFwk"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_how-fast-can-you-rotate-an-image",
+        "name": "How fast can you rotate an image",
+        "authors": [
+            {
+                "id": "omer-iqbal",
+                "name": "Omer Iqbal"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "EPyoT_p0gQs"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_how-to-build-a-debug-view-almost-for-free",
+        "name": "How to build a debug view (almost) for free",
+        "authors": [
+            {
+                "id": "vincent-pradeilles",
+                "name": "Vincent Pradeilles"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "YRPwVF5dYDc"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_snowflake-id",
+        "name": "Snowflake ID",
+        "authors": [
+            {
+                "id": "sasmito-adibowo",
+                "name": "Sasmito Adibowo"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "RajJJnpTcf0"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_augmented-reality-game-with-arkit",
+        "name": "Augmented Reality Game with ARKit",
+        "authors": [
+            {
+                "id": "christian-grail",
+                "name": "Christian Grail"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Q91z42kTJFM"
+        }
+    },
+    {
+        "id": "iosconfsg_2019_from-problem-to-solution",
+        "name": "From Problem To Solution",
+        "authors": [
+            {
+                "id": "soroush-khanlou",
+                "name": "Soroush Khanlou"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "iosconfsg",
+                "name": "iOS Conf SG"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": ""
+        }
+    }
+]
