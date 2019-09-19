@@ -1,410 +1,534 @@
 [
     {
-        "id": "iosconfsg_2019_pedal-to-the-metal",
-        "name": "Pedal to the Metal",
+        "id": "tryswift-nyc_2018_memojis-under-the-hood",
+        "name": "Memojis under the hood",
         "authors": [
             {
-                "id": "esteban-torres",
-                "name": "Esteban Torres"
+                "id": "berta-devant",
+                "name": "Berta Devant"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "fP5EGObW-NY"
+            "value": "ERwertwlwrE"
         }
     },
     {
-        "id": "iosconfsg_2019_swift-5s-brand-new-result-type",
-        "name": "Swift 5’s brand new Result Type",
+        "id": "tryswift-nyc_2018_swift-on-server",
+        "name": "Swift on Server: Are We There Yet?",
         "authors": [
             {
-                "id": "daniel-steinberg",
-                "name": "Daniel Steinberg"
+                "id": "gopal-sharma",
+                "name": "Gopal Sharma"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "ICnZq3MfrMA"
+            "value": "qpDiXZRADfE"
         }
     },
     {
-        "id": "iosconfsg_2019_make-your-own-code-formatter-in-swift",
-        "name": "Make your own code formatter in Swift",
+        "id": "tryswift-nyc_2018_getting-started-with-apple-ml",
+        "name": "Getting Started with Apple ML",
         "authors": [
             {
-                "id": "Yasuhiro Inami",
-                "name": "Yasuhiro Inami"
+                "id": "audrey-tam",
+                "name": "Audrey Tam"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "_F9KcXSLc_s"
+            "value": "ZDWu9DUmD9s"
         }
     },
     {
-        "id": "iosconfsg_2019_fear-not-for-the-filesystem-is-with-you",
-        "name": "Fear not, for the filesystem is with you",
+        "id": "tryswift-nyc_2018_swift-nio-vapor-and-server-concurrency",
+        "name": "Swift NIO, Vapor, and Server Concurrency",
         "authors": [
             {
-                "id": "jeffrey-bergier",
-                "name": "Jeffrey Bergier"
+                "id": "logan-wright",
+                "name": "Logan Wright"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "X9wyuht5BLs"
+            "value": "RW2vKWiGWr4"
         }
     },
     {
-        "id": "iosconfsg_2019_lessons-from-becoming-an-sdk-developer",
-        "name": "Lessons From Becoming an SDK Developer",
+        "id": "tryswift-nyc_2018_Making it Generic",
+        "name": "Making it Generic",
         "authors": [
             {
-                "id": "Oscar Swanros",
-                "name": "Oscar Swanros"
+                "id": "jon-tait-beason",
+                "name": "Jon-Tait Beason"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "_g1mqG5tA0s"
+            "value": "xpqVVenP8ok"
         }
     },
     {
-        "id": "iosconfsg_2019_the-underestimated-power-of-keypaths",
-        "name": "The underestimated power of KeyPaths",
+        "id": "tryswift-nyc_2018_let-them-say-what-they-want",
+        "name": "Let Them Say What They Want: Adding Siri Shortcuts",
         "authors": [
             {
-                "id": "vincent-pradeilles",
-                "name": "Vincent Pradeilles"
+                "id": "christina-moulton",
+                "name": "Christina Moulton"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "20k3000Pn4s"
+            "value": "_0PzPj2VUVw"
         }
     },
     {
-        "id": "iosconfsg_2019_algebraic-data-types-in-swift",
-        "name": "Algebraic Data Types in Swift",
+        "id": "tryswift-nyc_2018_hacking-marzipan",
+        "name": "Hacking Marzipan",
         "authors": [
             {
-                "id": "Heng Hong Lee",
-                "name": "Heng Hong Lee"
+                "id": "peter-steinberger",
+                "name": "Peter Steinberger"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "2d6_vOfwnDk"
+            "value": "2OuQarA0a7I"
         }
     },
     {
-        "id": "iosconfsg_2019_the-art-of-designing-code",
-        "name": "The Art of Designing Code",
+        "id": "tryswift-nyc_2018_compassionate",
+        "name": "Compassionate—Yet Candid—Code Reviews",
         "authors": [
             {
-                "id": "mischa-hildebrand",
-                "name": "Mischa Hildebrand"
+                "id": "april-wensel",
+                "name": "April Wensel"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "_qKlb7MbeKA"
+            "value": "Ea8EiIPZvh0"
         }
     },
     {
-        "id": "iosconfsg_2019_mastering-multi-screen-ios-apps",
-        "name": "Mastering Multi-screen iOS Apps",
+        "id": "tryswift-nyc_2018_super-resolution-with-coreml",
+        "name": "Super Resolution with CoreML",
         "authors": [
             {
-                "id": "paul-hudson",
-                "name": "Paul Hudson"
+                "id": "kentaro-matsumae",
+                "name": "Kentaro Matsumae"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "7P1KucwZ0A0"
+            "value": "S73T0TdE9SI"
         }
     },
     {
-        "id": "iosconfsg_2019_behind-the-scenes-with-auto-layout",
-        "name": "Behind the Scenes with Auto Layout",
+        "id": "tryswift-nyc_2018_customizing-your-notifications-for-ios-12",
+        "name": "Customizing Your Notifications for iOS 12",
         "authors": [
             {
-                "id": "agnes-vasarhelyi",
-                "name": "Agnes Vasarhelyi"
+                "id": "kaya-thomas",
+                "name": "Kaya Thomas"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "gxfyb3ipUFg"
+            "value": "cVFMRRQIZG4"
         }
     },
     {
-        "id": "iosconfsg_2019_building-ios-apps-without-xcode",
-        "name": "Building iOS Apps without Xcode",
+        "id": "tryswift-nyc_2018_Make our Swift better",
+        "name": "Make our Swift better",
         "authors": [
             {
-                "id": "Steven Hepting",
-                "name": "Steven Hepting"
+                "id": "daiki-matsudate",
+                "name": "Daiki Matsudate"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "JRsWi8KC2Sw"
+            "value": "4ELsSqgVA_Y"
         }
     },
     {
-        "id": "iosconfsg_2019_make-uitest-great-again-using-localhost",
-        "name": "Make UITest great again, using localhost",
+        "id": "tryswift-nyc_2018_effective-core-data-with-swift",
+        "name": "Effective Core Data with Swift",
         "authors": [
             {
-                "id": "kenneth-poon",
-                "name": "Kenneth Poon"
+                "id": "tom-harrington",
+                "name": "Tom Harrington"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "9JMVszZfFwk"
+            "value": "w7tFF7IfKVk"
         }
     },
     {
-        "id": "iosconfsg_2019_how-fast-can-you-rotate-an-image",
-        "name": "How fast can you rotate an image",
+        "id": "tryswift-nyc_2018_what-ilearned-creating-a-social-media-app-clone",
+        "name": "What I learned creating a social media app clone",
         "authors": [
             {
-                "id": "Omer Iqbal",
-                "name": "Omer Iqbal"
+                "id": "jen-person",
+                "name": "Jen Person"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "EPyoT_p0gQs"
+            "value": "7pEATK6PgXs"
         }
     },
     {
-        "id": "iosconfsg_2019_how-to-build-a-debug-view-almost-for-free",
-        "name": "How to build a debug view (almost) for free",
+        "id": "tryswift-nyc_2018_trusting-sdks",
+        "name": "Trusting SDKs",
         "authors": [
             {
-                "id": "vincent-pradeilles",
-                "name": "Vincent Pradeilles"
+                "id": "felix-krause",
+                "name": "Felix Krause"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "YRPwVF5dYDc"
+            "value": "BXePggcWpuE"
         }
     },
     {
-        "id": "iosconfsg_2019_snowflake-id",
-        "name": "Snowflake ID",
+        "id": "tryswift-nyc_2018_idea-to-launch",
+        "name": "Idea to launch - the start of a startup",
         "authors": [
             {
-                "id": "sasmito-adibowo",
-                "name": "Sasmito Adibowo"
+                "id": "leah-culver",
+                "name": "Leah Culver"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "RajJJnpTcf0"
+            "value": "b7bVgnbgGyI"
         }
     },
     {
-        "id": "iosconfsg_2019_augmented-reality-game-with-arkit",
-        "name": "Augmented Reality Game with ARKit",
+        "id": "tryswift-nyc_2018_strings-seven-ways",
+        "name": "Strings Seven Ways",
         "authors": [
             {
-                "id": "Christian Grail",
-                "name": "Christian Grail"
+                "id": "Mattt",
+                "name": "Mattt"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": "Q91z42kTJFM"
+            "value": "8pnHolNHD2Y"
         }
     },
     {
-        "id": "iosconfsg_2019_from-problem-to-solution",
-        "name": "From Problem To Solution",
+        "id": "tryswift-nyc_2018_need-for-speed",
+        "name": "Need for Speed: How XO Group Optimized their Image Loading Time on The Knot Mobile App",
         "authors": [
             {
-                "id": "soroush-khanlou",
-                "name": "Soroush Khanlou"
+                "id": "erica-correa",
+                "name": "Erica Correa"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
             },
             "edition": {
-                "year": 2019
+                "year": 2018
             }
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "bhQJKRSStuE"
+        }
+    },
+    {
+        "id": "tryswift-nyc_2018_taken-for-granted",
+        "name": "Taken For Granted",
+        "authors": [
+            {
+                "id": "bas-broek",
+                "name": "Bas Broek"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "ePuOrCbIW-o"
+        }
+    },
+    {
+        "id": "tryswift-nyc_2018_crafting-a-delightful-tactile-user-interface",
+        "name": "Crafting a delightful tactile user interface",
+        "authors": [
+            {
+                "id": "sebastiaan-de-with",
+                "name": "Sebastiaan de With"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "U_Rq8UvGYzc"
+        }
+    },
+    {
+        "id": "tryswift-nyc_2018_using-your-superpowers-for-good-to-change-the-world",
+        "name": "Using your superpowers for good to change the world!",
+        "authors": [
+            {
+                "id": "alicia-v-carr",
+                "name": "Alicia V Carr"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "_4Wof3sIKqc"
+        }
+    },
+    {
+        "id": "tryswift-nyc_2018_swift-services-are-simple",
+        "name": "Swift Services are Simple",
+        "authors": [
+            {
+                "id": "chris-bailey",
+                "name": "Chris Bailey"
+            },
+            {
+                "id": "ian-partridge",
+                "name": "Ian Partridge"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "tBogAmEzJCk"
+        }
+    },
+    {
+        "id": "tryswift-nyc_2018_swiftnio-and-network-framework",
+        "name": "SwiftNIO and Network.framework",
+        "authors": [
+            {
+                "id": "johannes-weiss",
+                "name": "Johannes Weiss"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-nyc",
+                "name": "try! Swift NYC"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "M9kEtkhEjQ8"
         }
     }
 ]

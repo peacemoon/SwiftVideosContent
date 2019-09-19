@@ -1,18 +1,18 @@
 [
     {
-        "id": "iosconfsg_2019_pedal-to-the-metal",
-        "name": "Pedal to the Metal",
+        "id": "tryswift-tokio_2019_Swift Server Update",
+        "name": "Swift Server Update",
         "authors": [
             {
-                "id": "esteban-torres",
-                "name": "Esteban Torres"
+                "id": "Tom Doron",
+                "name": "Tom Doron"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -20,23 +20,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "fP5EGObW-NY"
+            "value": "ZefmzgLabCA"
         }
     },
     {
-        "id": "iosconfsg_2019_swift-5s-brand-new-result-type",
-        "name": "Swift 5’s brand new Result Type",
+        "id": "tryswift-tokio_2019_the_philosopher_string",
+        "name": "The Philosopher's String",
         "authors": [
             {
-                "id": "daniel-steinberg",
-                "name": "Daniel Steinberg"
+                "id": "michael_ilseman",
+                "name": "Michael Ilseman"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -44,23 +44,27 @@
         },
         "source": {
             "type": "youtube",
-            "value": "ICnZq3MfrMA"
+            "value": "lMhGnTFA9CI"
         }
     },
     {
-        "id": "iosconfsg_2019_make-your-own-code-formatter-in-swift",
-        "name": "Make your own code formatter in Swift",
+        "id": "tryswift-tokio_2019_building_a_social_network_in_swift",
+        "name": "Building a Social Network in Swift",
         "authors": [
             {
-                "id": "Yasuhiro Inami",
-                "name": "Yasuhiro Inami"
+                "id": "david_okun",
+                "name": "David Okun"
+            },
+            {
+                "id": "ian_partridge",
+                "name": "Ian Partridge"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -68,23 +72,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "_F9KcXSLc_s"
+            "value": "u901qDvBuUU"
         }
     },
     {
-        "id": "iosconfsg_2019_fear-not-for-the-filesystem-is-with-you",
-        "name": "Fear not, for the filesystem is with you",
+        "id": "tryswift-tokio_2019_psychology_study",
+        "name": "Psychology study background and prospects in iOS device",
         "authors": [
             {
-                "id": "jeffrey-bergier",
-                "name": "Jeffrey Bergier"
+                "id": "yuto_mizutani",
+                "name": "Yuto Mizutani"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -92,23 +96,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "X9wyuht5BLs"
+            "value": "5XgV5vF6tiM"
         }
     },
     {
-        "id": "iosconfsg_2019_lessons-from-becoming-an-sdk-developer",
-        "name": "Lessons From Becoming an SDK Developer",
+        "id": "tryswift-tokio_2019_using_c_objective_c_frameworks",
+        "name": "Using C, C++ and Objective C frameworks in Swift apps",
         "authors": [
             {
-                "id": "Oscar Swanros",
-                "name": "Oscar Swanros"
+                "id": "cecilia-humlelu",
+                "name": "Cecilia Humlelu"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -116,23 +120,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "_g1mqG5tA0s"
+            "value": "aVdJj0XC-Ko"
         }
     },
     {
-        "id": "iosconfsg_2019_the-underestimated-power-of-keypaths",
-        "name": "The underestimated power of KeyPaths",
+        "id": "tryswift-tokio_2019_swift_hardware_hacking",
+        "name": "Swift Hardware Hacking",
         "authors": [
             {
-                "id": "vincent-pradeilles",
-                "name": "Vincent Pradeilles"
+                "id": "sally-shepard",
+                "name": "Sally Shepard"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -140,23 +144,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "20k3000Pn4s"
+            "value": "b9EVb0jEt8E"
         }
     },
     {
-        "id": "iosconfsg_2019_algebraic-data-types-in-swift",
-        "name": "Algebraic Data Types in Swift",
+        "id": "tryswift-tokio_2019_building_a_mobile_design_system",
+        "name": "Building a Mobile Design System",
         "authors": [
             {
-                "id": "Heng Hong Lee",
-                "name": "Heng Hong Lee"
+                "id": "kristina-fox",
+                "name": "Kristina Fox"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -164,23 +168,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "2d6_vOfwnDk"
+            "value": "Fvq8PQKJj_k"
         }
     },
     {
-        "id": "iosconfsg_2019_the-art-of-designing-code",
-        "name": "The Art of Designing Code",
+        "id": "tryswift-tokio_2019_Swift type metadata",
+        "name": "Swift type metadata",
         "authors": [
             {
-                "id": "mischa-hildebrand",
-                "name": "Mischa Hildebrand"
+                "id": "yuta-saito",
+                "name": "Yuta Saito"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -188,23 +192,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "_qKlb7MbeKA"
+            "value": "2fon4YFI9Ao"
         }
     },
     {
-        "id": "iosconfsg_2019_mastering-multi-screen-ios-apps",
-        "name": "Mastering Multi-screen iOS Apps",
+        "id": "tryswift-tokio_2019_in-defense-of-core-data",
+        "name": "In defense of Core Data",
         "authors": [
             {
-                "id": "paul-hudson",
-                "name": "Paul Hudson"
+                "id": "donny-wals",
+                "name": "Donny Wals"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -212,23 +216,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "7P1KucwZ0A0"
+            "value": "aUoT5w4JOoM"
         }
     },
     {
-        "id": "iosconfsg_2019_behind-the-scenes-with-auto-layout",
-        "name": "Behind the Scenes with Auto Layout",
+        "id": "tryswift-tokio_2019_assembly",
+        "name": "Assembly. You can do it!",
         "authors": [
             {
-                "id": "agnes-vasarhelyi",
-                "name": "Agnes Vasarhelyi"
+                "id": "andrew-madsen",
+                "name": "Andrew Madsen"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -236,23 +240,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "gxfyb3ipUFg"
+            "value": "nf0GXcvBlRY"
         }
     },
     {
-        "id": "iosconfsg_2019_building-ios-apps-without-xcode",
-        "name": "Building iOS Apps without Xcode",
+        "id": "tryswift-tokio_2019_property-based-test-beginning-with-swiftcheck",
+        "name": "Property-based test beginning with SwiftCheck",
         "authors": [
             {
-                "id": "Steven Hepting",
-                "name": "Steven Hepting"
+                "id": "yusuke-hosonuma",
+                "name": "Yusuke Hosonuma"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -260,23 +264,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "JRsWi8KC2Sw"
+            "value": "PnnSQet2-Pg"
         }
     },
     {
-        "id": "iosconfsg_2019_make-uitest-great-again-using-localhost",
-        "name": "Make UITest great again, using localhost",
+        "id": "tryswift-tokio_2019_shaping-sounds-in-swift",
+        "name": "Shaping Sounds in Swift",
         "authors": [
             {
-                "id": "kenneth-poon",
-                "name": "Kenneth Poon"
+                "id": "adam-bell",
+                "name": "Adam Bell"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -284,23 +288,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "9JMVszZfFwk"
+            "value": "lDTw6YZBDGo"
         }
     },
     {
-        "id": "iosconfsg_2019_how-fast-can-you-rotate-an-image",
-        "name": "How fast can you rotate an image",
+        "id": "tryswift-tokio_2019_making-portrait-mode-yourself",
+        "name": "Making Portrait mode yourself",
         "authors": [
             {
-                "id": "omer-iqbal",
-                "name": "Omer Iqbal"
+                "id": "rina-kotake",
+                "name": "Rina Kotake"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -308,23 +312,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "EPyoT_p0gQs"
+            "value": "_Lq0iJirT-E"
         }
     },
     {
-        "id": "iosconfsg_2019_how-to-build-a-debug-view-almost-for-free",
-        "name": "How to build a debug view (almost) for free",
+        "id": "tryswift-tokio_2019_the-laws-of-magic",
+        "name": "The Laws of Magic",
         "authors": [
             {
-                "id": "vincent-pradeilles",
-                "name": "Vincent Pradeilles"
+                "id": "dave-delong",
+                "name": "Dave DeLong"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -332,23 +336,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "YRPwVF5dYDc"
+            "value": "T9vRBioadYc"
         }
     },
     {
-        "id": "iosconfsg_2019_snowflake-id",
-        "name": "Snowflake ID",
+        "id": "tryswift-tokio_2019_contributing-to-swift-compiler",
+        "name": "Contributing to Swift Compiler",
         "authors": [
             {
-                "id": "sasmito-adibowo",
-                "name": "Sasmito Adibowo"
+                "id": "yusuke-kita",
+                "name": "Yusuke Kita"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -356,23 +360,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "RajJJnpTcf0"
+            "value": "HAXJsgYniqE"
         }
     },
     {
-        "id": "iosconfsg_2019_augmented-reality-game-with-arkit",
-        "name": "Augmented Reality Game with ARKit",
+        "id": "tryswift-tokio_2019_all-about-linking-libraries",
+        "name": "All about linking libraries",
         "authors": [
             {
-                "id": "christian-grail",
-                "name": "Christian Grail"
+                "id": "kishikawa-katsumi",
+                "name": "Kishikawa Katsumi"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -380,23 +384,23 @@
         },
         "source": {
             "type": "youtube",
-            "value": "Q91z42kTJFM"
+            "value": "EPLreKM5Dlc"
         }
     },
     {
-        "id": "iosconfsg_2019_from-problem-to-solution",
-        "name": "From Problem To Solution",
+        "id": "tryswift-tokio_2019_machobfuscator",
+        "name": "MachObfuscator",
         "authors": [
             {
-                "id": "soroush-khanlou",
-                "name": "Soroush Khanlou"
+                "id": "Kamil Borzym",
+                "name": "Kamil Borzym"
             }
         ]
         ,
         "conference": {
             "metaData": {
-                "id": "iosconfsg",
-                "name": "iOS Conf SG"
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
             },
             "edition": {
                 "year": 2019
@@ -404,7 +408,319 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "QTS2_CcnAgU"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_introducing-sourcekit-lsp",
+        "name": "Introducing SourceKit-LSP",
+        "authors": [
+            {
+                "id": "ryo-izumi",
+                "name": "Ryo Izumi"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "rQ7qArmbKOI"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_try-prototype",
+        "name": "try Prototype!",
+        "authors": [
+            {
+                "id": "maxim-cramer",
+                "name": "Maxim Cramer"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "TYOramNrprQ"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_driving-engagement-with-siri-shortcuts-and-nsuseractivity",
+        "name": "Driving Engagement with Siri Shortcuts and NSUserActivity7",
+        "authors": [
+            {
+                "id": "nic-laughter",
+                "name": "Nic Laughter"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "zm-Ayvm0oew"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_discover-memory-leak-with-testcase",
+        "name": "Discover memory leak with Testcase",
+        "authors": [
+            {
+                "id": "nobuo-saito",
+                "name": "Nobuo Saito"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "jseRwn8fTg4"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_so-you-want-to-build-an-arkit-app",
+        "name": "So you want to build an ARKit app",
+        "authors": [
+            {
+                "id": "namrata-bandekar",
+                "name": "Namrata Bandekar"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "RpJJEvFGGCY"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_graphics-like-pixar-using-swift",
+        "name": "Graphics like Pixar using Swift",
+        "authors": [
+            {
+                "id": "michael-petrie",
+                "name": "Michael Petrie"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "jcshB5wM28Q"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_color-contrast-for-accessibility",
+        "name": "Color Contrast for Accessibility",
+        "authors": [
+            {
+                "id": "liz-marley",
+                "name": "Liz Marley"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "V6YY0fmaocc"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_deep-dive-into-swift-literal",
+        "name": "Deep dive into Swift Literal",
+        "authors": [
+            {
+                "id": "yuki-aki",
+                "name": "Yuki Aki"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "NpPLmSVWMAc"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_introduction-to-swift-keypaths",
+        "name": "Introduction to Swift Keypaths",
+        "authors": [
+            {
+                "id": "benedikt-terhechte",
+                "name": "Benedikt Terhechte"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "z4lTKBS0ZbQ"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_limited-import-clarification-and-its-effect",
+        "name": "Limited import clarification and its effect",
+        "authors": [
+            {
+                "id": "tomoya-hirano",
+                "name": "Tomoya Hirano"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "8OMQ2DiS-zA"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_swift-as-light",
+        "name": "Swift as Light",
+        "authors": [
+            {
+                "id": "Jon-Tait Beason",
+                "name": "Jon-Tait Beason"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "XfDCGvnoLhs"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_swift-as-light",
+        "name": "Swift as Light",
+        "authors": [
+            {
+                "id": "Jon-Tait Beason",
+                "name": "Jon-Tait Beason"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "XfDCGvnoLhs"
+        }
+    },
+    {
+        "id": "tryswift-tokio_2019_Generics in protocol extension",
+        "name": "Generics in protocol extension",
+        "authors": [
+            {
+                "id": "hikaru-yoshimura",
+                "name": "Hikaru Yoshimura"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "tryswift-tokio",
+                "name": "try! Swift Tokio"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Urt1VJShbL4"
         }
     }
 ]

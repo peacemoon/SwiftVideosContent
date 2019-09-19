@@ -42,5 +42,13 @@
     {
         "id": "tryswift-tokio",
         "name": "trySwift! Tokio"
+    },
+    {
+        "id": "tryswift-nyc",
+        "name": "trySwift! NYC"
+    },
+    {
+        "id": "moconfby",
+        "name": "MOConfBy"
     }
 ]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "moconfby_2018_machine_learning_on_mobile_a_primer",
+        "name": "Machine Learning on Mobile: a primer",
+        "authors": [
+            {
+                "id": "sam_davies",
+                "name": "Sam Davies"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "moconfby",
+                "name": "MOConfBy"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "PEMJUNn3n_Y"
+        }
+    },
+    {
+        "id": "moconfby_2018_secrets_and_lies",
+        "name": "Secrets and Lies",
+        "authors": [
+            {
+                "id": "rob_napier",
+                "name": "Rob Napier"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "moconfby",
+                "name": "MOConfBy"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "Jv-qEr0j4AM"
+        }
+    },
+    {
+        "id": "moconfby_2018_thoughtful_refactoring",
+        "name": "Thoughtful Refactoring",
+        "authors": [
+            {
+                "id": "oleg_kohtenko",
+                "name": "Oleg Kohtenko"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "moconfby",
+                "name": "MOConfBy"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "nNGziTQ2KAk"
+        }
+    },
+    {
+        "id": "moconfby_2018_the_future_is_here_arkit_20",
+        "name": "The future is here: ARKit 2.0",
+        "authors": [
+            {
+                "id": "bruno_muniz",
+                "name": "Bruno Muniz"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "moconfby",
+                "name": "MOConfBy"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "3u_fPzP24Yg"
+        }
+    },
+    {
+        "id": "moconfby_2018_Architectural approach to errors handling",
+        "name": "Architectural approach to errors handling",
+        "authors": [
+            {
+                "id": "dmitry_mikhailov",
+                "name": "Dmitry Mikhailov"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "moconfby",
+                "name": "MOConfBy"
+            },
+            "edition": {
+                "year": 2018
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "gcTEq87IoNw"
+        }
+    }
+]
