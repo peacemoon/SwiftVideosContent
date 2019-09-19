@@ -15,7 +15,7 @@ public final class CommlandLineTool {
 
 
     // MARK: Initialization
-    
+
     public init(arguments: [String] = CommandLine.arguments) {
         self.arguments = arguments
         commandRegistry = CommandRegistry(usage: "<subcommand> <options>", overview: "Tools to manage database for SwiftVideos app")
@@ -40,6 +40,5 @@ public final class CommlandLineTool {
         let videosCommand = commandRegistry.register(command: VideosCommand.self)
         commandRegistry.register(subcommand: VideosValidationCommand.self, parent: videosCommand)
         commandRegistry.register(subcommand: VideosGenerationCommand.self, parent: videosCommand)
-
     }
 }
