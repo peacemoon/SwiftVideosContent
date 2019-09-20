@@ -31,6 +31,11 @@ public final class CommlandLineTool {
     // MARK: Private helpers
 
     private func registerCommands() {
+
+        // Conferences
+        let conferencesCommand = commandRegistry.register(command: ConferencesCommand.self)
+        commandRegistry.register(subcommand: AuthorsValidationCommand.self, parent: conferencesCommand)
+
         // Authors
         let authorsCommand = commandRegistry.register(command: AuthorsCommand.self)
         commandRegistry.register(subcommand: AuthorsValidationCommand.self, parent: authorsCommand)

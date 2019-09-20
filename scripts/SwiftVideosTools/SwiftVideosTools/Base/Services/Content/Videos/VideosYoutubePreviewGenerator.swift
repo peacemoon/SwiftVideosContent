@@ -37,10 +37,12 @@ public class VideosYoutubePreviewGenerator {
                     //print(url)
                     let data = try Data(contentsOf: url)
                     try conferenceEditionFolder.createFileIfNeeded(withName: filename, contents: data)
+
                 default:
                     break
                 }
             }
+            print("Youtube preview images are downloaded successfully".lightCyan())
         } catch {
             print("[Error] \(error)".red())
         }

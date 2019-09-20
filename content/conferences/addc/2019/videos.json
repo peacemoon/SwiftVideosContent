@@ -19,11 +19,11 @@
         },
         "source": {
             "type": "youtube",
-            "value": ""
+            "value": "_y0lGk570Vo"
         }
     },
     {
-        "id": "addc_2019_Building and scaling a culture of AB testing",
+        "id": "addc_2019_building-and-scaling-a-culture-of-ab-testing",
         "name": "Building and scaling a culture of AB testing",
         "authors": [
             {
@@ -46,7 +46,7 @@
         }
     },
     {
-        "id": "addc_2019_fearlessly-Forward",
+        "id": "addc_2019_fearlessly-forward",
         "name": "Fearlessly Forward: My intuitive approach to Silicon Valley",
         "authors": [
             {
@@ -69,7 +69,7 @@
         }
     },
     {
-        "id": "addc_2019_How to make your professional dreams come true",
+        "id": "addc_2019_how-to-make-your-professional-dreams-come-true",
         "name": "How to make your professional dreams come true",
         "authors": [
             {
@@ -92,7 +92,7 @@
         }
     },
     {
-        "id": "addc_2019_ Building great offline-first apps",
+        "id": "addc_2019_building-great-offline-first-apps",
         "name": "Building great offline-first apps",
         "authors": [
             {
@@ -115,7 +115,7 @@
         }
     },
     {
-        "id": "addc_2019_Consistency is Key - Working with a Design System",
+        "id": "addc_2019_consistency-is-key",
         "name": "Consistency is Key - Working with a Design System",
         "authors": [
             {
@@ -138,7 +138,7 @@
         }
     },
     {
-        "id": "addc_2019_Design System and Component Libraries at Spotify",
+        "id": "addc_2019_design-system-and-component-libraries-at-spotify",
         "name": "Design System and Component Libraries at Spotify",
         "authors": [
             {
@@ -161,7 +161,7 @@
         }
     },
     {
-        "id": "addc_2019_How we built a design system for consistency",
+        "id": "addc_2019_how-we-built-a-design-system-for-consistency",
         "name": "How we built a design system for consistency",
         "authors": [
             {
@@ -188,7 +188,7 @@
         }
     },
     {
-        "id": "addc_2019_How to drive change and create impact on your organization",
+        "id": "addc_2019_how-to-drive-change-and-create-impact-on-your-organization",
         "name": "How to drive change and create impact on your organization",
         "authors": [
             {
@@ -211,11 +211,11 @@
         }
     },
     {
-        "id": "addc_2019_Good rules for Bad apps",
+        "id": "addc_2019_good-rules-for-bad-apps",
         "name": "Good rules for Bad apps",
         "authors": [
             {
-                "id": "shem-mMagnezi",
+                "id": "shem-magnezi",
                 "name": "Shem Magnezi"
             }
         ],
@@ -280,11 +280,11 @@
         }
     },
     {
-        "id": "addc_2019_Everyone Does Research",
+        "id": "addc_2019_everyone-does-research",
         "name": "Everyone Does Research",
         "authors": [
             {
-                "id": "Matthew Eng",
+                "id": "matthew-eng",
                 "name": "Matthew Eng"
             }
         ],
@@ -303,11 +303,11 @@
         }
     },
     {
-        "id": "addc_2019_The NPU Revolution",
+        "id": "addc_2019_the-npu-revolution",
         "name": "The NPU Revolution",
         "authors": [
             {
-                "id": "Dan Abdinoor",
+                "id": "dan-abdinoor",
                 "name": "Dan Abdinoor"
             }
         ],
