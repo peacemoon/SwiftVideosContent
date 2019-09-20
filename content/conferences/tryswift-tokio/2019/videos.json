@@ -1,6 +1,6 @@
 [
     {
-        "id": "tryswift-tokio_2019_Swift Server Update",
+        "id": "tryswift-tokio_2019_swift-server-update",
         "name": "Swift Server Update",
         "authors": [
             {
@@ -24,7 +24,7 @@
         }
     },
     {
-        "id": "tryswift-tokio_2019_the_philosopher_string",
+        "id": "tryswift-tokio_2019_the-philosopher-string",
         "name": "The Philosopher's String",
         "authors": [
             {
@@ -48,7 +48,7 @@
         }
     },
     {
-        "id": "tryswift-tokio_2019_building_a_social_network_in_swift",
+        "id": "tryswift-tokio_2019_building-a-social-network-in-swift",
         "name": "Building a Social Network in Swift",
         "authors": [
             {
@@ -76,7 +76,7 @@
         }
     },
     {
-        "id": "tryswift-tokio_2019_psychology_study",
+        "id": "tryswift-tokio_2019_psychology-study",
         "name": "Psychology study background and prospects in iOS device",
         "authors": [
             {
@@ -100,7 +100,7 @@
         }
     },
     {
-        "id": "tryswift-tokio_2019_using_c_objective_c_frameworks",
+        "id": "tryswift-tokio_2019_using-c-objective-c-frameworks",
         "name": "Using C, C++ and Objective C frameworks in Swift apps",
         "authors": [
             {
@@ -124,7 +124,7 @@
         }
     },
     {
-        "id": "tryswift-tokio_2019_swift_hardware_hacking",
+        "id": "tryswift-tokio_2019_swift-hardware-hacking",
         "name": "Swift Hardware Hacking",
         "authors": [
             {
@@ -148,7 +148,7 @@
         }
     },
     {
-        "id": "tryswift-tokio_2019_building_a_mobile_design_system",
+        "id": "tryswift-tokio_2019_building-a_mobile-design-system",
         "name": "Building a Mobile Design System",
         "authors": [
             {
@@ -172,7 +172,7 @@
         }
     },
     {
-        "id": "tryswift-tokio_2019_Swift type metadata",
+        "id": "tryswift-tokio_2019_swift-type-metadata",
         "name": "Swift type metadata",
         "authors": [
             {
@@ -700,7 +700,7 @@
         }
     },
     {
-        "id": "tryswift-tokio_2019_Generics in protocol extension",
+        "id": "tryswift-tokio_2019_generics-in-protocol-extension",
         "name": "Generics in protocol extension",
         "authors": [
             {

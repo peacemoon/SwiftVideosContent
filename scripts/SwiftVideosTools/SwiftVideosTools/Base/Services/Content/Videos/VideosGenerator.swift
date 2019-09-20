@@ -56,7 +56,9 @@ public class VideosGenerator {
         }
     }
 
-    public func export() throws {
+    // MARK: Private helpers
+
+    private func export() throws {
         guard let videosString = videos.prettyPrintedString else {
             return
         }
@@ -67,34 +69,5 @@ public class VideosGenerator {
         try outputFile.write(string: videosString)
 
         print("Videos are exported successfully".lightCyan())
-    }
-}
-
-extension Folder {
-    var isConferenceFolder: Bool {
-        return self.containsFile(named: "conference.json")
-    }
-
-    var isConferenceEditionFolder: Bool {
-        return self.name.isNumber && self.containsFile(named: "videos.json")
-    }
-}
-
-extension String {
-    var isNumber: Bool {
-        return !isEmpty && rangeOfCharacter(from: CharacterSet.decimalDigits.inverted) == nil
-    }
-}
-
-extension Array where Element: Encodable {
-    var prettyPrintedString: String? {
-        let jsonEncoder = JSONEncoder()
-        jsonEncoder.outputFormatting = .prettyPrinted
-        do {
-            let data = try jsonEncoder.encode(self)
-            return String(data: data, encoding: .utf8)
-        } catch {
-            return nil
-        }
     }
 }

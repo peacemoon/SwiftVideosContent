@@ -40,5 +40,6 @@ public final class CommlandLineTool {
         let videosCommand = commandRegistry.register(command: VideosCommand.self)
         commandRegistry.register(subcommand: VideosValidationCommand.self, parent: videosCommand)
         commandRegistry.register(subcommand: VideosGenerationCommand.self, parent: videosCommand)
+        commandRegistry.register(subcommand: VideosYoutubePreviewGenerationCommand.self, parent: videosCommand)
     }
 }

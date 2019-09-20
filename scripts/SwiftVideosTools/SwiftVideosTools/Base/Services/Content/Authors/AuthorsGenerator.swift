@@ -55,11 +55,3 @@ public class AuthorsGenerator {
         print("[Success] Authors are exported successfully".lightCyan())
     }
 }
-
-extension Array where Element: Equatable {
-
-    public mutating func merge<C : Collection>(with newElements: C) where C.Iterator.Element == Element {
-        let filteredList = newElements.filter({!self.contains($0)})
-        self += filteredList
-    }
-}
