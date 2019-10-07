@@ -35,7 +35,13 @@ struct VideoDetail: Codable {
 
 // MARK: - VideoSource
 
-enum VideoSource {  
+public struct VimeoResourceData: Codable {
+    public let showcase: String?
+    public let video: String
+}
+
+enum VideoSource {
+    case vimeo(resource: VimeoResourceData)
     case youtube(id: String)
     case wwdc(url: String)
     case website(url: String)
@@ -53,6 +59,10 @@ extension VideoSource: Codable {
         let rawValue = try container.decode(String.self, forKey: .type)
 
         switch rawValue {
+        case "vimeo":
+            let resource = try container.decode(VimeoResourceData.self, forKey: .value)
+            self = .vimeo(resource: resource)
+
         case "youtube":
             let id = try container.decode(String.self, forKey: .value)
             self = .youtube(id: id)
@@ -74,6 +84,10 @@ extension VideoSource: Codable {
         var container = encoder.container(keyedBy: Key.self)
 
         switch self {
+        case .vimeo(let resource):
+            try container.encode("vimeo", forKey: .type)
+            try container.encode(resource, forKey: .value)
+
         case .youtube(let id):
             try container.encode("youtube", forKey: .type)
             try container.encode(id, forKey: .value)

@@ -12,7 +12,7 @@
     },
     "source" : {
       "type" : "youtube",
-      "value" : ""
+      "value" : "_y0lGk570Vo"
     },
     "name" : "Think and solve for 'User Expectations'",
     "authors" : [
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "id" : "addc_2019_Building and scaling a culture of AB testing",
+    "id" : "addc_2019_building-and-scaling-a-culture-of-ab-testing",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "id" : "addc_2019_fearlessly-Forward",
+    "id" : "addc_2019_fearlessly-forward",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "id" : "addc_2019_How to make your professional dreams come true",
+    "id" : "addc_2019_how-to-make-your-professional-dreams-come-true",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "id" : "addc_2019_ Building great offline-first apps",
+    "id" : "addc_2019_building-great-offline-first-apps",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "id" : "addc_2019_Consistency is Key - Working with a Design System",
+    "id" : "addc_2019_consistency-is-key",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -138,7 +138,7 @@
     ]
   },
   {
-    "id" : "addc_2019_Design System and Component Libraries at Spotify",
+    "id" : "addc_2019_design-system-and-component-libraries-at-spotify",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -161,7 +161,7 @@
     ]
   },
   {
-    "id" : "addc_2019_How we built a design system for consistency",
+    "id" : "addc_2019_how-we-built-a-design-system-for-consistency",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "id" : "addc_2019_How to drive change and create impact on your organization",
+    "id" : "addc_2019_how-to-drive-change-and-create-impact-on-your-organization",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -211,7 +211,7 @@
     ]
   },
   {
-    "id" : "addc_2019_Good rules for Bad apps",
+    "id" : "addc_2019_good-rules-for-bad-apps",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -228,7 +228,7 @@
     "name" : "Good rules for Bad apps",
     "authors" : [
       {
-        "id" : "shem-mMagnezi",
+        "id" : "shem-magnezi",
         "name" : "Shem Magnezi"
       }
     ]
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "id" : "addc_2019_Everyone Does Research",
+    "id" : "addc_2019_everyone-does-research",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -297,13 +297,13 @@
     "name" : "Everyone Does Research",
     "authors" : [
       {
-        "id" : "Matthew Eng",
+        "id" : "matthew-eng",
         "name" : "Matthew Eng"
       }
     ]
   },
   {
-    "id" : "addc_2019_The NPU Revolution",
+    "id" : "addc_2019_the-npu-revolution",
     "conference" : {
       "metaData" : {
         "id" : "addc",
@@ -320,7 +320,7 @@
     "name" : "The NPU Revolution",
     "authors" : [
       {
-        "id" : "Dan Abdinoor",
+        "id" : "dan-abdinoor",
         "name" : "Dan Abdinoor"
       }
     ]
@@ -2308,7 +2308,7 @@
     ]
   },
   {
-    "id" : "moconfby_2018_machine_learning_on_mobile_a_primer",
+    "id" : "moconfby_2018_machine-learning-on-mobile-a-primer",
     "conference" : {
       "metaData" : {
         "id" : "moconfby",
@@ -2331,7 +2331,7 @@
     ]
   },
   {
-    "id" : "moconfby_2018_secrets_and_lies",
+    "id" : "moconfby_2018_secrets-and-lies",
     "conference" : {
       "metaData" : {
         "id" : "moconfby",
@@ -2354,7 +2354,7 @@
     ]
   },
   {
-    "id" : "moconfby_2018_thoughtful_refactoring",
+    "id" : "moconfby_2018_thoughtful-refactoring",
     "conference" : {
       "metaData" : {
         "id" : "moconfby",
@@ -2377,7 +2377,7 @@
     ]
   },
   {
-    "id" : "moconfby_2018_the_future_is_here_arkit_20",
+    "id" : "moconfby_2018_the-future-is-here-arkit-20",
     "conference" : {
       "metaData" : {
         "id" : "moconfby",
@@ -2400,7 +2400,7 @@
     ]
   },
   {
-    "id" : "moconfby_2018_Architectural approach to errors handling",
+    "id" : "moconfby_2018_architectural-approach-to-errors-handling",
     "conference" : {
       "metaData" : {
         "id" : "moconfby",
@@ -2419,6 +2419,260 @@
       {
         "id" : "dmitry_mikhailov",
         "name" : "Dmitry Mikhailov"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_explain_please",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362203135"
+      }
+    },
+    "name" : "Explain, please: Help your users trust you",
+    "authors" : [
+      {
+        "id" : "berta-devant",
+        "name" : "Berta Devant"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_swift_is_there_life_out_of_ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362188196"
+      }
+    },
+    "name" : "Swift: is there life out of iOS?",
+    "authors" : [
+      {
+        "id" : "inigo-mato-ruiz",
+        "name" : "Inigo Mato Ruiz"
+      },
+      {
+        "id" : "declan-mcKenna",
+        "name" : "Declan McKenna"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_beyond-xcode",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362186247"
+      }
+    },
+    "name" : "Beyond Xcode",
+    "authors" : [
+      {
+        "id" : "alexander-shalamov",
+        "name" : "Alexander Shalamov"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_how-to-build-an-app-for-everyone",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362163043"
+      }
+    },
+    "name" : "How to build an app for everyone",
+    "authors" : [
+      {
+        "id" : "novall-khan",
+        "name" : "Novall Khan"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_deprecated-monolith-available-modules",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362160599"
+      }
+    },
+    "name" : "@deprecated Monolith @available Modules",
+    "authors" : [
+      {
+        "id" : "david-collado",
+        "name" : "David Collado"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_under-the-hood-building-your-own-debugger",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362136409"
+      }
+    },
+    "name" : "Under the Hood: Building your own Debugger",
+    "authors" : [
+      {
+        "id" : "josh-garnham",
+        "name" : "Josh Garnham"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_venturing-into-the-world-of-rxswift-unit-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362134004"
+      }
+    },
+    "name" : "Venturing into the world of RxSwift unit testing",
+    "authors" : [
+      {
+        "id" : "eleni-papanikolopoul",
+        "name" : "Eleni Papanikolopoul"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_learnings-from-6-years-working-on-vlc-for-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362126060"
+      }
+    },
+    "name" : "Learnings from 6 years working on VLC for iOS",
+    "authors" : [
+      {
+        "id" : "carola-nitz",
+        "name" : "Carola Nitz"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_lessons-learned-from-building-a-new-browser-for-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362121288"
+      }
+    },
+    "name" : "Lessons learned from building a new browser for iOS",
+    "authors" : [
+      {
+        "id" : "dominik-scherm",
+        "name" : "Dominik Scherm"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_green-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362110362"
+      }
+    },
+    "name" : "“Green” development: is it even a thing?",
+    "authors" : [
+      {
+        "id" : "aleksandra-komagorkina",
+        "name" : "Aleksandra Komagorkina"
       }
     ]
   },
@@ -2979,6 +3233,549 @@
     ]
   },
   {
+    "id" : "swift-india_2019_building-a-meaningful-career",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xG0lMS9PB5U"
+    },
+    "name" : "Building a Meaningful Career",
+    "authors" : [
+      {
+        "id" : "gopal-sharma",
+        "name" : "Gopal Sharma"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_ode-to-the-corner-radius-api",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "SbrbrNAKl1s"
+    },
+    "name" : "Ode to the Corner Radius API: A look at modern iOS design",
+    "authors" : [
+      {
+        "id" : "tim-oliver",
+        "name" : "Tim Oliver"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_building-engaging-tips-for-non-tech-savvy-users",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xFQDLkBFsR8"
+    },
+    "name" : "Building engaging tips for non-tech-savvy users",
+    "authors" : [
+      {
+        "id" : "abhishek-pandey",
+        "name" : "Abhishek Pandey"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_Effective Migration to Mac Catalyst",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "epsofw4V8x4"
+    },
+    "name" : "Effective Migration to Mac Catalyst",
+    "authors" : [
+      {
+        "id" : "noah-gilmore",
+        "name" : "Noah Gilmore"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_redux-architecture-in-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kGxD3k5IG00"
+    },
+    "name" : "Redux Architecture in iOS",
+    "authors" : [
+      {
+        "id" : "amruta-itagi",
+        "name" : "Amruta Itagi"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_drawing-graphs-with-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "73rneog79a4"
+    },
+    "name" : "Drawing Graphs with SwiftUI",
+    "authors" : [
+      {
+        "id" : "matthew-delves",
+        "name" : "Matthew Delves"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_Journey Of Codable",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "RVwfX6sONeY"
+    },
+    "name" : "Journey Of Codable",
+    "authors" : [
+      {
+        "id" : "Bharath Nagaraj Rao",
+        "name" : "Bharath Nagaraj Rao"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_combine-all-the-things",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "paiOPECkxcg"
+    },
+    "name" : "Combine! All the things",
+    "authors" : [
+      {
+        "id" : "ritesh-gupta",
+        "name" : "Ritesh Gupta"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_make-our-swift-better",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "APK8L0YSbss"
+    },
+    "name" : "Make our Swift better",
+    "authors" : [
+      {
+        "id" : "daiki-matsudate",
+        "name" : "Daiki Matsudate"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_building-apps-with-compositional-layout",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "4TRrqfKug0Q"
+    },
+    "name" : "Building Apps with Compositional Layout",
+    "authors" : [
+      {
+        "id" : "sowndharya-maheswaran",
+        "name" : "Sowndharya Maheswaran"
+      }
+    ]
+  },
+  {
+    "id" : "swift-india_2019_hacking-rule-systems",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-india",
+        "name" : "Swift India Conference"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "A2pIPTv8vps"
+    },
+    "name" : "Hacking Rule Systems & State Machines with Apple's GameplayKit Framework",
+    "authors" : [
+      {
+        "id" : "srikanth-kv",
+        "name" : "Srikanth KV"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_5-ways-to-level-up-your-mobile-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354580074",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "5 Ways to Level Up Your Mobile Development",
+    "authors" : [
+      {
+        "id" : "tim-mitra",
+        "name" : "Tim Mitra"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_modularize-all-the-things",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354783100",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "Modularize All the Things",
+    "authors" : [
+      {
+        "id" : "abbey-jackson",
+        "name" : "Abbey Jackson"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_from-swift-developer-to-full-time-youTuber-in-8-months",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354532436",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "From Swift Developer to Full Time YouTuber in 8 Months",
+    "authors" : [
+      {
+        "id" : "chris-ching",
+        "name" : "Chris Ching"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_pushing-swiftui-to-the-limit",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354555005",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "Pushing SwiftUI to the Limit",
+    "authors" : [
+      {
+        "id" : "veronica-ray",
+        "name" : "Veronica Ray"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_the-evolution-of-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354554006",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "The Evolution of Swift",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_get-started-developing-server-side-swift-with-vapor",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354555100",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "Get Started Developing Server Side Swift with Vapor",
+    "authors" : [
+      {
+        "id" : "Leo Dion",
+        "name" : "Leo Dion"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_the-evolution-of-ios-development-at-scotiabank",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354579653",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "The Evolution of iOS Development at Scotiabank",
+    "authors" : [
+      {
+        "id" : "rohan-trivedi",
+        "name" : "Rohan Trivedi"
+      },
+      {
+        "id" : "charles-joseph",
+        "name" : "Charles Joseph"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_how-to-write-testable-code",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354561681",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "How to Write Testable Code",
+    "authors" : [
+      {
+        "id" : "marwan-alani",
+        "name" : "Marwan Alani"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_using-structs-as-a-data-interface-for-your-service-layer",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354555908",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "Using Structs as a Data Interface for your Service Layer",
+    "authors" : [
+      {
+        "id" : "lyle-resnick",
+        "name" : "Lyle Resnick"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_preparing-your-app-for-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354579304",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "Building for the Long Haul: Preparing Your App for SwiftUI ",
+    "authors" : [
+      {
+        "id" : "frank-courville",
+        "name" : "Frank Courville"
+      }
+    ]
+  },
+  {
+    "id" : "swift-to_2019_continuous-integration-bitrise",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-to",
+        "name" : "Swift TO"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "354782851",
+        "showcase" : "6225806"
+      }
+    },
+    "name" : "Continuous Integration - What, Why & How feat. Bitrise",
+    "authors" : [
+      {
+        "id" : "kyle-newsome",
+        "name" : "Kyle Newsome"
+      }
+    ]
+  },
+  {
     "id" : "tryswift-nyc_2018_memojis-under-the-hood",
     "conference" : {
       "metaData" : {
@@ -3071,7 +3868,7 @@
     ]
   },
   {
-    "id" : "tryswift-nyc_2018_Making it Generic",
+    "id" : "tryswift-nyc_2018_making-it-generic",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-nyc",
@@ -3489,7 +4286,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_Swift Server Update",
+    "id" : "tryswift-tokio_2019_swift-server-update",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",
@@ -3512,7 +4309,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_the_philosopher_string",
+    "id" : "tryswift-tokio_2019_the-philosopher-string",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",
@@ -3535,7 +4332,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_building_a_social_network_in_swift",
+    "id" : "tryswift-tokio_2019_building-a-social-network-in-swift",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",
@@ -3562,7 +4359,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_psychology_study",
+    "id" : "tryswift-tokio_2019_psychology-study",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",
@@ -3585,7 +4382,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_using_c_objective_c_frameworks",
+    "id" : "tryswift-tokio_2019_using-c-objective-c-frameworks",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",
@@ -3608,7 +4405,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_swift_hardware_hacking",
+    "id" : "tryswift-tokio_2019_swift-hardware-hacking",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",
@@ -3631,7 +4428,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_building_a_mobile_design_system",
+    "id" : "tryswift-tokio_2019_building-a_mobile-design-system",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",
@@ -3654,7 +4451,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_Swift type metadata",
+    "id" : "tryswift-tokio_2019_swift-type-metadata",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",
@@ -4160,7 +4957,7 @@
     ]
   },
   {
-    "id" : "tryswift-tokio_2019_Generics in protocol extension",
+    "id" : "tryswift-tokio_2019_generics-in-protocol-extension",
     "conference" : {
       "metaData" : {
         "id" : "tryswift-tokio",

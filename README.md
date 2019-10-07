@@ -4,7 +4,7 @@ This repository contains content for the upcoming SwiftVideos app.
 
 ## Videos commands
 
-### Videos List Generation
+### Videos - List Generation
 
 Generate a list of videos
 
@@ -12,7 +12,7 @@ Generate a list of videos
 swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos generate content/
 ```
 
-### Videos Youtube Preview Images
+### Videos - Youtube Preview Images
 
 Download preview images of youtube videos
 
@@ -20,7 +20,15 @@ Download preview images of youtube videos
 swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos youtube_preview content/conferences/tryswift-nyc/2018
 ```
 
-### Videos List Validation
+### Videos - Vimeo Preview Images
+
+Download preview images of youtube videos
+
+```bash
+swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos vimeo_preview content/conferences/nsspain/2019
+```
+
+### Videos - List Validation
 
 Validate the list of videos
 
@@ -30,7 +38,7 @@ swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos valid
 
 ## Authors commands
 
-### Authors List Generation
+### Authors - List Generation
 
 Generate a list of authors
 
@@ -38,7 +46,7 @@ Generate a list of authors
 swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools authors generate content/
 ```
 
-### Authors List Validation
+### Authors - List Validation
 
 Validate the list of authors
 

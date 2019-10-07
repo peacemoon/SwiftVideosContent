@@ -46,5 +46,6 @@ public final class CommlandLineTool {
         commandRegistry.register(subcommand: VideosValidationCommand.self, parent: videosCommand)
         commandRegistry.register(subcommand: VideosGenerationCommand.self, parent: videosCommand)
         commandRegistry.register(subcommand: VideosYoutubePreviewGenerationCommand.self, parent: videosCommand)
+        commandRegistry.register(subcommand: VideosVimeoPreviewGenerationCommand.self, parent: videosCommand)
     }
 }

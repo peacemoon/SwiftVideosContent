@@ -6,19 +6,19 @@ import Foundation
 import Files
 import ColorizeSwift
 
-/// Generate list of youtube preview images for a list of videos.
-public class VideosYoutubePreviewGenerator {
+/// Generate list of Vimeo preview images for a list of videos.
+public class VideosVimeoPreviewGenerator {
 
     // MARK: Properties
 
     // Private
 
     private var baseConferenceEditionPath: String
-    private var urlBuilder: YoutubeURLBuilderProtocol
+    private var urlBuilder: VimeoURLBuilderProtocol
 
     // MARK: Initialization
 
-    public init(baseConferenceEditionPath: String, urlBuilder: YoutubeURLBuilderProtocol = YoutubeURLBuilder()) {
+    public init(baseConferenceEditionPath: String, urlBuilder: VimeoURLBuilderProtocol = VimeoURLBuilder()) {
         self.baseConferenceEditionPath = baseConferenceEditionPath
         self.urlBuilder = urlBuilder
     }
@@ -31,8 +31,8 @@ public class VideosYoutubePreviewGenerator {
             let videos = try readVideoList()
             for video in videos {
                 switch video.source {
-                case .youtube(let id):
-                    let url = urlBuilder.youtubeURL(for: id)
+                case .vimeo(let resource):
+                    let url = try decodeVimeoVideo(for: resource)
                     let filename = video.id + ".jpg"
                     let data = try Data(contentsOf: url)
                     try conferenceEditionFolder.createFileIfNeeded(withName: filename, contents: data)
@@ -41,7 +41,7 @@ public class VideosYoutubePreviewGenerator {
                     break
                 }
             }
-            print("Youtube preview images are downloaded successfully".lightCyan())
+            print("Vimeo preview images are downloaded successfully".lightCyan())
         } catch {
             print("[Error] \(error)".red())
         }
@@ -56,21 +56,33 @@ public class VideosYoutubePreviewGenerator {
         let content = try file.read()
         return try jsonDecoder.decode(VideosList.self, from: content)
     }
-}
 
-public struct YoutubeURLBuilder: YoutubeURLBuilderProtocol {
-
-    public init() {}
-
-    public func youtubeURL(for id: String) -> URL {
-        return URL(string: "https://i1.ytimg.com/vi/\(id)/hqdefault.jpg")!
+    private func decodeVimeoVideo(for resource: VimeoResourceData) throws -> URL {
+        let url = urlBuilder.vimeoURL(for: resource.video)
+        let jsonDecoder = JSONDecoder()
+        let data = try Data(contentsOf: url)
+        let vimeoVideo = try jsonDecoder.decode(VimeoVideo.self, from: data)
+        return URL(string: vimeoVideo.thumbnail_url_with_play_button)!
     }
 }
 
-public protocol YoutubeURLBuilderProtocol {
-    func youtubeURL(for id: String) -> URL
+public struct VimeoVideo: Decodable {
+    var thumbnail_url_with_play_button: String
 }
 
-enum VideosYoutubePreviewGeneratorError: Error {
-    case notAYoutubeVideo
+public struct VimeoURLBuilder: VimeoURLBuilderProtocol {
+
+    public init() {}
+
+    public func vimeoURL(for id: String) -> URL {
+        return URL(string: "https://vimeo.com/api/oembed.json?url=https://vimeo.com/\(id)")!
+    }
+}
+
+public protocol VimeoURLBuilderProtocol {
+    func vimeoURL(for id: String) -> URL
+}
+
+enum VideosVimeoPreviewGeneratorError: Error {
+    case notAVimeoVideo
 }
