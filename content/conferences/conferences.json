@@ -1,5 +1,9 @@
 [
     {
+        "id": "swift-india",
+        "name": "Swift India Conference"
+    },
+    {
         "id": "addc",
         "name": "App Design & Development Conference"
     },

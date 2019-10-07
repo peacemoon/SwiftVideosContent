@@ -1,0 +1,267 @@
+[
+    {
+        "id": "nsspain_2019_explain_please",
+        "name": "Explain, please: Help your users trust you",
+        "authors": [
+            {
+                "id": "berta-devant",
+                "name": "Berta Devant"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362203135"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_swift_is_there_life_out_of_ios",
+        "name": "Swift: is there life out of iOS?",
+        "authors": [
+            {
+                "id": "inigo-mato-ruiz",
+                "name": "Inigo Mato Ruiz"
+            },
+            {
+                "id": "declan-mcKenna",
+                "name": "Declan McKenna"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362188196"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_beyond-xcode",
+        "name": "Beyond Xcode",
+        "authors": [
+            {
+                "id": "alexander-shalamov",
+                "name": "Alexander Shalamov"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362186247"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_how-to-build-an-app-for-everyone",
+        "name": "How to build an app for everyone",
+        "authors": [
+            {
+                "id": "novall-khan",
+                "name": "Novall Khan"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362163043"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_deprecated-monolith-available-modules",
+        "name": "@deprecated Monolith @available Modules",
+        "authors": [
+            {
+                "id": "david-collado",
+                "name": "David Collado"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362160599"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_under-the-hood-building-your-own-debugger",
+        "name": "Under the Hood: Building your own Debugger",
+        "authors": [
+            {
+                "id": "josh-garnham",
+                "name": "Josh Garnham"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362136409"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_venturing-into-the-world-of-rxswift-unit-testing",
+        "name": "Venturing into the world of RxSwift unit testing",
+        "authors": [
+            {
+                "id": "eleni-papanikolopoul",
+                "name": "Eleni Papanikolopoul"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362134004"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_learnings-from-6-years-working-on-vlc-for-ios",
+        "name": "Learnings from 6 years working on VLC for iOS",
+        "authors": [
+            {
+                "id": "carola-nitz",
+                "name": "carola-nitz"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362126060"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_lessons-learned-from-building-a-new-browser-for-ios",
+        "name": "Lessons learned from building a new browser for iOS",
+        "authors": [
+            {
+                "id": "dominik-scherm",
+                "name": "Dominik Scherm"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362121288"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_green-development",
+        "name": "“Green” development: is it even a thing?",
+        "abstract": "Reusable cups and bamboo straws are nice, but did you ever think your app’s performance could affect the environment even more? This talk is summarising my research on developing energy efficient and offline-first apps to reduce carbon and energy footprints via Xcode.",
+        "authors": [
+            {
+                "id": "aleksandra-komagorkina",
+                "name": "Aleksandra Komagorkina"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362110362"
+            }
+        }
+    }
+]

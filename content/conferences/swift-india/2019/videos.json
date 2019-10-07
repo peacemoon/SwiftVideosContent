@@ -1,0 +1,266 @@
+[
+    {
+        "id": "swift-india_2019_building-a-meaningful-career",
+        "name": "Building a Meaningful Career",
+        "authors": [
+            {
+                "id": "gopal-sharma",
+                "name": "Gopal Sharma"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "xG0lMS9PB5U"
+        }
+    },
+    {
+        "id": "swift-india_2019_ode-to-the-corner-radius-api",
+        "name": "Ode to the Corner Radius API: A look at modern iOS design",
+        "authors": [
+            {
+                "id": "tim-oliver",
+                "name": "Tim Oliver"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "SbrbrNAKl1s"
+        }
+    },
+    {
+        "id": "swift-india_2019_building-engaging-tips-for-non-tech-savvy-users",
+        "name": "Building engaging tips for non-tech-savvy users",
+        "authors": [
+            {
+                "id": "abhishek-pandey",
+                "name": "Abhishek Pandey"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "xFQDLkBFsR8"
+        }
+    },
+    {
+        "id": "swift-india_2019_Effective Migration to Mac Catalyst",
+        "name": "Effective Migration to Mac Catalyst",
+        "authors": [
+            {
+                "id": "noah-gilmore",
+                "name": "Noah Gilmore"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "epsofw4V8x4"
+        }
+    },
+    {
+        "id": "swift-india_2019_redux-architecture-in-ios",
+        "name": "Redux Architecture in iOS",
+        "authors": [
+            {
+                "id": "amruta-itagi",
+                "name": "Amruta Itagi"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "kGxD3k5IG00"
+        }
+    },
+    {
+        "id": "swift-india_2019_drawing-graphs-with-swiftui",
+        "name": "Drawing Graphs with SwiftUI",
+        "authors": [
+            {
+                "id": "matthew-delves",
+                "name": "Matthew Delves"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "73rneog79a4"
+        }
+    },
+    {
+        "id": "swift-india_2019_Journey Of Codable",
+        "name": "Journey Of Codable",
+        "authors": [
+            {
+                "id": "Bharath Nagaraj Rao",
+                "name": "Bharath Nagaraj Rao"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "RVwfX6sONeY"
+        }
+    },
+    {
+        "id": "swift-india_2019_combine-all-the-things",
+        "name": "Combine! All the things",
+        "authors": [
+            {
+                "id": "ritesh-gupta",
+                "name": "Ritesh Gupta"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "paiOPECkxcg"
+        }
+    },
+    {
+        "id": "swift-india_2019_make-our-swift-better",
+        "name": "Make our Swift better",
+        "authors": [
+            {
+                "id": "daiki-matsudate",
+                "name": "Daiki Matsudate"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "APK8L0YSbss"
+        }
+    },
+    {
+        "id": "swift-india_2019_building-apps-with-compositional-layout",
+        "name": "Building Apps with Compositional Layout",
+        "authors": [
+            {
+                "id": "sowndharya-maheswaran",
+                "name": "Sowndharya Maheswaran"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "4TRrqfKug0Q"
+        }
+    },
+    {
+        "id": "swift-india_2019_hacking-rule-systems",
+        "name": "Hacking Rule Systems & State Machines with Apple's GameplayKit Framework",
+        "authors": [
+            {
+                "id": "srikanth-kv",
+                "name": "Srikanth KV"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "swift-india",
+                "name": "Swift India Conference"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "youtube",
+            "value": "A2pIPTv8vps"
+        }
+    }
+]
