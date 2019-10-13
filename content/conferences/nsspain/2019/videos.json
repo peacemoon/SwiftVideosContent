@@ -1,5 +1,325 @@
 [
     {
+        "id": "nsspain_2019_detail-oriented-ui-with-layout-margins",
+        "name": "Detail-oriented UI with Layout Margins",
+        "authors": [
+            {
+                "id": "marina-gornostaeva",
+                "name": "Marina Gornostaeva"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362202970"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_property-wrappers-or-how-swift-decided-to-become-java",
+        "name": "Property Wrappers or How Swift decided to become Java (:",
+        "authors": [
+            {
+                "id": "vincent-pradeilles",
+                "name": "Vincent Pradeilles"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362197940"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_reducing-flakiness-in-automated-tests",
+        "name": "Reducing Flakiness in Automated Tests",
+        "authors": [
+            {
+                "id": "Vivian Rosa Santos",
+                "name": "Vivian Rosa Santos"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362191018"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_beyond-xcode",
+        "name": "Beyond Xcode",
+        "authors": [
+            {
+                "id": "alexander-shalamov",
+                "name": "Alexander Shalamov"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362186247"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_swift-is-there-life-out-of-ios",
+        "name": "Swift: is there life out of iOS?",
+        "authors": [
+            {
+                "id": "inigo-mato-ruiz",
+                "name": "Inigo Mato Ruiz"
+            },
+            {
+                "id": "declan-mckenna",
+                "name": "Declan McKenna"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362188196"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_swift-programming-and-logic",
+        "name": "Swift Programming and Logic",
+        "authors": [
+            {
+                "id": "yasuhiro-inami",
+                "name": "Yasuhiro Inami"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362179375"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_from-ic-to-em",
+        "name": "From IC to EM: navigating the management path",
+        "authors": [
+            {
+                "id": "glenna-buford",
+                "name": "Glenna Buford"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362178780"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_fif-women-world-cup-2019",
+        "name": "How I managed to participate in the FIFA Women’s World Cup 2019: An HLS story",
+        "authors": [
+            {
+                "id": "juan-jose-ramos-rodriguez",
+                "name": "Juan José Ramos Rodríguez"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362204084"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_journey-to-buck-build-system-at-booking-com",
+        "name": "Journey to Buck build system at Booking.com",
+        "authors": [
+            {
+                "id": "alexey-gaponov",
+                "name": "Alexey Gaponov"
+            },
+            {
+                "id": "oleksandr-kolodii",
+                "name": "Oleksandr Kolodii"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362205579"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_demystifying-self-sizing-cells",
+        "name": "Demystifying self-sizing cells",
+        "authors": [
+            {
+                "id": "renaud-lienhart",
+                "name": "Renaud Lienhart"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362242150"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_asynchronous-swift",
+        "name": "Asynchronous Swift",
+        "authors": [
+            {
+                "id": "ben-scheirman",
+                "name": "Ben Scheirman"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362244454"
+            }
+        }
+    },
+    {
+        "id": "nsspain_2019_no-strings-attached",
+        "name": "No Strings Attached",
+        "authors": [
+            {
+                "id": "ellie-shin",
+                "name": "Ellie Shin"
+            }
+        ]
+        ,
+        "conference": {
+            "metaData": {
+                "id": "nsspain",
+                "name": "NSSpain"
+            },
+            "edition": {
+                "year": 2019
+            }
+        },
+        "source": {
+            "type": "vimeo",
+            "value": {
+                "video": "362192377"
+            }
+        }
+    },
+    {
         "id": "nsspain_2019_explain_please",
         "name": "Explain, please: Help your users trust you",
         "authors": [
