@@ -2423,7 +2423,7 @@
     ]
   },
   {
-    "id" : "nsspain_2019_explain_please",
+    "id" : "nsspain_2019_detail-oriented-ui-with-layout-margins",
     "conference" : {
       "metaData" : {
         "id" : "nsspain",
@@ -2436,19 +2436,19 @@
     "source" : {
       "type" : "vimeo",
       "value" : {
-        "video" : "362203135"
+        "video" : "362202970"
       }
     },
-    "name" : "Explain, please: Help your users trust you",
+    "name" : "Detail-oriented UI with Layout Margins",
     "authors" : [
       {
-        "id" : "berta-devant",
-        "name" : "Berta Devant"
+        "id" : "marina-gornostaeva",
+        "name" : "Marina Gornostaeva"
       }
     ]
   },
   {
-    "id" : "nsspain_2019_swift_is_there_life_out_of_ios",
+    "id" : "nsspain_2019_property-wrappers-or-how-swift-decided-to-become-java",
     "conference" : {
       "metaData" : {
         "id" : "nsspain",
@@ -2461,18 +2461,39 @@
     "source" : {
       "type" : "vimeo",
       "value" : {
-        "video" : "362188196"
+        "video" : "362197940"
       }
     },
-    "name" : "Swift: is there life out of iOS?",
+    "name" : "Property Wrappers or How Swift decided to become Java (:",
     "authors" : [
       {
-        "id" : "inigo-mato-ruiz",
-        "name" : "Inigo Mato Ruiz"
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_reducing-flakiness-in-automated-tests",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
       },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362191018"
+      }
+    },
+    "name" : "Reducing Flakiness in Automated Tests",
+    "authors" : [
       {
-        "id" : "declan-mcKenna",
-        "name" : "Declan McKenna"
+        "id" : "vivian-rosa-santos",
+        "name" : "Vivian Rosa Santos"
       }
     ]
   },
@@ -2498,6 +2519,239 @@
       {
         "id" : "alexander-shalamov",
         "name" : "Alexander Shalamov"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_swift-is-there-life-out-of-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362188196"
+      }
+    },
+    "name" : "Swift: is there life out of iOS?",
+    "authors" : [
+      {
+        "id" : "inigo-mato-ruiz",
+        "name" : "Inigo Mato Ruiz"
+      },
+      {
+        "id" : "declan-mckenna",
+        "name" : "Declan McKenna"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_swift-programming-and-logic",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362179375"
+      }
+    },
+    "name" : "Swift Programming and Logic",
+    "authors" : [
+      {
+        "id" : "yasuhiro-inami",
+        "name" : "Yasuhiro Inami"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_from-ic-to-em",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362178780"
+      }
+    },
+    "name" : "From IC to EM: navigating the management path",
+    "authors" : [
+      {
+        "id" : "glenna-buford",
+        "name" : "Glenna Buford"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_fif-women-world-cup-2019",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362204084"
+      }
+    },
+    "name" : "How I managed to participate in the FIFA Women’s World Cup 2019: An HLS story",
+    "authors" : [
+      {
+        "id" : "juan-jose-ramos-rodriguez",
+        "name" : "Juan José Ramos Rodríguez"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_journey-to-buck-build-system-at-booking-com",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362205579"
+      }
+    },
+    "name" : "Journey to Buck build system at Booking.com",
+    "authors" : [
+      {
+        "id" : "alexey-gaponov",
+        "name" : "Alexey Gaponov"
+      },
+      {
+        "id" : "oleksandr-kolodii",
+        "name" : "Oleksandr Kolodii"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_demystifying-self-sizing-cells",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362242150"
+      }
+    },
+    "name" : "Demystifying self-sizing cells",
+    "authors" : [
+      {
+        "id" : "renaud-lienhart",
+        "name" : "Renaud Lienhart"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_asynchronous-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362244454"
+      }
+    },
+    "name" : "Asynchronous Swift",
+    "authors" : [
+      {
+        "id" : "ben-scheirman",
+        "name" : "Ben Scheirman"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_no-strings-attached",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362192377"
+      }
+    },
+    "name" : "No Strings Attached",
+    "authors" : [
+      {
+        "id" : "ellie-shin",
+        "name" : "Ellie Shin"
+      }
+    ]
+  },
+  {
+    "id" : "nsspain_2019_explain_please",
+    "conference" : {
+      "metaData" : {
+        "id" : "nsspain",
+        "name" : "NSSpain"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362203135"
+      }
+    },
+    "name" : "Explain, please: Help your users trust you",
+    "authors" : [
+      {
+        "id" : "berta-devant",
+        "name" : "Berta Devant"
       }
     ]
   },
@@ -3302,7 +3556,7 @@
     ]
   },
   {
-    "id" : "swift-india_2019_Effective Migration to Mac Catalyst",
+    "id" : "swift-india_2019_effective-migration-to-mac-catalyst",
     "conference" : {
       "metaData" : {
         "id" : "swift-india",
@@ -3371,7 +3625,7 @@
     ]
   },
   {
-    "id" : "swift-india_2019_Journey Of Codable",
+    "id" : "swift-india_2019_journey-of-codable",
     "conference" : {
       "metaData" : {
         "id" : "swift-india",

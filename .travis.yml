@@ -1,0 +1,14 @@
+language: objective-c
+
+cache:
+  directories:
+    # General SwiftPM
+    - .build
+
+osx_image: xcode11
+
+install:
+
+script:
+  - swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos validate content/
+  - swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools authors validate content/
