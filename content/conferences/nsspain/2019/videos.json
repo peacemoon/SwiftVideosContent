@@ -56,7 +56,7 @@
         "name": "Reducing Flakiness in Automated Tests",
         "authors": [
             {
-                "id": "Vivian Rosa Santos",
+                "id": "vivian-rosa-santos",
                 "name": "Vivian Rosa Santos"
             }
         ]
@@ -342,62 +342,6 @@
             "type": "vimeo",
             "value": {
                 "video": "362203135"
-            }
-        }
-    },
-    {
-        "id": "nsspain_2019_swift_is_there_life_out_of_ios",
-        "name": "Swift: is there life out of iOS?",
-        "authors": [
-            {
-                "id": "inigo-mato-ruiz",
-                "name": "Inigo Mato Ruiz"
-            },
-            {
-                "id": "declan-mcKenna",
-                "name": "Declan McKenna"
-            }
-        ]
-        ,
-        "conference": {
-            "metaData": {
-                "id": "nsspain",
-                "name": "NSSpain"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "vimeo",
-            "value": {
-                "video": "362188196"
-            }
-        }
-    },
-    {
-        "id": "nsspain_2019_beyond-xcode",
-        "name": "Beyond Xcode",
-        "authors": [
-            {
-                "id": "alexander-shalamov",
-                "name": "Alexander Shalamov"
-            }
-        ]
-        ,
-        "conference": {
-            "metaData": {
-                "id": "nsspain",
-                "name": "NSSpain"
-            },
-            "edition": {
-                "year": 2019
-            }
-        },
-        "source": {
-            "type": "vimeo",
-            "value": {
-                "video": "362186247"
             }
         }
     },

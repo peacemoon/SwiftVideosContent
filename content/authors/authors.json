@@ -376,20 +376,60 @@
     "name" : "Dmitry Mikhailov"
   },
   {
-    "id" : "berta-devant",
-    "name" : "Berta Devant"
+    "id" : "marina-gornostaeva",
+    "name" : "Marina Gornostaeva"
+  },
+  {
+    "id" : "vivian-rosa-santos",
+    "name" : "Vivian Rosa Santos"
+  },
+  {
+    "id" : "alexander-shalamov",
+    "name" : "Alexander Shalamov"
   },
   {
     "id" : "inigo-mato-ruiz",
     "name" : "Inigo Mato Ruiz"
   },
   {
-    "id" : "declan-mcKenna",
+    "id" : "declan-mckenna",
     "name" : "Declan McKenna"
   },
   {
-    "id" : "alexander-shalamov",
-    "name" : "Alexander Shalamov"
+    "id" : "yasuhiro-inami",
+    "name" : "Yasuhiro Inami"
+  },
+  {
+    "id" : "glenna-buford",
+    "name" : "Glenna Buford"
+  },
+  {
+    "id" : "juan-jose-ramos-rodriguez",
+    "name" : "Juan José Ramos Rodríguez"
+  },
+  {
+    "id" : "alexey-gaponov",
+    "name" : "Alexey Gaponov"
+  },
+  {
+    "id" : "oleksandr-kolodii",
+    "name" : "Oleksandr Kolodii"
+  },
+  {
+    "id" : "renaud-lienhart",
+    "name" : "Renaud Lienhart"
+  },
+  {
+    "id" : "ben-scheirman",
+    "name" : "Ben Scheirman"
+  },
+  {
+    "id" : "ellie-shin",
+    "name" : "Ellie Shin"
+  },
+  {
+    "id" : "berta-devant",
+    "name" : "Berta Devant"
   },
   {
     "id" : "novall-khan",
@@ -748,10 +788,6 @@
     "name" : "Alaina Kafkes"
   },
   {
-    "id" : "glenna-buford",
-    "name" : "Glenna Buford"
-  },
-  {
     "id" : "julia-roggatz",
     "name" : "Julia Roggatz"
   },
@@ -774,10 +810,6 @@
   {
     "id" : "anne-cahalan",
     "name" : "Anne Cahalan"
-  },
-  {
-    "id" : "ellie-shin",
-    "name" : "Ellie Shin"
   },
   {
     "id" : "julie-yaunches",
