@@ -1,0 +1,25 @@
+[
+  {
+    "id" : "tryswift-nyc_2019_swift-for-tensorflow-machine-learning-with-no-boundaries",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xnwgifICYYA"
+    },
+    "name" : "Swift for TensorFlow - Machine Learning with no Boundaries",
+    "authors" : [
+      {
+        "id" : "paige-bailey",
+        "name" : "Paige Bailey"
+      }
+    ]
+  }
+]

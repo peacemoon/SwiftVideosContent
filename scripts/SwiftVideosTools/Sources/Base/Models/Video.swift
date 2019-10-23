@@ -45,6 +45,17 @@ enum VideoSource {
     case youtube(id: String)
     case wwdc(url: String)
     case website(url: String)
+
+    init(type: String, resourceID: String) {
+        switch type {
+            case "vimeo":
+                self = .vimeo(resource: VimeoResourceData(showcase: nil, video: resourceID))
+            case "youtube":
+                self = .youtube(id: resourceID)
+            default:
+                exit(1)
+        }
+    }
 }
 
 extension VideoSource: Codable {
