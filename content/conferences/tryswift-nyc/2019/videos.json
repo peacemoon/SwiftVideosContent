@@ -21,5 +21,488 @@
         "name" : "Paige Bailey"
       }
     ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_lets-play-with-bitcoin-cash-using-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "uwMSLT7KLD4"
+    },
+    "name" : "Let's Play With Bitcoin Cash Using Swift",
+    "authors" : [
+      {
+        "id" : "jeanbaptiste-dominguez",
+        "name" : "Jean-Baptiste Dominguez"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_deeper-into-arkit-with-coreml-and-turi-create",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "VBZve4cLH4E"
+    },
+    "name" : "Deeper into ARKit with CoreML and Turi Create",
+    "authors" : [
+      {
+        "id" : "soojin-ro",
+        "name" : "Soojin Ro"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_swift-without-screens-powering-connected-devices",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "VILUaec-sCs"
+    },
+    "name" : "Swift Without Screens - Powering Connected Devices",
+    "authors" : [
+      {
+        "id" : "marc-aupont",
+        "name" : "Marc Aupont"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_encoding-and-decoding-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9GZ8Hiq-Nbc"
+    },
+    "name" : "Encoding and Decoding in Swift",
+    "authors" : [
+      {
+        "id" : "kaitlin-mahar",
+        "name" : "Kaitlin Mahar"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_swiftui-in-25-minutes",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aK3TJW_nnio"
+    },
+    "name" : "SwiftUI in 25 Minutes",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_its-probably-fine",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "RhSUKU8zg8A"
+    },
+    "name" : "It's Probably Fine",
+    "authors" : [
+      {
+        "id" : "cate-huston",
+        "name" : "Cate Huston"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_introduction-to-asynchttpclient",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Zy-uIszhYO8"
+    },
+    "name" : "Introduction to AsyncHTTPClient",
+    "authors" : [
+      {
+        "id" : "tom-doron",
+        "name" : "Tom Doron"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_designing-accessible-apis",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gb6t56pzMJg"
+    },
+    "name" : "Designing Accessible APIs",
+    "authors" : [
+      {
+        "id" : "dave-delong",
+        "name" : "Dave DeLong"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_extending-uicolor-to-support-custom-styling",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Nw0YaDVcA6U"
+    },
+    "name" : "Extending UIColor to Support Custom Styling",
+    "authors" : [
+      {
+        "id" : "kelly-hutchison",
+        "name" : "Kelly Hutchison"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_streamlining-mobile-releases",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CcPdDwz116k"
+    },
+    "name" : "Streamlining Mobile Releases",
+    "authors" : [
+      {
+        "id" : "eli-budelli",
+        "name" : "Eli Budelli"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_getting-started-with-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fejmsuxoIvA"
+    },
+    "name" : "Getting Started with Combine",
+    "authors" : [
+      {
+        "id" : "shai-mishali",
+        "name" : "Shai Mishali"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_building-the-serverside-swift-ecosystem",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CzTikweGO3E"
+    },
+    "name" : "Building the Server-side Swift ecosystem",
+    "authors" : [
+      {
+        "id" : "ian-partridge",
+        "name" : "Ian Partridge"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_truths-universally-acknowledged-swift-design-patterns-as-jane-austen-heroes",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "-gjtLq1QjZ8"
+    },
+    "name" : "Truths Universally Acknowledged- Swift Design Patterns as Jane Austen Heroes",
+    "authors" : [
+      {
+        "id" : "anne-cahalan",
+        "name" : "Anne Cahalan"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_a-deeper-deep-dive-into-swift-literal",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "z0iZH2iu7Lw"
+    },
+    "name" : "A Deeper Deep dive into Swift Literal",
+    "authors" : [
+      {
+        "id" : "yuki-aki",
+        "name" : "Yuki Aki"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_parsing-natural-languages-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "BPEJ8Nif12E"
+    },
+    "name" : "Parsing natural languages in Swift",
+    "authors" : [
+      {
+        "id" : "dabby-ndubisi",
+        "name" : "Dabby Ndubisi"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_swiftui-for-production",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "rshXbwrrUxY"
+    },
+    "name" : "SwiftUI for Production",
+    "authors" : [
+      {
+        "id" : "lea-marolt",
+        "name" : "Lea Marolt"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_what-swift-devs-can-learn-from-c",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CZOVnlwWPZk"
+    },
+    "name" : "What Swift Devs can Learn from C++",
+    "authors" : [
+      {
+        "id" : "laura-savino",
+        "name" : "Laura Savino"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_app-subscriptions-the-good-the-bad-and-the-ugly",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "wtR3CacghWc"
+    },
+    "name" : "App Subscriptions - The Good, The Bad, and the Ugly",
+    "authors" : [
+      {
+        "id" : "ishmael-shabazz",
+        "name" : "Ishmael Shabazz"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_making-your-app-feel-at-home-in-ios-13",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "HbQVY2hfAEY"
+    },
+    "name" : "Making Your App Feel at Home in iOS 13",
+    "authors" : [
+      {
+        "id" : "dave-verwer",
+        "name" : "Dave Verwer"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_the-life-of-an-image-on-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vl3aXaNPKE0"
+    },
+    "name" : "The Life of an Image on iOS",
+    "authors" : [
+      {
+        "id" : "jordan-morgan",
+        "name" : "Jordan Morgan"
+      }
+    ]
+  },
+  {
+    "id" : "tryswift-nyc_2019_body-hacking-using-ayurveda",
+    "conference" : {
+      "metaData" : {
+        "id" : "tryswift-nyc",
+        "name" : ""
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ulFFTBGOpl0"
+    },
+    "name" : "Body Hacking Using Ayurveda",
+    "authors" : [
+      {
+        "id" : "dr-bhaswati-bhattacharya",
+        "name" : "Dr Bhaswati Bhattacharya"
+      }
+    ]
   }
 ]
