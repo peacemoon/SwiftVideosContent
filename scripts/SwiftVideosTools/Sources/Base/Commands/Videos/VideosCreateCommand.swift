@@ -51,7 +51,7 @@ class VideosCreateCommand: Command {
         }
 
         while true {
-            print("Name: ")
+            print("Name: ".yellow())
             guard let rawName = readLine() else {
                 throw VideosCreateCommandError.invalidName
             }
@@ -60,7 +60,7 @@ class VideosCreateCommand: Command {
             let id = "\(conference)_\(conferenceEdition)_\(name.idfied)"
             print("id = \(id)")
 
-            print("Authors (comma separated): ")
+            print("Authors (comma separated): ".yellow())
             guard let rawAuthors = readLine() else {
                 throw VideosCreateCommandError.invalidAuthors
             }
@@ -72,12 +72,12 @@ class VideosCreateCommand: Command {
                 authors.append(AuthorMetaData(id: authorID, name: String(authorName).trimmed))
             }
 
-            print("Video Source (1: youtube, 2: vimeo): ")
+            print("Video Source (1: youtube, 2: vimeo): ".yellow())
             guard let sourceType = readLine() else {
                 throw VideosCreateCommandError.invalidType
             }
 
-            print("Video ID: ")
+            print("Video ID: ".yellow())
             guard let resourceID = readLine() else {
                 throw VideosCreateCommandError.invalidID
             }
