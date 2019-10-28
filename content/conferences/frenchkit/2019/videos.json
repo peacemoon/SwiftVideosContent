@@ -1,0 +1,508 @@
+[
+  {
+    "id" : "frenchkit_2019_swift-pills-1",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QW3F5dbuwDc"
+    },
+    "name" : "Swift Pills #1",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_animations-with-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "RjCrZWeCPZU"
+    },
+    "name" : "Animations with SwiftUI",
+    "authors" : [
+      {
+        "id" : "chris-eidhof",
+        "name" : "Chris Eidhof"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swiftui-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vDzIeFzGAuU"
+    },
+    "name" : "SwiftUI & Combine",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swiftui-redux",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "dHKswhJmYrA"
+    },
+    "name" : "SwiftUI & Redux",
+    "authors" : [
+      {
+        "id" : "thomas-ricouard",
+        "name" : "Thomas Ricouard"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_testing-and-declarative-uis",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "tk0HzScvW2M"
+    },
+    "name" : "Testing and Declarative UI's",
+    "authors" : [
+      {
+        "id" : "nataliya-patsovska",
+        "name" : "Nataliya Patsovska"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_showcase-driven-devlopement",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "GMpLa5Fa-Fk"
+    },
+    "name" : "Showcase Driven Devlopement",
+    "authors" : [
+      {
+        "id" : "jérôme-alves",
+        "name" : "Jérôme Alves"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swift-pills-2",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Xq_bwOM1qXs"
+    },
+    "name" : "Swift Pills #2",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swift-pills-3",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "97jUwK0TK34"
+    },
+    "name" : "Swift Pills #3",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_slide-to-unlock",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "6WUckbfPN0E"
+    },
+    "name" : "Slide to Unlock",
+    "authors" : [
+      {
+        "id" : "joel-kin",
+        "name" : "Joel Kin"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swiftly-swift-manipulation-with-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "cJkiCEJ7zIY"
+    },
+    "name" : "Swiftly Swift manipulation... with Swift",
+    "authors" : [
+      {
+        "id" : "marcin-krzyzanowski",
+        "name" : "Marcin Krzyzanowski"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_empower-your-datasources-with-a-flexible-model",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Y7cuRwluy-Y"
+    },
+    "name" : "Empower your dataSources with a flexible model",
+    "authors" : [
+      {
+        "id" : "denis-poifol",
+        "name" : "Denis Poifol"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_what-i-wanted-to-know-about-the-table-view-automatic-dimensions",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "mOvlPDyBmCo"
+    },
+    "name" : "What I wanted to know about the table view automatic dimensions",
+    "authors" : [
+      {
+        "id" : "gaétan-zanella",
+        "name" : "Gaétan Zanella"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swift-superpowers-1",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "On6GLzi2veA"
+    },
+    "name" : "Swift Superpowers #1",
+    "authors" : [
+      {
+        "id" : "david-bonnet",
+        "name" : "David Bonnet"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_generics",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "RvSoXVxN7Aw"
+    },
+    "name" : "Generics",
+    "authors" : [
+      {
+        "id" : "rob-napier",
+        "name" : "Rob Napier"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_note-encryption-10-lines-for-encryption-1500-lines-for-key-management",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "cp06I49Cv50"
+    },
+    "name" : "Note encryption: 10 lines for encryption, 1500 lines for key management",
+    "authors" : [
+      {
+        "id" : "anastasiia-voitova",
+        "name" : "Anastasiia Voitova"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swift-superpowers-2",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "8AqfcTb2zqk"
+    },
+    "name" : "Swift Superpowers #2",
+    "authors" : [
+      {
+        "id" : "david-bonnet",
+        "name" : "David Bonnet"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swiftpms-new-resolver-can-it-resolve-the-conflicts-in-my-relationship",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kmOkbj_64KY"
+    },
+    "name" : "SwiftPM's New Resolver: Can it resolve the conflicts in my relationship?",
+    "authors" : [
+      {
+        "id" : "mert-buran",
+        "name" : "Mert Buran"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_building-voice-first-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "H3EzG9vw1dw"
+    },
+    "name" : "Building Voice First Apps ",
+    "authors" : [
+      {
+        "id" : "elaine-dias-batista",
+        "name" : "Elaine Dias Batista"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_swift-superpowers-3",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EEPKSdLOrt8"
+    },
+    "name" : "Swift Superpowers #3",
+    "authors" : [
+      {
+        "id" : "david-bonnet",
+        "name" : "David Bonnet"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_shipping-a-catalyst-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Xo3zGlyxXcI"
+    },
+    "name" : "Shipping a Catalyst App",
+    "authors" : [
+      {
+        "id" : "peter-steinberger",
+        "name" : "Peter Steinberger"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_an-introduction-to-property-based-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "SCSk-Bwvb-U"
+    },
+    "name" : "An introduction to property based testing",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ]
+  },
+  {
+    "id" : "frenchkit_2019_and-thats-a-wrap",
+    "conference" : {
+      "metaData" : {
+        "id" : "frenchkit",
+        "name" : "FrenchKit"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "cw95S8gwkEU"
+    },
+    "name" : "And that's a wrap",
+    "authors" : [
+      {
+        "id" : "olivier-halligon",
+        "name" : "Olivier Halligon"
+      }
+    ]
+  }
+]

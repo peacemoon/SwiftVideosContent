@@ -4,6 +4,14 @@ This repository contains content for the upcoming SwiftVideos app.
 
 ## Videos commands
 
+### Videos - Add new videos
+
+Add new videos into a conference's edition
+
+```bash
+swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos create content/ "FrenchKit" frenchkit 2019
+```
+
 ### Videos - List Generation
 
 Generate a list of videos
@@ -22,7 +30,7 @@ swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos youtu
 
 ### Videos - Vimeo Preview Images
 
-Download preview images of youtube videos
+Download preview images of vimeo videos
 
 ```bash
 swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos vimeo_preview content/conferences/nsspain/2019

@@ -18,7 +18,7 @@ extension String {
         let spaceSet = CharacterSet.whitespaces
         let alphaSet = CharacterSet.alphanumerics
         let set = spaceSet.union(alphaSet)
-        var result = self.removingCharacters(in: set.inverted).condensedWhitespace
+        var result = self.trimmed.removingCharacters(in: set.inverted).condensedWhitespace
         result = result.lowercased().replacingOccurrences(of: " ", with: "-")
         return result
     }
