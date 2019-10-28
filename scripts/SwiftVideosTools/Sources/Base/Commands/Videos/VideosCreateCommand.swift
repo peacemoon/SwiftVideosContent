@@ -22,6 +22,7 @@ class VideosCreateCommand: Command {
     var subcommands: [Command] = []
 
     private var _path: PositionalArgument<String>
+    private var _conferenceName: PositionalArgument<String>
     private var _conference: PositionalArgument<String>
     private var _conferenceEdition: PositionalArgument<String>
 
@@ -30,6 +31,7 @@ class VideosCreateCommand: Command {
     required init(parser: ArgumentParser) {
         subparser = parser.add(subparser: command, overview: overview)
         _path = subparser.add(positional: "path", kind: String.self, usage: "The path of the content folder")
+        _conferenceName = subparser.add(positional: "conferenceName", kind: String.self, usage: "The name of the conference")
         _conference = subparser.add(positional: "conference", kind: String.self, usage: "The identifier of the conference")
         _conferenceEdition = subparser.add(positional: "conferenceEdition", kind: String.self, usage: "The edition of the conference")
     }
@@ -41,10 +43,17 @@ class VideosCreateCommand: Command {
             print("[Error] The path of the content folder is missing".red())
             return
         }
+
+        guard let conferenceName = arguments.get(_conferenceName) else {
+            print("[Error] The identifier of the conference is missing".red())
+            return
+        }
+
         guard let conference = arguments.get(_conference) else {
             print("[Error] The identifier of the conference is missing".red())
             return
         }
+
         guard let conferenceEditionString = arguments.get(_conferenceEdition), let conferenceEdition = Int(conferenceEditionString) else {
             print("[Error] The edition of the conference is missing".red())
             return
@@ -93,7 +102,7 @@ class VideosCreateCommand: Command {
             }
 
             let conferenceFolderPath = path.combinePath("conferences").combinePath(conference).combinePath(conferenceEditionString)
-            let videoConferenceInfo = VideoConferenceInfo(metaData: ConferenceMetaData(id: conference, name: ""), edition: ConferenceEdition(year: conferenceEdition))
+            let videoConferenceInfo = VideoConferenceInfo(metaData: ConferenceMetaData(id: conference, name: conferenceName), edition: ConferenceEdition(year: conferenceEdition))
             let videosCreator = VideosCreator(conferenceFolderPath: conferenceFolderPath, name: name, id: id, conference: videoConferenceInfo, authors: authors, source: videoSource)
             videosCreator.create()
         }

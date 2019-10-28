@@ -37,41 +37,12 @@ class VideosCreator {
         }
     }
 
-    // public func generate() {
-    //     do {
-    //         let jsonDecoder = JSONDecoder()
-    //         // Iterate through list of conferences
-    //         try Folder(path: baseConferencesPath).makeSubfolderSequence().forEach { conferenceFolder in
-    //             if conferenceFolder.isConferenceFolder {
-    //                 // Iterate through list of editions in this conference
-    //                 conferenceFolder.makeSubfolderSequence().forEach { editionFolder in
-    //                     if editionFolder.isConferenceEditionFolder {
-    //                         do {
-    //                             let file = try editionFolder.file(named: "videos.json")
-    //                             let content = try file.read()
-    //                             let editionVideos = try jsonDecoder.decode(VideosList.self, from: content)
-
-    //                             videos += editionVideos
-    //                         } catch {
-    //                             print("\(error)".red())
-    //                         }
-    //                     }
-    //                 }
-    //             }
-    //         }
-
-    //         try export()
-    //     } catch {
-    //         print("[Error] \(error)".red())
-    //     }
-    // }
-
     // MARK: Private helpers
 
     private func readVideosList() throws -> VideosList {
         print("[Debug] videosPath = \(videosFolderPath)".lightBlue())
 
-        let videosFolder = try Folder(path: videosFolderPath)
+        let videosFolder = try prepareFolder(at: videosFolderPath)
 
         guard let videosFile = try? videosFolder.file(named: "videos.json") else {
             return VideosList()
@@ -94,5 +65,23 @@ class VideosCreator {
         try outputFile.write(string: videosString)
 
         print("Videos are added successfully".lightCyan())
+    }
+
+    private func prepareFolder(at path : String) throws -> Folder {
+        return try Folder.createFolderIfNeeded(at: path)
+    }
+}
+
+extension Folder {
+
+    static func createFolderIfNeeded(at folderPath: String) throws -> Folder {
+        let fileManager = FileManager.default
+
+        try fileManager.createDirectory(
+            atPath: folderPath,
+            withIntermediateDirectories: true
+        )
+
+        return try Folder(path: folderPath)
     }
 }
