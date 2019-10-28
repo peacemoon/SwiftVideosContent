@@ -30,7 +30,7 @@ swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos youtu
 
 ### Videos - Vimeo Preview Images
 
-Download preview images of youtube videos
+Download preview images of vimeo videos
 
 ```bash
 swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools videos vimeo_preview content/conferences/nsspain/2019

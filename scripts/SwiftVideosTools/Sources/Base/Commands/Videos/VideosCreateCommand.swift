@@ -59,6 +59,8 @@ class VideosCreateCommand: Command {
             return
         }
 
+        var cachedSourceType = "" // default to youtube
+
         while true {
             print("Name: ".yellow())
             guard let rawName = readLine() else {
@@ -81,9 +83,12 @@ class VideosCreateCommand: Command {
                 authors.append(AuthorMetaData(id: authorID, name: String(authorName).trimmed))
             }
 
-            print("Video Source (1: youtube, 2: vimeo): ".yellow())
-            guard let sourceType = readLine() else {
-                throw VideosCreateCommandError.invalidType
+            if cachedSourceType.isEmpty {
+                print("Video Source (1: youtube, 2: vimeo): ".yellow())
+                guard let sourceType = readLine() else {
+                    throw VideosCreateCommandError.invalidType
+                }
+                cachedSourceType = sourceType
             }
 
             print("Video ID: ".yellow())
@@ -92,12 +97,13 @@ class VideosCreateCommand: Command {
             }
 
             var videoSource: VideoSource!
-            switch sourceType {
+            switch cachedSourceType {
                 case "1":
                     videoSource = VideoSource(type: "youtube", resourceID: resourceID)
                 case "2":
                     videoSource = VideoSource(type: "vimeo", resourceID: resourceID)
                 default:
+                    print("[Error] Invalid source type".red())
                     exit(1)
             }
 
