@@ -1,0 +1,577 @@
+[
+  {
+    "id" : "360idev_2019_opening-keynote-building-meaningful-software",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "368122859"
+      }
+    },
+    "name" : "Opening Keynote: Building Meaningful Software",
+    "authors" : [
+      {
+        "id" : "kaya-thomas",
+        "name" : "Kaya Thomas"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_macho-fun",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "366849578"
+      }
+    },
+    "name" : "Mach-O Fun",
+    "authors" : [
+      {
+        "id" : "derek-selander",
+        "name" : "Derek Selander"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_codable-deep-dive",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "366809959"
+      }
+    },
+    "name" : "Codable Deep Dive",
+    "authors" : [
+      {
+        "id" : "marcus-smith",
+        "name" : "Marcus Smith"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_how-to-create-personalized-digital-mobile-experiences-with-machine-learning",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "364121134"
+      }
+    },
+    "name" : "How to create personalized digital & mobile experiences with machine learning",
+    "authors" : [
+      {
+        "id" : "luke-macfarlan",
+        "name" : "Luke MacFarlan"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_intro-to-serverless-computing-with-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "364109035"
+      }
+    },
+    "name" : "Intro to Serverless Computing with Swift",
+    "authors" : [
+      {
+        "id" : "tom-markiewicz",
+        "name" : "Tom Markiewicz"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_if-you-liked-it-then-you-should-have-put-a-string-on-it",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "363874989"
+      }
+    },
+    "name" : "If You Liked It Then You Should Have Put A String On It",
+    "authors" : [
+      {
+        "id" : "rachel-hyman",
+        "name" : "Rachel Hyman"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_no-progress-like-slow-progress",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "363867397"
+      }
+    },
+    "name" : "No Progress Like Slow Progress",
+    "authors" : [
+      {
+        "id" : "samuel-goodwin",
+        "name" : "Samuel Goodwin"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_how-to-interact-with-humans-and-other-nontechnical-skills-developers-need",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "363859406"
+      }
+    },
+    "name" : "How to Interact with Humans and Other Non-technical Skills Developers Need",
+    "authors" : [
+      {
+        "id" : "jacob-bullock",
+        "name" : "Jacob Bullock"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_an-engineers-code-of-ethics",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362595966"
+      }
+    },
+    "name" : "An Engineer’s Code of Ethics",
+    "authors" : [
+      {
+        "id" : "agis-tsaraboulidis",
+        "name" : "Agis Tsaraboulidis"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_websockets-adding-realtime-data-to-your-app-with-swiftnio-and-network-framework",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362385727"
+      }
+    },
+    "name" : "WebSockets: Adding Real-Time Data to Your App with SwiftNIO and Network Framework",
+    "authors" : [
+      {
+        "id" : "jon-bauer",
+        "name" : "Jon Bauer"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_how-to-stay-excited-in-a-world-that-is-falling-apart",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "362089992"
+      }
+    },
+    "name" : "How to stay excited in a world that is falling apart",
+    "authors" : [
+      {
+        "id" : "mike-lee",
+        "name" : "Mike Lee"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_app-store-optimization-for-the-rest-of-us",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "361931259"
+      }
+    },
+    "name" : "App Store Optimization for the Rest of Us",
+    "authors" : [
+      {
+        "id" : "ariel-michaeli",
+        "name" : "Ariel Michaeli"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_build-immersive-experiences-with-arkit-and-corelocation",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "361883047"
+      }
+    },
+    "name" : "Build immersive experiences with ARKit and CoreLocation",
+    "authors" : [
+      {
+        "id" : "eric-internicola",
+        "name" : "Eric Internicola"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_managing-multiple-projects-without-losing-your-mind-probably",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "361425171"
+      }
+    },
+    "name" : "Managing Multiple Projects Without Losing Your Mind (Probably)",
+    "authors" : [
+      {
+        "id" : "tammy-coron",
+        "name" : "Tammy Coron"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_when-a-simple-algorithm-will-do",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359840521"
+      }
+    },
+    "name" : "When a Simple Algorithm will Do",
+    "authors" : [
+      {
+        "id" : "joe-cieplinski",
+        "name" : "Joe Cieplinski"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_pdfkit-basics",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359818794"
+      }
+    },
+    "name" : "PDFKit Basics",
+    "authors" : [
+      {
+        "id" : "mitch-cohen",
+        "name" : "Mitch Cohen"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_kick-your-3rd-party-networking-library-to-the-curb",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359808951"
+      }
+    },
+    "name" : "Kick your 3rd party networking library to the curb",
+    "authors" : [
+      {
+        "id" : "tim-miko",
+        "name" : "Tim Miko"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_you-can-totally-do-that-with-a-calayer",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359585658"
+      }
+    },
+    "name" : "You can totally do that with a CALayer",
+    "authors" : [
+      {
+        "id" : "rich-turton",
+        "name" : "Rich Turton"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_the-laws-of-magic",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359391445"
+      }
+    },
+    "name" : "The Laws of Magic",
+    "authors" : [
+      {
+        "id" : "dave-delong",
+        "name" : "Dave DeLong"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_tips-and-tricks-for-working-with-a-new-codebase",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359381954"
+      }
+    },
+    "name" : "Tips and Tricks for Working with a New Codebase",
+    "authors" : [
+      {
+        "id" : "charlie-fish",
+        "name" : "Charlie Fish"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_swifty-tensorflow",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359178955"
+      }
+    },
+    "name" : "Swifty TensorFlow",
+    "authors" : [
+      {
+        "id" : "siamak-ashrafi",
+        "name" : "Siamak Ashrafi"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_think-different",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359167822"
+      }
+    },
+    "name" : "Think Different",
+    "authors" : [
+      {
+        "id" : "janie-larson",
+        "name" : "Janie Larson"
+      }
+    ]
+  },
+  {
+    "id" : "360idev_2019_take-care-of-yourself",
+    "conference" : {
+      "metaData" : {
+        "id" : "360idev",
+        "name" : "360|iDev"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "359161412"
+      }
+    },
+    "name" : "Take Care of Yourself",
+    "authors" : [
+      {
+        "id" : "nathan-eror",
+        "name" : "Nathan Eror"
+      }
+    ]
+  }
+]
