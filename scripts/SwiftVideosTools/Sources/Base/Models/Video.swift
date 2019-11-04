@@ -16,6 +16,7 @@ struct VideoMetaData: Codable {
     let conference: VideoConferenceInfo
     let name: String
     let source: VideoSource
+    let createdAt: TimeInterval?
 }
 
 // MARK: - VideoConferenceInfo
