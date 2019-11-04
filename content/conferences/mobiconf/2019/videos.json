@@ -1,0 +1,71 @@
+[
+  {
+    "id" : "mobiconf_2019_omg-collection-views",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "x_czrytFGrU"
+    },
+    "name" : "OMG Collection Views!",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ]
+  },
+  {
+    "id" : "mobiconf_2019_swiftui-goodbye-forever-uikit",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Dir_cIxQN9c"
+    },
+    "name" : "SwiftUI – goodbye (forever), UIKit?",
+    "authors" : [
+      {
+        "id" : "andrzej-zuzak",
+        "name" : "Andrzej Zuzak"
+      }
+    ]
+  },
+  {
+    "id" : "mobiconf_2019_one-app-to-rule-them-all",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aBXIB4P1GDc"
+    },
+    "name" : "One app to rule them all",
+    "authors" : [
+      {
+        "id" : "jan-kaltoun",
+        "name" : "Jan Kaltoun"
+      }
+    ]
+  }
+]

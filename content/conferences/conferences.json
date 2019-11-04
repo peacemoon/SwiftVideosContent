@@ -1,5 +1,9 @@
 [
     {
+        "id": "mobiconf",
+        "name": "mobiconf"
+    },
+    {
         "id": "360idev",
         "name": "360|iDev"
     },
