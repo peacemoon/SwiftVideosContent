@@ -22,7 +22,7 @@ class VideosCreator {
 
     init(conferenceFolderPath: String, name: String, id: VideoID, conference: VideoConferenceInfo, authors: AuthorsList, source: VideoSource) {
         self.videosFolderPath = conferenceFolderPath
-        video = VideoMetaData(id: id, authors: authors, conference: conference, name: name, source: source)
+        video = VideoMetaData(id: id, authors: authors, conference: conference, name: name, source: source, createdAt: Date().timeIntervalSince1970)
     }
 
     // MARK: APIs
