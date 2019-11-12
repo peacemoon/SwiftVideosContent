@@ -1,5 +1,9 @@
 [
     {
+        "id": "appdevcon",
+        "name": "AppDevCon"
+    },
+    {
         "id": "mobiconf",
         "name": "mobiconf"
     },

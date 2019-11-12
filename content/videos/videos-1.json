@@ -1664,6 +1664,500 @@
     ]
   },
   {
+    "id" : "appdevcon_2019_building-a-crossplatform-sdk-with-multiple-teams",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "338904053"
+      }
+    },
+    "name" : "Building a cross-platform SDK with multiple teams",
+    "authors" : [
+      {
+        "id" : "donny-wals",
+        "name" : "Donny Wals"
+      }
+    ],
+    "createdAt" : 1573595778.8759389
+  },
+  {
+    "id" : "appdevcon_2019_lessons-learned-on-managing-technical-debt-at-parkmobile",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "337791133"
+      }
+    },
+    "name" : "Lessons Learned on Managing Technical Debt at Parkmobile",
+    "authors" : [
+      {
+        "id" : "emre-kucukayvaz",
+        "name" : "Emre Kucukayvaz"
+      }
+    ],
+    "createdAt" : 1573596012.7777328
+  },
+  {
+    "id" : "appdevcon_2019_living-life-as-a-healthier-developer",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "337791125"
+      }
+    },
+    "name" : "Living life as a healthier developer",
+    "authors" : [
+      {
+        "id" : "dave-verwer",
+        "name" : "Dave Verwer"
+      }
+    ],
+    "createdAt" : 1573596041.6408539
+  },
+  {
+    "id" : "appdevcon_2019_so-you-want-to-build-an-arkit-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "337522708"
+      }
+    },
+    "name" : "So you want to build an ARKit app",
+    "authors" : [
+      {
+        "id" : "namrata-bandekar",
+        "name" : "Namrata Bandekar"
+      }
+    ],
+    "createdAt" : 1573596062.2568989
+  },
+  {
+    "id" : "appdevcon_2019_taking-the-boilerplate-out-of-your-tests-with-sourcery",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "337785976"
+      }
+    },
+    "name" : "Taking the boilerplate out of your tests with Sourcery",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ],
+    "createdAt" : 1573596081.137671
+  },
+  {
+    "id" : "appdevcon_2019_debug-like-a-pro",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "339109778"
+      }
+    },
+    "name" : "Debug like a pro",
+    "authors" : [
+      {
+        "id" : "vadim-drobinin",
+        "name" : "Vadim Drobinin"
+      }
+    ],
+    "createdAt" : 1573596128.2990899
+  },
+  {
+    "id" : "appdevcon_2019_best-practices-for-notification-features",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "339108912"
+      }
+    },
+    "name" : "Best Practices for Notification Features",
+    "authors" : [
+      {
+        "id" : "kaya-thomas",
+        "name" : "Kaya Thomas"
+      }
+    ],
+    "createdAt" : 1573596158.7976499
+  },
+  {
+    "id" : "appdevcon_2019_ios-at-scaleish",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "338980167"
+      }
+    },
+    "name" : "iOS at Scale(ish)",
+    "authors" : [
+      {
+        "id" : "bradley-smith",
+        "name" : "Bradley Smith"
+      }
+    ],
+    "createdAt" : 1573596175.01283
+  },
+  {
+    "id" : "appdevcon_2019_develop-a-tvos-app-based-on-an-ios-app-code-base",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "339110856"
+      }
+    },
+    "name" : "Develop a tvOS app based on an iOS app code base",
+    "authors" : [
+      {
+        "id" : "jeroen-zonneveld",
+        "name" : "Jeroen Zonneveld"
+      }
+    ],
+    "createdAt" : 1573596200.5649641
+  },
+  {
+    "id" : "appdevcon_2019_a-deep-dive-into-the-result-type",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "337786215"
+      }
+    },
+    "name" : "A deep dive into the result type",
+    "authors" : [
+      {
+        "id" : "tjeerd-in-t-veen",
+        "name" : "Tjeerd in t Veen"
+      }
+    ],
+    "createdAt" : 1573596239.5185971
+  },
+  {
+    "id" : "appdevcon_2019_the-passions-of-programming",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "335802828"
+      }
+    },
+    "name" : "The passions of programming",
+    "authors" : [
+      {
+        "id" : "kevlin-henney",
+        "name" : "Kevlin Henney"
+      }
+    ],
+    "createdAt" : 1573596301.9433289
+  },
+  {
+    "id" : "appdevcon_2019_considerations-in-crossplatform-cryptography",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "339128967"
+      }
+    },
+    "name" : "Considerations in Cross-Platform Cryptography",
+    "authors" : [
+      {
+        "id" : "mike-lee",
+        "name" : "Mike Lee"
+      }
+    ],
+    "createdAt" : 1573596338.6420619
+  },
+  {
+    "id" : "appdevcon_2019_graphql-will-do-to-rest-what-json-did-to-xml",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "338668789"
+      }
+    },
+    "name" : "GraphQL Will Do To REST What JSON Did To XML",
+    "authors" : [
+      {
+        "id" : "roy-derks",
+        "name" : "Roy Derks"
+      }
+    ],
+    "createdAt" : 1573596381.7718701
+  },
+  {
+    "id" : "appdevcon_2019_faulttolerant-system-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "338668503"
+      }
+    },
+    "name" : "Fault-tolerant system design",
+    "authors" : [
+      {
+        "id" : "rim-khazhin",
+        "name" : "Rim Khazhin"
+      }
+    ],
+    "createdAt" : 1573596427.755744
+  },
+  {
+    "id" : "appdevcon_2019_designing-lean-abstractions",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "337791111"
+      }
+    },
+    "name" : "Designing Lean Abstractions",
+    "authors" : [
+      {
+        "id" : "ben-sandofsky",
+        "name" : "Ben Sandofsky"
+      }
+    ],
+    "createdAt" : 1573596506.293474
+  },
+  {
+    "id" : "appdevcon_2019_securing-your-mobile-app-with-the-owasp-mobile-security-testing-guide",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "339145040"
+      }
+    },
+    "name" : "Securing your mobile app with the OWASP Mobile Security Testing Guide",
+    "authors" : [
+      {
+        "id" : "jeroen-willemsen",
+        "name" : "Jeroen Willemsen"
+      }
+    ],
+    "createdAt" : 1573596539.9584219
+  },
+  {
+    "id" : "appdevcon_2019_evolving-mobile-architecture-at-reddit",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "337791139"
+      }
+    },
+    "name" : "Evolving Mobile Architecture at Reddit",
+    "authors" : [
+      {
+        "id" : "andrew-rohn",
+        "name" : "Andrew Rohn"
+      }
+    ],
+    "createdAt" : 1573596623.551765
+  },
+  {
+    "id" : "appdevcon_2019_code-reviews-establishing-a-quality-culture",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "339272242"
+      }
+    },
+    "name" : "Code Reviews, Establishing a Quality Culture",
+    "authors" : [
+      {
+        "id" : "jayesh-kawli",
+        "name" : "Jayesh Kawli"
+      }
+    ],
+    "createdAt" : 1573596792.01875
+  },
+  {
+    "id" : "appdevcon_2019_the-customer-is-always-right",
+    "conference" : {
+      "metaData" : {
+        "id" : "appdevcon",
+        "name" : "AppDevCon"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "vimeo",
+      "value" : {
+        "video" : "335938848"
+      }
+    },
+    "name" : "The customer is always right",
+    "authors" : [
+      {
+        "id" : "joe-cieplinski",
+        "name" : "Joe Cieplinski"
+      }
+    ],
+    "createdAt" : 1573597029.7677689
+  },
+  {
     "id" : "dotswift_2019_just-enough-objective-c",
     "conference" : {
       "metaData" : {
@@ -3385,6 +3879,75 @@
       {
         "id" : "soroush-khanlou",
         "name" : "Soroush Khanlou"
+      }
+    ]
+  },
+  {
+    "id" : "mobiconf_2019_omg-collection-views",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "x_czrytFGrU"
+    },
+    "name" : "OMG Collection Views!",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ]
+  },
+  {
+    "id" : "mobiconf_2019_swiftui-goodbye-forever-uikit",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Dir_cIxQN9c"
+    },
+    "name" : "SwiftUI – goodbye (forever), UIKit?",
+    "authors" : [
+      {
+        "id" : "andrzej-zuzak",
+        "name" : "Andrzej Zuzak"
+      }
+    ]
+  },
+  {
+    "id" : "mobiconf_2019_one-app-to-rule-them-all",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aBXIB4P1GDc"
+    },
+    "name" : "One app to rule them all",
+    "authors" : [
+      {
+        "id" : "jan-kaltoun",
+        "name" : "Jan Kaltoun"
       }
     ]
   },
