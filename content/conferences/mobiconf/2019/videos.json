@@ -67,5 +67,53 @@
         "name" : "Jan Kaltoun"
       }
     ]
+  },
+  {
+    "id" : "mobiconf_2019_independent-watchos-principles-and-practices",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ydwaVw6f1Pw"
+    },
+    "name" : "Independent watchOS: principles and practices",
+    "authors" : [
+      {
+        "id" : "vadim-drobinin",
+        "name" : "Vadim Drobinin"
+      }
+    ],
+    "createdAt" : 1573770342.509784
+  },
+  {
+    "id" : "mobiconf_2019_a-practical-approach-to-adopting-tdd-in-the-workplace",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EdxKLykzMv8"
+    },
+    "name" : "A Practical Approach to Adopting TDD In the Workplace",
+    "authors" : [
+      {
+        "id" : "donny-wals",
+        "name" : "Donny Wals"
+      }
+    ],
+    "createdAt" : 1573770426.5584469
   }
 ]
