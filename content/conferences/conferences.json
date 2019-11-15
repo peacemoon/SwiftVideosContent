@@ -1,5 +1,13 @@
 [
     {
+        "id": "pragmamark",
+        "name": "pragma mark"
+    },
+    {
+        "id": "codemobile",
+        "name": "CodeMobile"
+    },
+    {
         "id": "appdevcon",
         "name": "AppDevCon"
     },

@@ -2158,6 +2158,294 @@
     "createdAt" : 1573597029.7677689
   },
   {
+    "id" : "codemobile_2019_being-an-ethical-developer",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "pQ_RZeBAmmM"
+    },
+    "name" : "Being An Ethical Developer",
+    "authors" : [
+      {
+        "id" : "xavier-gouchet",
+        "name" : "Xavier Gouchet"
+      }
+    ],
+    "createdAt" : 1573854688.8581271
+  },
+  {
+    "id" : "codemobile_2019_accessibility-without-the-v-word",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "majvme8fMvE"
+    },
+    "name" : "Accessibility Without the \"V\" Word",
+    "authors" : [
+      {
+        "id" : "rob-whitaker",
+        "name" : "Rob Whitaker"
+      }
+    ],
+    "createdAt" : 1573854726.3452029
+  },
+  {
+    "id" : "codemobile_2019_product-management-for-independent-developers",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "BSlbEL7au7o"
+    },
+    "name" : "Product Management for Independent Developers",
+    "authors" : [
+      {
+        "id" : "dave-verwer",
+        "name" : "Dave Verwer"
+      }
+    ],
+    "createdAt" : 1573854745.681488
+  },
+  {
+    "id" : "codemobile_2019_dear-interviewee-what-your-interviewer-would-like-you-to-know-but-cant-tell-you",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "t0yqEml2vVs"
+    },
+    "name" : "DEAR INTERVIEWEE: WHAT YOUR INTERVIEWER WOULD LIKE YOU TO KNOW, BUT CAN’T TELL YOU",
+    "authors" : [
+      {
+        "id" : "alex-karp",
+        "name" : "Alex Karp"
+      }
+    ],
+    "createdAt" : 1573854778.418231
+  },
+  {
+    "id" : "codemobile_2019_youre-doing-it-wrong",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "J5T0iRih-D0"
+    },
+    "name" : "You're doing it wrong",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ],
+    "createdAt" : 1573854816.8921509
+  },
+  {
+    "id" : "codemobile_2019_the-5-million-downloads-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1FpVBI-ES7Y"
+    },
+    "name" : "The 5 Million Downloads App",
+    "authors" : [
+      {
+        "id" : "neil-dodd",
+        "name" : "Neil Dodd"
+      }
+    ],
+    "createdAt" : 1573854887.6602101
+  },
+  {
+    "id" : "codemobile_2019_creating-ml-powered-application",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "mxqu1SPA9Iw"
+    },
+    "name" : "Creating ML Powered Application",
+    "authors" : [
+      {
+        "id" : "buşra-deniz",
+        "name" : "Buşra Deniz"
+      }
+    ],
+    "createdAt" : 1573854907.052582
+  },
+  {
+    "id" : "codemobile_2019_understanding-artificial-neural-networks",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "VMcL4J__0XY"
+    },
+    "name" : "Understanding Artificial Neural Networks",
+    "authors" : [
+      {
+        "id" : "niels-van-hoorn",
+        "name" : "Niels Van Hoorn"
+      }
+    ],
+    "createdAt" : 1573854962.645961
+  },
+  {
+    "id" : "codemobile_2019_accessibility-without-the-apis",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1ZI-Y6d5JuM"
+    },
+    "name" : "Accessibility Without the API's",
+    "authors" : [
+      {
+        "id" : "chris-barker",
+        "name" : "Chris Barker"
+      }
+    ],
+    "createdAt" : 1573855049.7761779
+  },
+  {
+    "id" : "codemobile_2019_vapor-and-serverside-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "mNu2RGvjL0k"
+    },
+    "name" : "Vapor and Serverside Swift",
+    "authors" : [
+      {
+        "id" : "tim-condon",
+        "name" : "Tim Condon"
+      }
+    ],
+    "createdAt" : 1573855070.1678019
+  },
+  {
+    "id" : "codemobile_2019_were-better-than-this",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kxFGBpxVxMs"
+    },
+    "name" : "We're Better Than This",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ],
+    "createdAt" : 1573855102.832119
+  },
+  {
+    "id" : "codemobile_2019_building-a-custom-uicollectionview-layout",
+    "conference" : {
+      "metaData" : {
+        "id" : "codemobile",
+        "name" : "CodeMobile"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Q2NLgfYN7Pg"
+    },
+    "name" : "Building a Custom UICollectionView Layout",
+    "authors" : [
+      {
+        "id" : "greg-spiers",
+        "name" : "Greg Spiers"
+      }
+    ],
+    "createdAt" : 1573855123.665071
+  },
+  {
     "id" : "dotswift_2019_just-enough-objective-c",
     "conference" : {
       "metaData" : {
@@ -3952,6 +4240,54 @@
     ]
   },
   {
+    "id" : "mobiconf_2019_independent-watchos-principles-and-practices",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ydwaVw6f1Pw"
+    },
+    "name" : "Independent watchOS: principles and practices",
+    "authors" : [
+      {
+        "id" : "vadim-drobinin",
+        "name" : "Vadim Drobinin"
+      }
+    ],
+    "createdAt" : 1573770342.509784
+  },
+  {
+    "id" : "mobiconf_2019_a-practical-approach-to-adopting-tdd-in-the-workplace",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EdxKLykzMv8"
+    },
+    "name" : "A Practical Approach to Adopting TDD In the Workplace",
+    "authors" : [
+      {
+        "id" : "donny-wals",
+        "name" : "Donny Wals"
+      }
+    ],
+    "createdAt" : 1573770426.5584469
+  },
+  {
     "id" : "moconfby_2018_machine-learning-on-mobile-a-primer",
     "conference" : {
       "metaData" : {
@@ -4065,6 +4401,126 @@
         "name" : "Dmitry Mikhailov"
       }
     ]
+  },
+  {
+    "id" : "moconfby_2019_making-your-app-feel-at-home-on-ios-13",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vCvy__4yRnA"
+    },
+    "name" : "Making your app feel at home on iOS 13",
+    "authors" : [
+      {
+        "id" : "dave-verwer",
+        "name" : "Dave Verwer"
+      }
+    ],
+    "createdAt" : 1573844038.2046251
+  },
+  {
+    "id" : "moconfby_2019_venturing-the-world-of-rxswift-unit-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "49K6MMhn-fc"
+    },
+    "name" : "Venturing the world of RxSwift unit testing",
+    "authors" : [
+      {
+        "id" : "eleni-papanikolopoulou",
+        "name" : "Eleni Papanikolopoulou"
+      }
+    ],
+    "createdAt" : 1573844073.9223609
+  },
+  {
+    "id" : "moconfby_2019_sourcery-practical-examples",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "8uT2WqvwcfE"
+    },
+    "name" : "Sourcery — Practical Examples",
+    "authors" : [
+      {
+        "id" : "krzysztof-zablocki",
+        "name" : "Krzysztof Zablocki"
+      }
+    ],
+    "createdAt" : 1573844104.371366
+  },
+  {
+    "id" : "moconfby_2019_building-a-realtime-video-processor-with-swift-and-metal",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "cDbUbrH3Jdo"
+    },
+    "name" : "Building a Realtime Video Processor with Swift and Metal",
+    "authors" : [
+      {
+        "id" : "ben-sandofsky",
+        "name" : "Ben Sandofsky"
+      }
+    ],
+    "createdAt" : 1573844137.1963429
+  },
+  {
+    "id" : "moconfby_2019_writing-game-in-swiftui-a-madness",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "5vMm-grRZBY"
+    },
+    "name" : "Writing game in SwiftUI —a madness?",
+    "authors" : [
+      {
+        "id" : "pavel-zak",
+        "name" : "Pavel Zak"
+      }
+    ],
+    "createdAt" : 1573844640.2366672
   },
   {
     "id" : "nsspain_2019_detail-oriented-ui-with-layout-margins",
@@ -4573,6 +5029,318 @@
         "name" : "Aleksandra Komagorkina"
       }
     ]
+  },
+  {
+    "id" : "pragmamark_2019_understanding-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "iDlCU-AdXNQ"
+    },
+    "name" : "Understanding Combine",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ],
+    "createdAt" : 1573846123.193917
+  },
+  {
+    "id" : "pragmamark_2019_how-to-raise-a-template",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "e7-HnYSMBhY"
+    },
+    "name" : "How to raise a template",
+    "authors" : [
+      {
+        "id" : "kate-castellano",
+        "name" : "Kate Castellano"
+      }
+    ],
+    "createdAt" : 1573848222.2168388
+  },
+  {
+    "id" : "pragmamark_2019_swiftui-for-uikit-developers",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xgya_xBlYRA"
+    },
+    "name" : "SwiftUI for UIKit developers",
+    "authors" : [
+      {
+        "id" : "aleksandar-vacić",
+        "name" : "Aleksandar Vacić"
+      }
+    ],
+    "createdAt" : 1573848241.6576869
+  },
+  {
+    "id" : "pragmamark_2019_i-was-wrong-im-so-sorry",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "JFtn5wK-1iI"
+    },
+    "name" : "I was wrong. I’m so sorry.",
+    "authors" : [
+      {
+        "id" : "jeff-watkins",
+        "name" : "Jeff Watkins"
+      }
+    ],
+    "createdAt" : 1573848285.3294239
+  },
+  {
+    "id" : "pragmamark_2019_developing-an-app-with-diffabledatasource",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aP0FGcr4XdU"
+    },
+    "name" : "Developing an app with DiffableDataSource",
+    "authors" : [
+      {
+        "id" : "jeroen-bakker",
+        "name" : "Jeroen Bakker"
+      }
+    ],
+    "createdAt" : 1573849511.2400951
+  },
+  {
+    "id" : "pragmamark_2019_green-development-is-it-even-a-thing",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "alSkj8LuYq0"
+    },
+    "name" : "“Green” development: is it even a thing?",
+    "authors" : [
+      {
+        "id" : "aleksandra-komagorkina",
+        "name" : "Aleksandra Komagorkina"
+      }
+    ],
+    "createdAt" : 1573849539.336575
+  },
+  {
+    "id" : "pragmamark_2019_from-problem-to-solution",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "H9XBua2jeaU"
+    },
+    "name" : "From Problem to Solution",
+    "authors" : [
+      {
+        "id" : "souroush-kanlou",
+        "name" : "Souroush Kanlou"
+      }
+    ],
+    "createdAt" : 1573849562.978138
+  },
+  {
+    "id" : "pragmamark_2019_code-archeology",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "U1YHtDFxid8"
+    },
+    "name" : "Code Archeology",
+    "authors" : [
+      {
+        "id" : "maciej-piotrowski",
+        "name" : "Maciej Piotrowski"
+      }
+    ],
+    "createdAt" : 1573849588.3533502
+  },
+  {
+    "id" : "pragmamark_2019_making-the-most-of-it",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "WrVqkfE4pbk"
+    },
+    "name" : "Making the most of it",
+    "authors" : [
+      {
+        "id" : "michael-flarup",
+        "name" : "Michael Flarup"
+      }
+    ],
+    "createdAt" : 1573849628.835669
+  },
+  {
+    "id" : "pragmamark_2019_learning-coreml-with-fun",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Eec0t5LP-jw"
+    },
+    "name" : "Learning CoreML with fun",
+    "authors" : [
+      {
+        "id" : "andrea-baldon",
+        "name" : "Andrea Baldon"
+      }
+    ],
+    "createdAt" : 1573849651.5387909
+  },
+  {
+    "id" : "pragmamark_2019_building-an-app-for-every-ios-device-and-beyond",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "SS9MTkCxj28"
+    },
+    "name" : "Building an App for every iOS Device and Beyond",
+    "authors" : [
+      {
+        "id" : "janina-kutyn",
+        "name" : "Janina Kutyn"
+      }
+    ],
+    "createdAt" : 1573849673.5083299
+  },
+  {
+    "id" : "pragmamark_2019_mobile-me-its-complicated",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "pYgi0vdPJAU"
+    },
+    "name" : " Mobile && Me == It's Complicated",
+    "authors" : [
+      {
+        "id" : "lea-marolt-sonnenschein",
+        "name" : "Lea Marolt Sonnenschein"
+      }
+    ],
+    "createdAt" : 1573849697.2029939
+  },
+  {
+    "id" : "pragmamark_2019_the-developer-journey",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "b5IFgHc2pno"
+    },
+    "name" : "The Developer Journey",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ],
+    "createdAt" : 1573849718.093255
   },
   {
     "id" : "swift-and-fika_2018_adventures-in-api-design",
