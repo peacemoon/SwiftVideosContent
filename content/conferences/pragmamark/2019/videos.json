@@ -1,0 +1,314 @@
+[
+  {
+    "id" : "pragmamark_2019_understanding-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "iDlCU-AdXNQ"
+    },
+    "name" : "Understanding Combine",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ],
+    "createdAt" : 1573846123.193917
+  },
+  {
+    "id" : "pragmamark_2019_how-to-raise-a-template",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "e7-HnYSMBhY"
+    },
+    "name" : "How to raise a template",
+    "authors" : [
+      {
+        "id" : "kate-castellano",
+        "name" : "Kate Castellano"
+      }
+    ],
+    "createdAt" : 1573848222.2168388
+  },
+  {
+    "id" : "pragmamark_2019_swiftui-for-uikit-developers",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xgya_xBlYRA"
+    },
+    "name" : "SwiftUI for UIKit developers",
+    "authors" : [
+      {
+        "id" : "aleksandar-vacić",
+        "name" : "Aleksandar Vacić"
+      }
+    ],
+    "createdAt" : 1573848241.6576869
+  },
+  {
+    "id" : "pragmamark_2019_i-was-wrong-im-so-sorry",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "JFtn5wK-1iI"
+    },
+    "name" : "I was wrong. I’m so sorry.",
+    "authors" : [
+      {
+        "id" : "jeff-watkins",
+        "name" : "Jeff Watkins"
+      }
+    ],
+    "createdAt" : 1573848285.3294239
+  },
+  {
+    "id" : "pragmamark_2019_developing-an-app-with-diffabledatasource",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aP0FGcr4XdU"
+    },
+    "name" : "Developing an app with DiffableDataSource",
+    "authors" : [
+      {
+        "id" : "jeroen-bakker",
+        "name" : "Jeroen Bakker"
+      }
+    ],
+    "createdAt" : 1573849511.2400951
+  },
+  {
+    "id" : "pragmamark_2019_green-development-is-it-even-a-thing",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "alSkj8LuYq0"
+    },
+    "name" : "“Green” development: is it even a thing?",
+    "authors" : [
+      {
+        "id" : "aleksandra-komagorkina",
+        "name" : "Aleksandra Komagorkina"
+      }
+    ],
+    "createdAt" : 1573849539.336575
+  },
+  {
+    "id" : "pragmamark_2019_from-problem-to-solution",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "H9XBua2jeaU"
+    },
+    "name" : "From Problem to Solution",
+    "authors" : [
+      {
+        "id" : "souroush-kanlou",
+        "name" : "Souroush Kanlou"
+      }
+    ],
+    "createdAt" : 1573849562.978138
+  },
+  {
+    "id" : "pragmamark_2019_code-archeology",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "U1YHtDFxid8"
+    },
+    "name" : "Code Archeology",
+    "authors" : [
+      {
+        "id" : "maciej-piotrowski",
+        "name" : "Maciej Piotrowski"
+      }
+    ],
+    "createdAt" : 1573849588.3533502
+  },
+  {
+    "id" : "pragmamark_2019_making-the-most-of-it",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "WrVqkfE4pbk"
+    },
+    "name" : "Making the most of it",
+    "authors" : [
+      {
+        "id" : "michael-flarup",
+        "name" : "Michael Flarup"
+      }
+    ],
+    "createdAt" : 1573849628.835669
+  },
+  {
+    "id" : "pragmamark_2019_learning-coreml-with-fun",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Eec0t5LP-jw"
+    },
+    "name" : "Learning CoreML with fun",
+    "authors" : [
+      {
+        "id" : "andrea-baldon",
+        "name" : "Andrea Baldon"
+      }
+    ],
+    "createdAt" : 1573849651.5387909
+  },
+  {
+    "id" : "pragmamark_2019_building-an-app-for-every-ios-device-and-beyond",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "SS9MTkCxj28"
+    },
+    "name" : "Building an App for every iOS Device and Beyond",
+    "authors" : [
+      {
+        "id" : "janina-kutyn",
+        "name" : "Janina Kutyn"
+      }
+    ],
+    "createdAt" : 1573849673.5083299
+  },
+  {
+    "id" : "pragmamark_2019_mobile-me-its-complicated",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "pYgi0vdPJAU"
+    },
+    "name" : " Mobile && Me == It's Complicated",
+    "authors" : [
+      {
+        "id" : "lea-marolt-sonnenschein",
+        "name" : "Lea Marolt Sonnenschein"
+      }
+    ],
+    "createdAt" : 1573849697.2029939
+  },
+  {
+    "id" : "pragmamark_2019_the-developer-journey",
+    "conference" : {
+      "metaData" : {
+        "id" : "pragmamark",
+        "name" : "pragma mark"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "b5IFgHc2pno"
+    },
+    "name" : "The Developer Journey",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ],
+    "createdAt" : 1573849718.093255
+  }
+]

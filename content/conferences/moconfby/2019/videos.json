@@ -1,0 +1,122 @@
+[
+  {
+    "id" : "moconfby_2019_making-your-app-feel-at-home-on-ios-13",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vCvy__4yRnA"
+    },
+    "name" : "Making your app feel at home on iOS 13",
+    "authors" : [
+      {
+        "id" : "dave-verwer",
+        "name" : "Dave Verwer"
+      }
+    ],
+    "createdAt" : 1573844038.2046251
+  },
+  {
+    "id" : "moconfby_2019_venturing-the-world-of-rxswift-unit-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "49K6MMhn-fc"
+    },
+    "name" : "Venturing the world of RxSwift unit testing",
+    "authors" : [
+      {
+        "id" : "eleni-papanikolopoulou",
+        "name" : "Eleni Papanikolopoulou"
+      }
+    ],
+    "createdAt" : 1573844073.9223609
+  },
+  {
+    "id" : "moconfby_2019_sourcery-practical-examples",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "8uT2WqvwcfE"
+    },
+    "name" : "Sourcery — Practical Examples",
+    "authors" : [
+      {
+        "id" : "krzysztof-zablocki",
+        "name" : "Krzysztof Zablocki"
+      }
+    ],
+    "createdAt" : 1573844104.371366
+  },
+  {
+    "id" : "moconfby_2019_building-a-realtime-video-processor-with-swift-and-metal",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "cDbUbrH3Jdo"
+    },
+    "name" : "Building a Realtime Video Processor with Swift and Metal",
+    "authors" : [
+      {
+        "id" : "ben-sandofsky",
+        "name" : "Ben Sandofsky"
+      }
+    ],
+    "createdAt" : 1573844137.1963429
+  },
+  {
+    "id" : "moconfby_2019_writing-game-in-swiftui-a-madness",
+    "conference" : {
+      "metaData" : {
+        "id" : "moconfby",
+        "name" : "MOConfBy"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "5vMm-grRZBY"
+    },
+    "name" : "Writing game in SwiftUI —a madness?",
+    "authors" : [
+      {
+        "id" : "pavel-zak",
+        "name" : "Pavel Zak"
+      }
+    ],
+    "createdAt" : 1573844640.2366672
+  }
+]
