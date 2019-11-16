@@ -61,3 +61,7 @@ Validate the list of authors
 ```bash
 swift run --package-path scripts/SwiftVideosTools/ SwiftVideosTools authors validate content/
 ```
+
+## LICENSE
+
+[MIT](https://github.com/superarcswift/SwiftCommunityContent/blob/master/LICENSE)
