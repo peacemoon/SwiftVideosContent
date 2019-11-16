@@ -66,8 +66,11 @@ class VideosCreateCommand: Command {
             guard let rawName = readLine() else {
                 throw VideosCreateCommandError.invalidName
             }
-
             let name = rawName.condensedWhitespace
+
+            print("Description: ".yellow())
+            let description = readLine()
+
             let id = "\(conference)_\(conferenceEdition)_\(name.idfied)"
             print("id = \(id)")
 
@@ -109,12 +112,11 @@ class VideosCreateCommand: Command {
 
             let conferenceFolderPath = path.combinePath("conferences").combinePath(conference).combinePath(conferenceEditionString)
             let videoConferenceInfo = VideoConferenceInfo(metaData: ConferenceMetaData(id: conference, name: conferenceName), edition: ConferenceEdition(year: conferenceEdition))
-            let videosCreator = VideosCreator(conferenceFolderPath: conferenceFolderPath, name: name, id: id, conference: videoConferenceInfo, authors: authors, source: videoSource)
+            let videosCreator = VideosCreator(conferenceFolderPath: conferenceFolderPath, name: name, description: description, id: id, conference: videoConferenceInfo, authors: authors, source: videoSource)
             videosCreator.create()
         }
     }
 }
-
 
 enum VideosCreateCommandError: Error {
     case invalidName

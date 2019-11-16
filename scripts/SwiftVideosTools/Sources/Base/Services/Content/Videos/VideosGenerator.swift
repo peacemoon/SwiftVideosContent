@@ -59,7 +59,7 @@ public class VideosGenerator {
     // MARK: Private helpers
 
     private func export() throws {
-        guard let videosString = videos.prettyPrintedString else {
+        guard let videosString = videos.jsonPrettyPrintedString else {
             return
         }
 

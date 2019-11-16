@@ -1,3 +1,3 @@
 # SwiftVideosTools
 
-A description of this package.
+Tools to manage content for the SwiftCommunity app

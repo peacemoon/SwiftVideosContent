@@ -45,7 +45,7 @@ public class AuthorsGenerator {
     }
 
     public func export() throws {
-        guard let authorsString = authors.prettyPrintedString else {
+        guard let authorsString = authors.jsonPrettyPrintedString else {
             return
         }
         let authorsFolder = try Folder(path: baseAuthorsPath)

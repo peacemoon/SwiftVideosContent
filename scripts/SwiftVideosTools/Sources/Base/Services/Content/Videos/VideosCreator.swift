@@ -14,15 +14,17 @@ class VideosCreator {
     // Private
 
     private var videosFolderPath: String
-    private var video: VideoMetaData
+    private var videoMetaData: VideoMetaData
+    private var videoDetail: VideoDetail
 
     //private var video: VideoMetaData
 
     // MARK: Initialization
 
-    init(conferenceFolderPath: String, name: String, id: VideoID, conference: VideoConferenceInfo, authors: AuthorsList, source: VideoSource) {
+    init(conferenceFolderPath: String, name: String, description: String?, id: VideoID, conference: VideoConferenceInfo, authors: AuthorsList, source: VideoSource) {
         self.videosFolderPath = conferenceFolderPath
-        video = VideoMetaData(id: id, authors: authors, conference: conference, name: name, source: source, createdAt: Date().timeIntervalSince1970)
+        videoMetaData = VideoMetaData(id: id, authors: authors, conference: conference, name: name, source: source, createdAt: Date().timeIntervalSince1970)
+        videoDetail = VideoDetail(metaData: videoMetaData, description: description, resources: nil)
     }
 
     // MARK: APIs
@@ -30,8 +32,9 @@ class VideosCreator {
     func create() {
         do {
             var videosList = try readVideosList()
-            videosList.append(video)
+            videosList.append(videoMetaData)
             try export(videosList)
+            try exportVideoDetail()
         } catch {
             print("[Error] \(error)".red())
         }
@@ -55,7 +58,7 @@ class VideosCreator {
     }
 
     private func export(_ videosList: VideosList) throws {
-        guard let videosString = videosList.prettyPrintedString else {
+        guard let videosString = videosList.jsonPrettyPrintedString else {
             return
         }
 
@@ -65,6 +68,20 @@ class VideosCreator {
         try outputFile.write(string: videosString)
 
         print("Videos are added successfully".lightCyan())
+    }
+
+    private func exportVideoDetail() throws {
+        guard let videoString = videoDetail.jsonPrettyPrintedString else {
+            return
+        }
+
+        let videosFolder = try Folder(path: videosFolderPath)
+
+        let outputFile = try videosFolder.createFile(named: "\(videoDetail.metaData.id).json")
+        try outputFile.write(string: videoString)
+
+        print("Video \(videoDetail.metaData.id) are exported successfully".lightCyan())
+
     }
 
     private func prepareFolder(at path : String) throws -> Folder {
