@@ -45,6 +45,7 @@ enum VideoSource {
     case vimeo(resource: VimeoResourceData)
     case youtube(id: String)
     case wwdc(url: String)
+    case streaming(url: String)
     case website(url: String)
 
     init(type: String, resourceID: String) {
