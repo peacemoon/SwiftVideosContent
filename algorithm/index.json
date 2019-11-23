@@ -1,0 +1,44 @@
+{
+    "title": "Algorithms & Data structures",
+    "content": {
+        "type": "local",
+        "mime": "markdown",
+        "value": "This is an Introduction"
+    },
+    "sections": [
+        {
+            "title": "Introduction",
+            "sections":[
+                {
+                    "title": "What are algorithms and data structures",
+                    "content": {
+                        "type": "url",
+                        "mime": "text",
+                        "value": "https://raw.githubusercontent.com/raywenderlich/swift-algorithm-club/master/What%20are%20Algorithms.markdown"
+                    }
+
+                }
+            ]
+        },
+        {
+            "title": "Data Structures",
+            "sections": [
+                {
+                    "title": "Stack"
+                },
+                {
+                    "title": "Queue"
+                }
+            ]
+        },
+        {
+            "title": "Algorithms",
+            "sections": [
+
+            ]
+        },
+        {
+            "title": "Data Structures"
+        }
+    ]
+}
