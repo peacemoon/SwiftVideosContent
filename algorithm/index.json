@@ -1,44 +1,788 @@
 {
-    "title": "Algorithms & Data structures",
+    "id": "algorithms-data-structures",
+    "title": "Algorithms & Data Structures",
     "content": {
-        "type": "local",
+        "type": "url",
         "mime": "markdown",
-        "value": "This is an Introduction"
+        "value": "README.markdown"
     },
     "sections": [
         {
+            "id": "introduction",
             "title": "Introduction",
             "sections":[
                 {
-                    "title": "What are algorithms and data structures",
+                    "id": "what-are-algorithms-and-data-structures",
+                    "title": "What are algorithms and data structures?",
                     "content": {
                         "type": "url",
-                        "mime": "text",
-                        "value": "https://raw.githubusercontent.com/raywenderlich/swift-algorithm-club/master/What%20are%20Algorithms.markdown"
+                        "mime": "markdown",
+                        "value": "What%20are%20Algorithms.markdown"
                     }
-
+                },
+                {
+                    "id": "why-learn-algorithms",
+                    "title": "Why learn algorithms?",
+                    "content": {
+                        "type": "url",
+                        "mime": "markdown",
+                        "value": "Why%20Algorithms.markdown"
+                    }
+                },
+                {
+                    "id": "big-o-notation",
+                    "title": "Big-O notation",
+                    "content": {
+                        "type": "url",
+                        "mime": "markdown",
+                        "value": "Big-O%20Notation.markdown"
+                    }
+                },
+                {
+                    "id": "algorithm-design-techniques",
+                    "title": "Algorithm design techniques",
+                    "content": {
+                        "type": "url",
+                        "mime": "markdown",
+                        "value": "Algorithm%20Design.markdown"
+                    }
                 }
             ]
         },
         {
+            "id": "data-structures",
             "title": "Data Structures",
             "sections": [
                 {
-                    "title": "Stack"
+                    "id": "arrays",
+                    "title": "Arrays",
+                    "sections": [
+                        {
+                            "id": "array2d",
+                            "title": "Array2D",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Array2D/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "bitset",
+                            "title": "Bit Set",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "fixed-size-array",
+                            "title": "Fixed Size Array",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "ordered-array",
+                            "title": "Ordered Array",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "rootish-array-stack",
+                            "title": "Rootish Array Stack",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                    ]
                 },
                 {
-                    "title": "Queue"
+                    "id": "queues",
+                    "title": "Queue",
+                    "sections": [
+                        {
+                            "id": "stack",
+                            "title": "Stack",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "queue",
+                            "title": "Queue",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "Deque",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "Priority Queue",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "Ring Buffer",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ists",
+                    "title": "Lists",
+                    "sections": [
+                        {
+                            "id": "linked-list",
+                            "title": "Linked List",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "skip-list",
+                            "title": "Skip List",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "trees",
+                    "title": "Trees",
+                    "sections": [
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "hashing",
+                    "title": "Hashing",
+                    "sections": [
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "sets",
+                    "title": "Sets",
+                    "sections": [
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "graphs",
+                    "title": "Graphs",
+                    "sections": [
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        }
+                    ]
                 }
             ]
         },
         {
+            "id": "algorithms",
             "title": "Algorithms",
             "sections": [
-
+                {
+                    "id": "searching",
+                    "title": "Searching",
+                    "sections": [
+                        {
+                            "id": "linear-search",
+                            "title": "Linear Search",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Linear%20Search/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "binary-search",
+                            "title": "Binary Search",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Binary%20Search/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "count-occurrences",
+                            "title": "Count Occurrences",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Count%20Occurrences/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "select-minimum-maximum",
+                            "title": "Select Minimum / Maximum",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Select%20Minimum%20Maximum/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "k-th-largest-element",
+                            "title": "k-th Largest Element",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Kth%20Largest%20Element/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "selection-sampling",
+                            "title": "selection Sampling",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Selection%20Sampling/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "union-find",
+                            "title": "Union-Find",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Union-Find/README.markdown"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "string-search",
+                    "title": "String Search",
+                    "sections": [
+                        {
+                            "id": "brute-force-string-search",
+                            "title": "Brute-Force String Search",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Brute-Force%20String%20Search/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "boyer-moore",
+                            "title": "Boyer-Moore",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Boyer-Moore-Horspool/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "knuth-morris-pratt",
+                            "title": "Knuth-Morris-Pratt",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Knuth-Morris-Pratt/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "rabin-karp",
+                            "title": "Rabin-Karp",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Rabin-Karp/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "longest-common-subsequence",
+                            "title": "Longest Common Subsequence.",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Longest%20Common%20Subsequence/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "z-algorithm",
+                            "title": "Z-Algorithm",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Z-Algorithm/README.markdown"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "sorting",
+                    "title": "Sorting",
+                    "sections": [
+                        {
+                            "id": "basic-sorts",
+                            "title": "Basic sorts",
+                            "sections": [
+                                {
+                                    "id": "Insertion Sort",
+                                    "title": "Insertion Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Insertion%20Sort/README.markdown"
+                                    }
+                                },
+                                {
+                                    "id": "Selection Sort",
+                                    "title": "Selection Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Selection%20Sort/README.markdown"
+                                    }
+                                },
+                                {
+                                    "id": "Shell Sort",
+                                    "title": "Shell Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Shell%20Sort/README.markdown"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "fast-sorts",
+                            "title": "Fast sorts",
+                            "sections": [
+                                {
+                                    "id": "Quicksort",
+                                    "title": "Quicksort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Quicksort/README.markdown"
+                                    }
+                                },
+                                {
+                                    "id": "Merge Sort",
+                                    "title": "Merge Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Merge%20Sort/README.markdown"
+                                    }
+                                },
+                                {
+                                    "id": "Heap Sort",
+                                    "title": "Heap Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Heap%20Sort/README.markdown"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "hybrid-sorts",
+                            "title": "Hybrid sorts",
+                            "sections": [
+                                {
+                                    "id": "Introsort",
+                                    "title": "Introsort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Introsort/README.markdown"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "special-purpose-sorts",
+                            "title": "Special-purpose sorts",
+                            "sections": [
+                                {
+                                    "id": "Counting Sort",
+                                    "title": "Counting Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Counting%20Sort/README.markdown"
+                                    }
+                                },
+                                {
+                                    "id": "Radix Sort",
+                                    "title": "Radix Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Radix%20Sort/ReadMe.md"
+                                    }
+                                },
+                                {
+                                    "id": "Topological Sort",
+                                    "title": "Topological Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Topological%20Sort/README.markdown"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "bad-sorting-algorithms",
+                            "title": "Bad sorting algorithms",
+                            "sections": [
+                                {
+                                    "id": "Bubble Sort",
+                                    "title": "Bubble Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Bubble%20Sort/README.markdown"
+                                    }
+                                },
+                                {
+                                    "id": "Slow Sort",
+                                    "title": "Slow Sort",
+                                    "content": {
+                                        "type": "url",
+                                        "mime": "markdown",
+                                        "value": "Slow%20Sort/README.markdown"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "compression",
+                    "title": "Compression",
+                    "sections": [
+                        {
+                            "id": "",
+                            "title": "Run-Length Encoding (RLE)",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Run-Length%20Encoding/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "",
+                            "title": "Huffman Coding",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Huffman%20Coding/README.markdown"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "miscellaneous",
+                    "title": "Miscellaneous",
+                    "sections": [
+                        {
+                            "id": "shuffle",
+                            "title": "Shuffle",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Shuffle/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "comb-sort",
+                            "title": "Comb Sort",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Comb%20Sort/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "convex-hull",
+                            "title": "Convex Hull",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Convex%20Hull/README.md"
+                            }
+                        },
+                        {
+                            "id": "miller-rabin-primality-test",
+                            "title": "Miller-Rabin Primality Test",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Miller-Rabin%20Primality%20Test/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "minimumcoinchange",
+                            "title": "MinimumCoinChange",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "MinimumCoinChange/README.md"
+                            }
+                        },
+                        {
+                            "id": "genetic",
+                            "title": "Genetic",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": "Genetic/README.markdown"
+                            }
+                        },
+                        {
+                            "id": "myers-difference-algorithm",
+                            "title": "Myers Difference Algorithm",
+                            "content": {
+                                "type": "url",
+                                "mime": "markdown",
+                                "value": ""
+                            }
+                        }
+                    ]
+                }
             ]
-        },
-        {
-            "title": "Data Structures"
         }
     ]
 }
