@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftserverconf_2019_static-site-generation-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "pAy6v4MEsnc"
+    },
+    "name" : "Static Site Generation In Swift",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ],
+    "createdAt" : 1574719353.6631432
+  },
+  "description" : ""
+}

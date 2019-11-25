@@ -1,0 +1,146 @@
+[
+  {
+    "id" : "swiftserverconf_2019_static-site-generation-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "pAy6v4MEsnc"
+    },
+    "name" : "Static Site Generation In Swift",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ],
+    "createdAt" : 1574719353.6631432
+  },
+  {
+    "id" : "swiftserverconf_2019_api-performance-a-macro-talk-about-micro-decisions",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ywlzJcwXs44"
+    },
+    "name" : "API Performance A Macro Talk About Micro Decisions",
+    "authors" : [
+      {
+        "id" : "joannis-orlandos",
+        "name" : "Joannis Orlandos"
+      }
+    ],
+    "createdAt" : 1574719370.3606451
+  },
+  {
+    "id" : "swiftserverconf_2019_swift-development-on-linux",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gvhvX3LrBKA"
+    },
+    "name" : "Swift Development On Linux",
+    "authors" : [
+      {
+        "id" : "jonas-schwartz",
+        "name" : "Jonas Schwartz"
+      }
+    ],
+    "createdAt" : 1574719386.4729671
+  },
+  {
+    "id" : "swiftserverconf_2019_cloud-native-swift-microservices",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9Esd-1E713E"
+    },
+    "name" : "Cloud native Swift microservices",
+    "authors" : [
+      {
+        "id" : "ian-partridge",
+        "name" : "Ian Partridge"
+      }
+    ],
+    "createdAt" : 1574719775.3999939
+  },
+  {
+    "id" : "swiftserverconf_2019_breaking-into-tech",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "hFb2zwYw4lY"
+    },
+    "name" : "Breaking Into Tech",
+    "authors" : [
+      {
+        "id" : "heidi-hermann",
+        "name" : "Heidi Hermann"
+      }
+    ],
+    "createdAt" : 1574719794.2014689
+  },
+  {
+    "id" : "swiftserverconf_2019_maintaining-a-library-in-a-swiftly-moving-ecosystem",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9-fdbG9jNt4"
+    },
+    "name" : "Maintaining a Library in a Swiftly Moving Ecosystem",
+    "authors" : [
+      {
+        "id" : "kaitlin-mahar",
+        "name" : "Kaitlin Mahar"
+      }
+    ],
+    "createdAt" : 1574719814.4996262
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftserverconf_2019_cloud-native-swift-microservices",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9Esd-1E713E"
+    },
+    "name" : "Cloud native Swift microservices",
+    "authors" : [
+      {
+        "id" : "ian-partridge",
+        "name" : "Ian Partridge"
+      }
+    ],
+    "createdAt" : 1574719775.3999939
+  },
+  "description" : ""
+}

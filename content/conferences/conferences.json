@@ -1,5 +1,9 @@
 [
     {
+        "id": "swiftserverconf",
+        "name": "SwiftServerConf"
+    },
+    {
         "id": "pragmamark",
         "name": "pragma mark"
     },

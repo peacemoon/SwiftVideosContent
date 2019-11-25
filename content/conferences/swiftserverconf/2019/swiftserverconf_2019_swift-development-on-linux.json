@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftserverconf_2019_swift-development-on-linux",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gvhvX3LrBKA"
+    },
+    "name" : "Swift Development On Linux",
+    "authors" : [
+      {
+        "id" : "jonas-schwartz",
+        "name" : "Jonas Schwartz"
+      }
+    ],
+    "createdAt" : 1574719386.4729671
+  },
+  "description" : ""
+}
