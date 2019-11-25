@@ -238,7 +238,7 @@
                             }
                         },
                         {
-                            "id": "Segment Tree",
+                            "id": "segment-tree",
                             "title": "Segment Tree",
                             "content": {
                                 "type": "url",
@@ -247,7 +247,7 @@
                             }
                         },
                         {
-                            "id": "Sparse Table",
+                            "id": "sparse-table",
                             "title": "Sparse Table",
                             "content": {
                                 "type": "url",
@@ -312,7 +312,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "/Hash%20Table/README.markdown"
                             }
                         }
                     ]
@@ -322,39 +322,39 @@
                     "title": "Sets",
                     "sections": [
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Bloom Filter",
+                            "title": "Bloom Filter",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Bloom%20Filter/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Hash Set",
+                            "title": "Hash Set",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Hash%20Set/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Multiset",
+                            "title": "Multiset",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Multiset/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Ordered Set",
+                            "title": "Ordered Set",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Ordered%20Set/README.markdown"
                             }
                         }
                     ]
@@ -364,84 +364,84 @@
                     "title": "Graphs",
                     "sections": [
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Graph",
+                            "title": "Graph",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Graph/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Breadth-First Search",
+                            "title": "Breadth-First Search",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Breadth-First%20Search/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Depth-First Search",
+                            "title": "Depth-First Search",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Depth-First%20Search/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Shortest Path (Unweighted Graph)",
+                            "title": "Shortest Path (Unweighted Graph)",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Shortest%20Path%20(Unweighted)/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Single-Source Shortest Paths",
+                            "title": "Single-Source Shortest Paths",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Single-Source%20Shortest%20Paths%20(Weighted)/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Minimum Spanning Tree (Unweighted Graph)",
+                            "title": "Minimum Spanning Tree (Unweighted Graph)",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Minimum%20Spanning%20Tree%20(Unweighted)/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Minimum Spanning Tree (Weighted Graph)",
+                            "title": "Minimum Spanning Tree (Weighted Graph)",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Minimum%20Spanning%20Tree/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "All-Pairs Shortest Paths",
+                            "title": "All-Pairs Shortest Paths",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "All-Pairs%20Shortest%20Paths/README.markdown"
                             }
                         },
                         {
-                            "id": "",
-                            "title": "",
+                            "id": "Dijkstra's algorithm",
+                            "title": "Dijkstra's algorithm",
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Dijkstra%20Algorithm/README.md"
                             }
                         }
                     ]
