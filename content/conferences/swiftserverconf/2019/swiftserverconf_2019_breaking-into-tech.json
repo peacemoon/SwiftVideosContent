@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftserverconf_2019_breaking-into-tech",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftserverconf",
+        "name" : "SwiftServerConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "hFb2zwYw4lY"
+    },
+    "name" : "Breaking Into Tech",
+    "authors" : [
+      {
+        "id" : "heidi-hermann",
+        "name" : "Heidi Hermann"
+      }
+    ],
+    "createdAt" : 1574719794.2014689
+  },
+  "description" : ""
+}

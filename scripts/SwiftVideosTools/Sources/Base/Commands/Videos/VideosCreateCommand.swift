@@ -68,11 +68,11 @@ class VideosCreateCommand: Command {
             }
             let name = rawName.condensedWhitespace
 
-            print("Description: ".yellow())
-            let description = readLine()
-
             let id = "\(conference)_\(conferenceEdition)_\(name.idfied)"
             print("id = \(id)")
+
+            print("Description: ".yellow())
+            let description = readLine()
 
             print("Authors (comma separated): ".yellow())
             guard let rawAuthors = readLine() else {

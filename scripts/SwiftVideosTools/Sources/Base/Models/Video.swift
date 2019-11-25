@@ -84,6 +84,10 @@ extension VideoSource: Codable {
             let url = try container.decode(String.self, forKey: .value)
             self = .wwdc(url: url)
 
+        case "streaming":
+            let url = try container.decode(String.self, forKey: .value)
+            self = .streaming(url: url)
+
         case "website":
             let url = try container.decode(String.self, forKey: .value)
             self = .website(url: url)
@@ -107,6 +111,10 @@ extension VideoSource: Codable {
 
         case .wwdc(let url):
             try container.encode("wwdc", forKey: .type)
+            try container.encode(url, forKey: .value)
+
+        case .streaming(let url):
+            try container.encode("streaming", forKey: .type)
             try container.encode(url, forKey: .value)
 
         case .website(let url):
