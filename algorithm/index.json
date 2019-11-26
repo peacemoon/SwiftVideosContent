@@ -17,7 +17,7 @@
                     "content": {
                         "type": "url",
                         "mime": "markdown",
-                        "value": "What%20are%20Algorithms.markdown"
+                        "value": "What are Algorithms.markdown"
                     }
                 },
                 {
@@ -26,7 +26,7 @@
                     "content": {
                         "type": "url",
                         "mime": "markdown",
-                        "value": "Why%20Algorithms.markdown"
+                        "value": "Why Algorithms.markdown"
                     }
                 },
                 {
@@ -35,7 +35,7 @@
                     "content": {
                         "type": "url",
                         "mime": "markdown",
-                        "value": "Big-O%20Notation.markdown"
+                        "value": "Big-O Notation.markdown"
                     }
                 },
                 {
@@ -44,7 +44,7 @@
                     "content": {
                         "type": "url",
                         "mime": "markdown",
-                        "value": "Algorithm%20Design.markdown"
+                        "value": "Algorithm Design.markdown"
                     }
                 }
             ]
@@ -72,7 +72,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Bit%20Set/README.markdown"
+                                "value": "Bit Set/README.markdown"
                             }
                         },
                         {
@@ -81,7 +81,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Fixed%20Size%20Array/README.markdown"
+                                "value": "Fixed Size Array/README.markdown"
                             }
                         },
                         {
@@ -90,7 +90,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Ordered%20Array/README.markdown"
+                                "value": "Ordered Array/README.markdown"
                             }
                         },
                         {
@@ -99,7 +99,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Rootish%20Array%20Stack/README.md"
+                                "value": "Rootish Array Stack/README.md"
                             }
                         }
                     ]
@@ -123,7 +123,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": ""
+                                "value": "Queue/README.markdown"
                             }
                         },
                         {
@@ -132,7 +132,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Queue/README.markdown"
+                                "value": "Deque/README.markdown"
                             }
                         },
                         {
@@ -141,7 +141,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Deque/README.markdown"
+                                "value": "Priority Queue/README.markdown"
                             }
                         },
                         {
@@ -150,7 +150,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Priority%20Queue/README.markdown"
+                                "value": "Ring Buffer/README.markdown"
                             }
                         }
                     ]
@@ -165,7 +165,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Linked%20List/README.markdown"
+                                "value": "Linked List/README.markdown"
                             }
                         },
                         {
@@ -198,7 +198,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Binary%20Tree/README.markdown"
+                                "value": "Binary Tree/README.markdown"
                             }
                         },
                         {
@@ -207,7 +207,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Binary%20Search%20Tree/README.markdown"
+                                "value": "Binary Search Tree/README.markdown"
                             }
                         },
                         {
@@ -216,7 +216,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Red-Black%20Tree/README.markdown"
+                                "value": "Red-Black Tree/README.markdown"
                             }
                         },
                         {
@@ -225,7 +225,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Splay%20Tree/readme.md"
+                                "value": "Splay Tree/readme.md"
                             }
                         },
                         {
@@ -243,7 +243,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Threaded%20Binary%20Tree/README.markdown"
+                                "value": "Threaded Binary Tree/README.markdown"
                             }
                         },
                         {
@@ -252,7 +252,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Segment%20Tree/README.markdown"
+                                "value": "Segment Tree/README.markdown"
                             }
                         },
                         {
@@ -312,7 +312,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "/Hash%20Table/README.markdown"
+                                "value": "/Hash Table/README.markdown"
                             }
                         }
                     ]
@@ -327,7 +327,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Bloom%20Filter/README.markdown"
+                                "value": "Bloom Filter/README.markdown"
                             }
                         },
                         {
@@ -336,7 +336,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Hash%20Set/README.markdown"
+                                "value": "Hash Set/README.markdown"
                             }
                         },
                         {
@@ -354,7 +354,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Ordered%20Set/README.markdown"
+                                "value": "Ordered Set/README.markdown"
                             }
                         }
                     ]
@@ -378,7 +378,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Breadth-First%20Search/README.markdown"
+                                "value": "Breadth-First Search/README.markdown"
                             }
                         },
                         {
@@ -387,7 +387,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Depth-First%20Search/README.markdown"
+                                "value": "Depth-First Search/README.markdown"
                             }
                         },
                         {
@@ -396,7 +396,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Shortest%20Path%20(Unweighted)/README.markdown"
+                                "value": "Shortest Path (Unweighted)/README.markdown"
                             }
                         },
                         {
@@ -405,7 +405,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Single-Source%20Shortest%20Paths%20(Weighted)/README.markdown"
+                                "value": "Single-Source Shortest Paths (Weighted)/README.markdown"
                             }
                         },
                         {
@@ -414,7 +414,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Minimum%20Spanning%20Tree%20(Unweighted)/README.markdown"
+                                "value": "Minimum Spanning Tree (Unweighted)/README.markdown"
                             }
                         },
                         {
@@ -423,7 +423,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Minimum%20Spanning%20Tree/README.markdown"
+                                "value": "Minimum Spanning Tree/README.markdown"
                             }
                         },
                         {
@@ -432,7 +432,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "All-Pairs%20Shortest%20Paths/README.markdown"
+                                "value": "All-Pairs Shortest Paths/README.markdown"
                             }
                         },
                         {
@@ -441,7 +441,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Dijkstra%20Algorithm/README.md"
+                                "value": "Dijkstra Algorithm/README.md"
                             }
                         }
                     ]
@@ -462,7 +462,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Linear%20Search/README.markdown"
+                                "value": "Linear Search/README.markdown"
                             }
                         },
                         {
@@ -471,7 +471,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Binary%20Search/README.markdown"
+                                "value": "Binary Search/README.markdown"
                             }
                         },
                         {
@@ -480,7 +480,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Count%20Occurrences/README.markdown"
+                                "value": "Count Occurrences/README.markdown"
                             }
                         },
                         {
@@ -489,7 +489,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Select%20Minimum%20Maximum/README.markdown"
+                                "value": "Select Minimum Maximum/README.markdown"
                             }
                         },
                         {
@@ -498,7 +498,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Kth%20Largest%20Element/README.markdown"
+                                "value": "Kth Largest Element/README.markdown"
                             }
                         },
                         {
@@ -507,7 +507,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Selection%20Sampling/README.markdown"
+                                "value": "Selection Sampling/README.markdown"
                             }
                         },
                         {
@@ -531,7 +531,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Brute-Force%20String%20Search/README.markdown"
+                                "value": "Brute-Force String Search/README.markdown"
                             }
                         },
                         {
@@ -567,7 +567,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Longest%20Common%20Subsequence/README.markdown"
+                                "value": "Longest Common Subsequence/README.markdown"
                             }
                         },
                         {
@@ -595,7 +595,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Insertion%20Sort/README.markdown"
+                                        "value": "Insertion Sort/README.markdown"
                                     }
                                 },
                                 {
@@ -604,7 +604,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Selection%20Sort/README.markdown"
+                                        "value": "Selection Sort/README.markdown"
                                     }
                                 },
                                 {
@@ -613,7 +613,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Shell%20Sort/README.markdown"
+                                        "value": "Shell Sort/README.markdown"
                                     }
                                 }
                             ]
@@ -637,7 +637,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Merge%20Sort/README.markdown"
+                                        "value": "Merge Sort/README.markdown"
                                     }
                                 },
                                 {
@@ -646,7 +646,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Heap%20Sort/README.markdown"
+                                        "value": "Heap Sort/README.markdown"
                                     }
                                 }
                             ]
@@ -676,7 +676,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Counting%20Sort/README.markdown"
+                                        "value": "Counting Sort/README.markdown"
                                     }
                                 },
                                 {
@@ -685,7 +685,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Radix%20Sort/ReadMe.md"
+                                        "value": "Radix Sort/ReadMe.md"
                                     }
                                 },
                                 {
@@ -694,7 +694,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Topological%20Sort/README.markdown"
+                                        "value": "Topological Sort/README.markdown"
                                     }
                                 }
                             ]
@@ -709,7 +709,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Bubble%20Sort/README.markdown"
+                                        "value": "Bubble Sort/README.markdown"
                                     }
                                 },
                                 {
@@ -718,7 +718,7 @@
                                     "content": {
                                         "type": "url",
                                         "mime": "markdown",
-                                        "value": "Slow%20Sort/README.markdown"
+                                        "value": "Slow Sort/README.markdown"
                                     }
                                 }
                             ]
@@ -735,7 +735,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Run-Length%20Encoding/README.markdown"
+                                "value": "Run-Length Encoding/README.markdown"
                             }
                         },
                         {
@@ -744,7 +744,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Huffman%20Coding/README.markdown"
+                                "value": "Huffman Coding/README.markdown"
                             }
                         }
                     ]
@@ -768,7 +768,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Comb%20Sort/README.markdown"
+                                "value": "Comb Sort/README.markdown"
                             }
                         },
                         {
@@ -777,7 +777,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Convex%20Hull/README.md"
+                                "value": "Convex Hull/README.md"
                             }
                         },
                         {
@@ -786,7 +786,7 @@
                             "content": {
                                 "type": "url",
                                 "mime": "markdown",
-                                "value": "Miller-Rabin%20Primality%20Test/README.markdown"
+                                "value": "Miller-Rabin Primality Test/README.markdown"
                             }
                         },
                         {
