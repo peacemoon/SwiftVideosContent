@@ -167,5 +167,62 @@
             "url": "https://www.raywenderlich.com/podcast",
             "twitter": "rwenderlich"
         }
+    },
+    {
+        "id": "waiting-for-review",
+        "name": "Waiting for Review",
+        "authors": [
+            {
+                "id": "dave-nott",
+                "name": "Dave Nott"
+            },
+            {
+                "id": "dave-wood",
+                "name": "Dave Wood"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://www.waitingforreview.com/",
+            "twitter": "rwenderlich"
+        }
+    },
+    {
+        "id": "waiting-for-review",
+        "name": "Waiting for Review",
+        "authors": [
+            {
+                "id": "dave-nott",
+                "name": "Dave Nott"
+            },
+            {
+                "id": "dave-wood",
+                "name": "Dave Wood"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://www.waitingforreview.com/"
+        }
+    },
+    {
+        "id": "stacktrace",
+        "name": "Stacktrace",
+        "authors": [
+            {
+                "id": "gui-rambo",
+                "name": "Gui Rambo"
+            },
+            {
+                "id": "john-sundell",
+                "name": "John Sundell"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://ww.9to5mac.com/guides/stacktrace/"
+        }
     }
+
+
 ]
