@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_simplified-viper-architecture",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vGCCMgJW81g"
+    },
+    "name" : "Simplified VIPER architecture",
+    "authors" : [
+      {
+        "id" : "susmita-horrow",
+        "name" : "Susmita Horrow"
+      }
+    ],
+    "createdAt" : 1576104456.597549
+  },
+  "description" : "VIPER architecture provides an excellent way to write clean and testable software. However, you need to define a handful of protocols and quite a lot boilerplate code, which seems an overkill for tiny modules. This talk will focus on how to leverage the Swift language features like Enum, Generic, Protocol and Type Erasure to reduce the boilerplate code while maintaining the separation of concerns as mandated by the architecture."
+}

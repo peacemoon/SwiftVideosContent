@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_endtoend-encryption-for-ios-developer",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "uK0faqR3rOs"
+    },
+    "name" : "End-to-End encryption for iOS Developer",
+    "authors" : [
+      {
+        "id" : "mihail-gerasimenko",
+        "name" : "Mihail Gerasimenko"
+      }
+    ],
+    "createdAt" : 1576104325.598573
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_a-decade-of-iphone-ios-in-40-minutes",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Kka8J9f53XA"
+    },
+    "name" : "A Decade of iPhone & iOS in 40 minutes",
+    "authors" : [
+      {
+        "id" : "adrian-kosmaczewski",
+        "name" : "Adrian Kosmaczewski"
+      }
+    ],
+    "createdAt" : 1576104514.173852
+  },
+  "description" : "Let us take a small trip back in time. It is 2006. George W. Bush is president of the United States, and there are wars raging in quite a few countries in the middle east. There were rumors of an upcoming financial crisis. People were getting excited about the possibility of a rather unknown black senator called Barack Obama becoming president. And Apple was rumored to be ready to unveil a new cell phone. This talk will take us back in time to understand the world of software development back then, and to realize how much it has changed, for the best or for the worst."
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_improving-scrolling-performance-through-gpu-optimisation",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ypPX8CJmRIY"
+    },
+    "name" : " Improving Scrolling Performance through GPU Optimisation",
+    "authors" : [
+      {
+        "id" : "janina-kutyn",
+        "name" : "Janina Kutyn"
+      }
+    ],
+    "createdAt" : 1576104410.7980042
+  },
+  "description" : "Beautiful smooth scrolling is key to building polished apps that delight users. While the newest devices are forgiving of unoptimised code, older devices bring performance issues to light, especially in apps that display many content-rich cells. In this talk I will discuss advanced techniques for improving scrolling performance in table\/collection views, specifically by optimising the code for the GPU."
+}

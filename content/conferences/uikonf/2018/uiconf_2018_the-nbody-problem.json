@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uiconf_2018_the-nbody-problem",
+    "conference" : {
+      "metaData" : {
+        "id" : "uiconf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "09iTidqkriw"
+    },
+    "name" : "The N-Body Problem",
+    "authors" : [
+      {
+        "id" : "daniel-jilg",
+        "name" : "Daniel Jilg"
+      }
+    ],
+    "createdAt" : 1576103983.6772361
+  },
+  "description" : "The N Body Problem is a computationally complex problem that we use to predict how planets and galaxies – and everything in between – move through space. I’ll show you some interesting ways to calculate it, and we’ll have a look at what to do, should you find yourself in a space ship’s pilot seat. When you leave this talk, you should have at least a general idea of analysis of complex algorithms as well as orbital mechanics."
+}

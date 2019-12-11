@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_advanced-debugging-techniques",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "578YdS2sNqk"
+    },
+    "name" : "Advanced Debugging Techniques",
+    "authors" : [
+      {
+        "id" : "carola-nitz",
+        "name" : "Carola Nitz"
+      }
+    ],
+    "createdAt" : 1576104062.0847359
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_an-engineers-code-of-ethics",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "e5qPfXfObnI"
+    },
+    "name" : "An Engineer’s Code of Ethics",
+    "authors" : [
+      {
+        "id" : "agis-tsaraboulidis",
+        "name" : "Agis Tsaraboulidis"
+      }
+    ],
+    "createdAt" : 1576104142.4366112
+  },
+  "description" : "Development does not exist in a vacuum. Society is the biggest system we can impact and everything we do becomes a part of that system—both good and bad. Ultimately we must judge the weight and value of our work based on that impact. In order to properly do so though, we must a have a code of ethics in whatever we do because it allows us to measure our decisions against our values. An engineer is first and foremost a human being, but sometimes engineers and product folks in general ignore ethics and ship feature after feature to users without accounting for the impact outside of the positive metrics being aimed for. With this talk I will try to explain why people push unethical code into production and ways that we can prevent that from happening. We have a duty as people building products for people on the other end of the screen, to build a product that they can love and trust."
+}
