@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_the-code-you-dont-have-to-write",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1r7r-mqaSuI"
+    },
+    "name" : "The code you don’t have to write",
+    "authors" : [
+      {
+        "id" : "domas-nutautas",
+        "name" : "Domas Nutautas"
+      }
+    ],
+    "createdAt" : 1576104359.0382299
+  },
+  "description" : "Have you ever thought what’s the best solution to a problem? It’s the one that you don’t have to write, but still works. This talk will untangle view controllers using flow coordinators. Without a single line of code coordinators can be created in Storyboards and work perfectly using Swift’s amazing Type system. Where else can we write little or no code?"
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uiconf_2018_the-magic-of-ui-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "uiconf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "YzuJoVnxJCw"
+    },
+    "name" : "The Magic of UI Testing",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ],
+    "createdAt" : 1576103847.117065
+  },
+  "description" : "In this talk, John will show how UI testing can not only be a powerful tool in order to automate parts of your QA process - but how it can also be a somewhat “magical” tool when it comes to working on your app as well. The talk will include pros & cons of UI testing, how to make tests run faster & more stable, and how UI tests can be used during the development process."
+}

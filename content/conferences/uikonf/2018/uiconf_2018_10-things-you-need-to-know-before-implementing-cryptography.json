@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uiconf_2018_10-things-you-need-to-know-before-implementing-cryptography",
+    "conference" : {
+      "metaData" : {
+        "id" : "uiconf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "_fKR-KZ4yJQ"
+    },
+    "name" : "10 Things you Need to Know before Implementing Cryptography",
+    "authors" : [
+      {
+        "id" : "anastasia-voitova",
+        "name" : "Anastasia Voitova"
+      }
+    ],
+    "createdAt" : 1576103887.893275
+  },
+  "description" : "(Before we get deep into protocols vulnerabilities: things you should remember designing your app flow from a security point of view.) This talk will focus on copybook headings of infosec: what you need to know before exciting stuff like cryptography and AI-assisted incident detection. Like, choice of data you show in the background mode, choice of 3rd party SDKs, which logs we send and where… Even when developers create apps with security in minds, protect user secrets, and don’t reveal unencrypted data, attackers can find ways to bypass these security measures by exploiting architectural weaknesses and unobvious, yet very simple vulnerabilities. We will talk about all the tiny bits and pieces are necessary to make your app secure against simple attacks way before focusing on the hard things (like crypto)."
+}

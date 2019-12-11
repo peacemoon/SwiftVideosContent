@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_gotta-go-fast-a-performance-and-instruments-talk",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gnGU5v3kVbI"
+    },
+    "name" : "Gotta Go Fast (A Performance and Instruments Talk)",
+    "authors" : [
+      {
+        "id" : "luke-parham",
+        "name" : "Luke Parham"
+      }
+    ],
+    "createdAt" : 1576104229.587671
+  },
+  "description" : "If you’ve been working on an iOS app for a while, you may have noticed that over time your once snappy app has started to feel a little sluggish. Your feed limps along with the occasional stall or maybe you’re trying to build a camera app but it seems to lag quite a bit behind reality. Contrary to popular opinion, our software is becoming increasingly demanding at a rate that easily exceeds how quickly our devices are improving. The talk explains how to track overall performance, find performance problems and how to fix a few big ones. Sprinkled throughout are 10 Rules for Good Performance.\""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_building-personal-brands-for-introverts",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "0c6izSzP-KQ"
+    },
+    "name" : "Building Personal Brands for Introverts",
+    "authors" : [
+      {
+        "id" : "no-extrovert-will-be-bored-in-this-talk-peter-steinberger",
+        "name" : "No extrovert will be bored in this talk 🙂Peter Steinberger"
+      }
+    ],
+    "createdAt" : 1576104206.2220221
+  },
+  "description" : "Having a successful online identity will open many doors and help you to become a better developer and person. I challenge you to use your inteovertism as an advantage in building your personal brand."
+}

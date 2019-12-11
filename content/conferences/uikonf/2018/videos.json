@@ -1,0 +1,434 @@
+[
+  {
+    "id" : "uiconf_2018_tired-of-the-state-of-online-conversations",
+    "conference" : {
+      "metaData" : {
+        "id" : "uiconf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Nx0cKEQcbz4"
+    },
+    "name" : "Tired of the state of online conversations?",
+    "authors" : [
+      {
+        "id" : "this-talk-dives-into-the-history-of-online-communities-and-conversations-it-will-go-through-their-technological-advances-and-their-both-positive-and-negative-social-impact-it-ends-with-some-recent-work-in-this-area-and-what-we-can-all-do-to-make-things-betterkamilah-taylor",
+        "name" : "This talk dives into the history of online communities and conversations. It will go through their technological advances and their both positive and negative social impact. It ends with some recent work in this area and what we can all do to make things better.Kamilah Taylor"
+      }
+    ],
+    "createdAt" : 1576103801.0369902
+  },
+  {
+    "id" : "uiconf_2018_the-magic-of-ui-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "uiconf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "YzuJoVnxJCw"
+    },
+    "name" : "The Magic of UI Testing",
+    "authors" : [
+      {
+        "id" : "john-sundell",
+        "name" : "John Sundell"
+      }
+    ],
+    "createdAt" : 1576103847.117065
+  },
+  {
+    "id" : "uiconf_2018_10-things-you-need-to-know-before-implementing-cryptography",
+    "conference" : {
+      "metaData" : {
+        "id" : "uiconf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "_fKR-KZ4yJQ"
+    },
+    "name" : "10 Things you Need to Know before Implementing Cryptography",
+    "authors" : [
+      {
+        "id" : "anastasia-voitova",
+        "name" : "Anastasia Voitova"
+      }
+    ],
+    "createdAt" : 1576103887.893275
+  },
+  {
+    "id" : "uiconf_2018_compilers-and-llvm-demystified",
+    "conference" : {
+      "metaData" : {
+        "id" : "uiconf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Y9Br6uuimJI"
+    },
+    "name" : "Compilers and LLVM Demystified",
+    "authors" : [
+      {
+        "id" : "edward-valentini",
+        "name" : "Edward Valentini"
+      }
+    ],
+    "createdAt" : 1576103915.8036141
+  },
+  {
+    "id" : "uiconf_2018_the-nbody-problem",
+    "conference" : {
+      "metaData" : {
+        "id" : "uiconf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "09iTidqkriw"
+    },
+    "name" : "Swift in Space – The N-Body Problem",
+    "authors" : [
+      {
+        "id" : "daniel-jilg",
+        "name" : "Daniel Jilg"
+      }
+    ],
+    "createdAt" : 1576103983.6772361
+  },
+  {
+    "id" : "uikonf_2018_advanced-debugging-techniques",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "578YdS2sNqk"
+    },
+    "name" : "Advanced Debugging Techniques",
+    "authors" : [
+      {
+        "id" : "carola-nitz",
+        "name" : "Carola Nitz"
+      }
+    ],
+    "createdAt" : 1576104062.0847359
+  },
+  {
+    "id" : "uikonf_2018_mvc-is-not-your-problem",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "A1vzcxR-Ss0"
+    },
+    "name" : "MVC is Not Your Problem",
+    "authors" : [
+      {
+        "id" : "joachim-kurz",
+        "name" : "Joachim Kurz"
+      }
+    ],
+    "createdAt" : 1576104097.252862
+  },
+  {
+    "id" : "uikonf_2018_an-engineers-code-of-ethics",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "e5qPfXfObnI"
+    },
+    "name" : "An Engineer’s Code of Ethics",
+    "authors" : [
+      {
+        "id" : "agis-tsaraboulidis",
+        "name" : "Agis Tsaraboulidis"
+      }
+    ],
+    "createdAt" : 1576104142.4366112
+  },
+  {
+    "id" : "uikonf_2018_since-when-does-fashion-communicate",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kg8j4fbcN7c"
+    },
+    "name" : " Since when does fashion communicate?",
+    "authors" : [
+      {
+        "id" : "esther-zahn",
+        "name" : "Esther Zahn"
+      }
+    ],
+    "createdAt" : 1576104173.980762
+  },
+  {
+    "id" : "uikonf_2018_building-personal-brands-for-introverts",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "0c6izSzP-KQ"
+    },
+    "name" : "Building Personal Brands for Introverts",
+    "authors" : [
+      {
+        "id" : "no-extrovert-will-be-bored-in-this-talk-peter-steinberger",
+        "name" : "No extrovert will be bored in this talk 🙂Peter Steinberger"
+      }
+    ],
+    "createdAt" : 1576104206.2220221
+  },
+  {
+    "id" : "uikonf_2018_gotta-go-fast-a-performance-and-instruments-talk",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gnGU5v3kVbI"
+    },
+    "name" : "Gotta Go Fast (A Performance and Instruments Talk)",
+    "authors" : [
+      {
+        "id" : "luke-parham",
+        "name" : "Luke Parham"
+      }
+    ],
+    "createdAt" : 1576104229.587671
+  },
+  {
+    "id" : "uikonf_2018_endtoend-encryption-for-ios-developer",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "uK0faqR3rOs"
+    },
+    "name" : "End-to-End encryption for iOS Developer",
+    "authors" : [
+      {
+        "id" : "mihail-gerasimenko",
+        "name" : "Mihail Gerasimenko"
+      }
+    ],
+    "createdAt" : 1576104325.598573
+  },
+  {
+    "id" : "uikonf_2018_the-code-you-dont-have-to-write",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1r7r-mqaSuI"
+    },
+    "name" : "The code you don’t have to write",
+    "authors" : [
+      {
+        "id" : "domas-nutautas",
+        "name" : "Domas Nutautas"
+      }
+    ],
+    "createdAt" : 1576104359.0382299
+  },
+  {
+    "id" : "uikonf_2018_the-laws-of-magic",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gx9ywSNm1jM"
+    },
+    "name" : "The Laws of Magic",
+    "authors" : [
+      {
+        "id" : "dave-delong",
+        "name" : "Dave DeLong"
+      }
+    ],
+    "createdAt" : 1576104377.0865769
+  },
+  {
+    "id" : "uikonf_2018_improving-scrolling-performance-through-gpu-optimisation",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ypPX8CJmRIY"
+    },
+    "name" : " Improving Scrolling Performance through GPU Optimisation",
+    "authors" : [
+      {
+        "id" : "janina-kutyn",
+        "name" : "Janina Kutyn"
+      }
+    ],
+    "createdAt" : 1576104410.7980042
+  },
+  {
+    "id" : "uikonf_2018_simplified-viper-architecture",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vGCCMgJW81g"
+    },
+    "name" : "Simplified VIPER architecture",
+    "authors" : [
+      {
+        "id" : "susmita-horrow",
+        "name" : "Susmita Horrow"
+      }
+    ],
+    "createdAt" : 1576104456.597549
+  },
+  {
+    "id" : "uikonf_2018_scaling-ios-a-story-of-technical-debt-and-how-",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fmzA7cLyKv0"
+    },
+    "name" : "Scaling iOS, a story of technical debt, and how ...",
+    "authors" : [
+      {
+        "id" : "vincent-garrigues",
+        "name" : "Vincent Garrigues"
+      }
+    ],
+    "createdAt" : 1576104483.5735049
+  },
+  {
+    "id" : "uikonf_2018_a-decade-of-iphone-ios-in-40-minutes",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Kka8J9f53XA"
+    },
+    "name" : "A Decade of iPhone & iOS in 40 minutes",
+    "authors" : [
+      {
+        "id" : "adrian-kosmaczewski",
+        "name" : "Adrian Kosmaczewski"
+      }
+    ],
+    "createdAt" : 1576104514.173852
+  }
+]

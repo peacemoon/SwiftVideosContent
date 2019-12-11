@@ -340,6 +340,42 @@
     "name" : "Jayesh Kawli"
   },
   {
+    "id" : "xavier-gouchet",
+    "name" : "Xavier Gouchet"
+  },
+  {
+    "id" : "rob-whitaker",
+    "name" : "Rob Whitaker"
+  },
+  {
+    "id" : "alex-karp",
+    "name" : "Alex Karp"
+  },
+  {
+    "id" : "neil-dodd",
+    "name" : "Neil Dodd"
+  },
+  {
+    "id" : "buşra-deniz",
+    "name" : "Buşra Deniz"
+  },
+  {
+    "id" : "niels-van-hoorn",
+    "name" : "Niels Van Hoorn"
+  },
+  {
+    "id" : "chris-barker",
+    "name" : "Chris Barker"
+  },
+  {
+    "id" : "tim-condon",
+    "name" : "Tim Condon"
+  },
+  {
+    "id" : "greg-spiers",
+    "name" : "Greg Spiers"
+  },
+  {
     "id" : "daniel-jalkut",
     "name" : "Daniel Jalkut"
   },
@@ -576,6 +612,14 @@
     "name" : "Dmitry Mikhailov"
   },
   {
+    "id" : "eleni-papanikolopoulou",
+    "name" : "Eleni Papanikolopoulou"
+  },
+  {
+    "id" : "pavel-zak",
+    "name" : "Pavel Zak"
+  },
+  {
     "id" : "marina-gornostaeva",
     "name" : "Marina Gornostaeva"
   },
@@ -656,6 +700,38 @@
     "name" : "Aleksandra Komagorkina"
   },
   {
+    "id" : "kate-castellano",
+    "name" : "Kate Castellano"
+  },
+  {
+    "id" : "aleksandar-vacić",
+    "name" : "Aleksandar Vacić"
+  },
+  {
+    "id" : "jeff-watkins",
+    "name" : "Jeff Watkins"
+  },
+  {
+    "id" : "jeroen-bakker",
+    "name" : "Jeroen Bakker"
+  },
+  {
+    "id" : "souroush-kanlou",
+    "name" : "Souroush Kanlou"
+  },
+  {
+    "id" : "maciej-piotrowski",
+    "name" : "Maciej Piotrowski"
+  },
+  {
+    "id" : "michael-flarup",
+    "name" : "Michael Flarup"
+  },
+  {
+    "id" : "andrea-baldon",
+    "name" : "Andrea Baldon"
+  },
+  {
     "id" : "daniel-kennett",
     "name" : "Daniel Kennett"
   },
@@ -692,20 +768,12 @@
     "name" : "Francesco Bigagnoli"
   },
   {
-    "id" : "tim-condon",
-    "name" : "Tim Condon"
-  },
-  {
     "id" : "stefano-mondino",
     "name" : "Stefano Mondino"
   },
   {
     "id" : "manuel-carrasco-molina",
     "name" : "Manuel Carrasco Molina"
-  },
-  {
-    "id" : "michael-flarup",
-    "name" : "Michael Flarup"
   },
   {
     "id" : "calogero-sanfilippo",
@@ -804,6 +872,26 @@
     "name" : "Kyle Newsome"
   },
   {
+    "id" : "joannis-orlandos",
+    "name" : "Joannis Orlandos"
+  },
+  {
+    "id" : "jonas-schwartz",
+    "name" : "Jonas Schwartz"
+  },
+  {
+    "id" : "ian-partridge",
+    "name" : "Ian Partridge"
+  },
+  {
+    "id" : "heidi-hermann",
+    "name" : "Heidi Hermann"
+  },
+  {
+    "id" : "kaitlin-mahar",
+    "name" : "Kaitlin Mahar"
+  },
+  {
     "id" : "audrey-tam",
     "name" : "Audrey Tam"
   },
@@ -864,10 +952,6 @@
     "name" : "Chris Bailey"
   },
   {
-    "id" : "ian-partridge",
-    "name" : "Ian Partridge"
-  },
-  {
     "id" : "paige-bailey",
     "name" : "Paige Bailey"
   },
@@ -882,10 +966,6 @@
   {
     "id" : "marc-aupont",
     "name" : "Marc Aupont"
-  },
-  {
-    "id" : "kaitlin-mahar",
-    "name" : "Kaitlin Mahar"
   },
   {
     "id" : "cate-huston",
@@ -1024,16 +1104,60 @@
     "name" : "Hikaru Yoshimura"
   },
   {
+    "id" : "this-talk-dives-into-the-history-of-online-communities-and-conversations-it-will-go-through-their-technological-advances-and-their-both-positive-and-negative-social-impact-it-ends-with-some-recent-work-in-this-area-and-what-we-can-all-do-to-make-things-betterkamilah-taylor",
+    "name" : "This talk dives into the history of online communities and conversations. It will go through their technological advances and their both positive and negative social impact. It ends with some recent work in this area and what we can all do to make things better.Kamilah Taylor"
+  },
+  {
+    "id" : "anastasia-voitova",
+    "name" : "Anastasia Voitova"
+  },
+  {
+    "id" : "edward-valentini",
+    "name" : "Edward Valentini"
+  },
+  {
+    "id" : "daniel-jilg",
+    "name" : "Daniel Jilg"
+  },
+  {
+    "id" : "joachim-kurz",
+    "name" : "Joachim Kurz"
+  },
+  {
+    "id" : "esther-zahn",
+    "name" : "Esther Zahn"
+  },
+  {
+    "id" : "no-extrovert-will-be-bored-in-this-talk-peter-steinberger",
+    "name" : "No extrovert will be bored in this talk 🙂Peter Steinberger"
+  },
+  {
+    "id" : "luke-parham",
+    "name" : "Luke Parham"
+  },
+  {
+    "id" : "mihail-gerasimenko",
+    "name" : "Mihail Gerasimenko"
+  },
+  {
+    "id" : "domas-nutautas",
+    "name" : "Domas Nutautas"
+  },
+  {
+    "id" : "susmita-horrow",
+    "name" : "Susmita Horrow"
+  },
+  {
+    "id" : "vincent-garrigues",
+    "name" : "Vincent Garrigues"
+  },
+  {
     "id" : "alaina-kafkes",
     "name" : "Alaina Kafkes"
   },
   {
     "id" : "julia-roggatz",
     "name" : "Julia Roggatz"
-  },
-  {
-    "id" : "kate-castellano",
-    "name" : "Kate Castellano"
   },
   {
     "id" : "füsun-wehrmann",

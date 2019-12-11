@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "uikonf_2018_since-when-does-fashion-communicate",
+    "conference" : {
+      "metaData" : {
+        "id" : "uikonf",
+        "name" : "UIKonf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "kg8j4fbcN7c"
+    },
+    "name" : " Since when does fashion communicate?",
+    "authors" : [
+      {
+        "id" : "esther-zahn",
+        "name" : "Esther Zahn"
+      }
+    ],
+    "createdAt" : 1576104173.980762
+  },
+  "description" : "In this talk, Esther will give an introduction to the possibilities of textile electronics state of the art and why it is time to develop mobile apps. As a Fashiontech designer, Esther has been developing electronic textiles since 2012 and reports on her developments and the problems involved in bringing together two areas as diverse as technology and society."
+}
