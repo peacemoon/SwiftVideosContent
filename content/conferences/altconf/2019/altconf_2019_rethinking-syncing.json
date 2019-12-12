@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_rethinking-syncing",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "mAd4knd2mFk"
+    },
+    "name" : "Rethinking Syncing",
+    "authors" : [
+      {
+        "id" : "joe-keeley",
+        "name" : "Joe Keeley"
+      }
+    ],
+    "createdAt" : 1576186699.889734
+  },
+  "description" : "This session will walk through some of the common techniques used to sync data from a server to an iOS app; including making API calls, transforming data from JSON and ingesting data into Core Data, handling common situations where servers are not specifically built to handle adds, changes, and deletes effectively, and querying \/ displaying data in a view controller. After that survey of the existing landscape, I will show how we have simplified the entire data syncing process by taking advantage of a real time NoSQL database (using Couchbase as an example - Realm and Firebase are other alternatives that would work). I will demonstrate how to address common situations like syncing user specific data, using custom data model objects with Swift’s Codable protocol, and querying \/ displaying data in a view controller."
+}

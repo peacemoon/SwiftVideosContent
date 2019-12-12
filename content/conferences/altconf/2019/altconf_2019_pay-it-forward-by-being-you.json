@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_pay-it-forward-by-being-you",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nYmgi032ZRo"
+    },
+    "name" : "Pay it Forward by Being you",
+    "authors" : [
+      {
+        "id" : "mayuko-inoue",
+        "name" : "Mayuko Inoue"
+      }
+    ],
+    "createdAt" : 1576186851.9619079
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_the-hidden-potential-of-people-with-asd",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nOtw9J6mRQU"
+    },
+    "name" : "The Hidden Potential of People with ASD",
+    "authors" : [
+      {
+        "id" : "nic-laughter",
+        "name" : "Nic Laughter"
+      }
+    ],
+    "createdAt" : 1576186251.9840779
+  },
+  "description" : ""
+}

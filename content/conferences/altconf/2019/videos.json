@@ -1,0 +1,1046 @@
+[
+  {
+    "id" : "altconf_2019_realtime-object-detection-with-coreml",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "cP0SBFtp4kE"
+    },
+    "name" : "Real-Time Object Detection with CoreML",
+    "authors" : [
+      {
+        "id" : "nick-bourdakos",
+        "name" : "Nick Bourdakos"
+      }
+    ],
+    "createdAt" : 1576169942.9719319
+  },
+  {
+    "id" : "altconf_2019_adding-ipfs-to-your-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "M6mUg-tMbk0"
+    },
+    "name" : "Adding IPFS to your Apps",
+    "authors" : [
+      {
+        "id" : "andrew-hill",
+        "name" : "Andrew Hill"
+      }
+    ],
+    "createdAt" : 1576170029.1252789
+  },
+  {
+    "id" : "altconf_2019_call-for-code-how-will-you-make-a-difference",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "hK35gWnMKyc"
+    },
+    "name" : "Call for Code: How Will You Make a Difference?",
+    "authors" : [
+      {
+        "id" : "david-okun",
+        "name" : "David Okun"
+      }
+    ],
+    "createdAt" : 1576170063.452024
+  },
+  {
+    "id" : "altconf_2019_voice-search-using-nlp-coreml",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "U9m3oDSJ9SY"
+    },
+    "name" : "Voice Search Using NLP & CoreML",
+    "authors" : [
+      {
+        "id" : "we-will-go-through-multiple-iterations-of-our-pipeline-to-arrive-at-a-relatively-simple-and-extensible-solution",
+        "name" : "We will go through multiple iterations of our pipeline to arrive at a relatively simple and extensible solution"
+      },
+      {
+        "id" : "featuring-everyones-favorite-coreml-and-no-thor-party-dependenciessimon-javora",
+        "name" : "featuring everyone’s favorite CoreML and no Thor party dependencies.Simon Javora"
+      }
+    ],
+    "createdAt" : 1576170099.236546
+  },
+  {
+    "id" : "altconf_2019_dont-f-it-up",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "bzqY6ooBvkE"
+    },
+    "name" : "Don't F it up",
+    "authors" : [
+      {
+        "id" : "youll-come-away-with-an-understanding-of-what-security-tools-are-available-to-implement-asymmetric-endtoend-encryption-and-advanced-case-scenarios-like-multidevice-access",
+        "name" : "You’ll come away with an understanding of what security tools are available to implement asymmetric end-to-end encryption and advanced case scenarios like multi-device access"
+      },
+      {
+        "id" : "group-chat-and-digital-signatures-and-youll-understand-how-to-implement-them-in-your-app-to-protect-protected-health-information-phi-as-required-by-hipaa-regulationsmatheus-cardoso",
+        "name" : "group chat and digital signatures. And you’ll understand how to implement them in your App to protect Protected Health Information (PHI) as required by HIPAA regulations.Matheus Cardoso"
+      }
+    ],
+    "createdAt" : 1576170128.6375251
+  },
+  {
+    "id" : "altconf_2019_how-to-tame-core-animation",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "qiwdPs_nPYs"
+    },
+    "name" : "How to Tame Core Animation",
+    "authors" : [
+      {
+        "id" : "kristaps-grinbergs",
+        "name" : "Kristaps Grinbergs"
+      }
+    ],
+    "createdAt" : 1576170154.6376219
+  },
+  {
+    "id" : "altconf_2019_contributing-to-swift-for-the-first-time",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "51j7TrFNKiA"
+    },
+    "name" : "Contributing to Swift for the First Time",
+    "authors" : [
+      {
+        "id" : "robert-pieta",
+        "name" : "Robert Pieta"
+      }
+    ],
+    "createdAt" : 1576170240.4935179
+  },
+  {
+    "id" : "altconf_2019_the-knights-who-say-nio-swiftnio-in-depth",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QJy299vK_ZY"
+    },
+    "name" : "The Knights Who Say NIO: SwiftNIO in Depth",
+    "authors" : [
+      {
+        "id" : "jon-shier",
+        "name" : "Jon Shier"
+      }
+    ],
+    "createdAt" : 1576170267.3578269
+  },
+  {
+    "id" : "altconf_2019_code-layout-design-for-dynamic-type",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "bdRsOVdqkWs"
+    },
+    "name" : "Code, Layout & Design for Dynamic Type",
+    "authors" : [
+      {
+        "id" : "paul-goracke",
+        "name" : "Paul Goracke"
+      }
+    ],
+    "createdAt" : 1576170290.933692
+  },
+  {
+    "id" : "altconf_2019_ios-subscriptions-are-hard",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "TqkTb023Uhw"
+    },
+    "name" : "iOS Subscriptions are Hard",
+    "authors" : [
+      {
+        "id" : "jacob-eiting",
+        "name" : "Jacob Eiting"
+      }
+    ],
+    "createdAt" : 1576170317.4550409
+  },
+  {
+    "id" : "altconf_2019_serverless-mobile-backend-as-a-service-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EHE-WIM_6eE"
+    },
+    "name" : "Serverless Mobile Backend as a Service in Swift",
+    "authors" : [
+      {
+        "id" : "marek-sadowski",
+        "name" : "Marek Sadowski"
+      }
+    ],
+    "createdAt" : 1576170403.910795
+  },
+  {
+    "id" : "altconf_2019_generic-swift-it-isnt-supposed-to-hurt",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "DXwJg0QTlZE"
+    },
+    "name" : "Generic Swift: It Isn't Supposed to Hurt",
+    "authors" : [
+      {
+        "id" : "rob-napier",
+        "name" : "Rob Napier"
+      }
+    ],
+    "createdAt" : 1576170425.7984672
+  },
+  {
+    "id" : "altconf_2019_writing-stable-ios-applications",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Lalb5I91djM"
+    },
+    "name" : "Writing Stable iOS Applications",
+    "authors" : [
+      {
+        "id" : "leah-culver",
+        "name" : "Leah Culver"
+      }
+    ],
+    "createdAt" : 1576170452.950901
+  },
+  {
+    "id" : "altconf_2019_starting-small-to-growing-big",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "d4AxBpeoCC8"
+    },
+    "name" : "Starting Small to Growing Big",
+    "authors" : [
+      {
+        "id" : "nikita-leonov",
+        "name" : "Nikita Leonov"
+      }
+    ],
+    "createdAt" : 1576170478.9601221
+  },
+  {
+    "id" : "altconf_2019_do-you-want-to-take-this-code-with-you-into-the-future",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "typv-hH8aSg"
+    },
+    "name" : "Do You Want to Take This Code With You into the Future? ",
+    "authors" : [
+      {
+        "id" : "ferran-poveda-abanses",
+        "name" : "Ferran Poveda Abanses"
+      }
+    ],
+    "createdAt" : 1576170508.6245871
+  },
+  {
+    "id" : "altconf_2019_first-local-cat-savings-bank",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "FOzgRSq7JBo"
+    },
+    "name" : "First Local Cat Savings Bank",
+    "authors" : [
+      {
+        "id" : "sally-shepard",
+        "name" : "Sally Shepard"
+      }
+    ],
+    "createdAt" : 1576170535.160398
+  },
+  {
+    "id" : "altconf_2019_a-story-of-mysterious-asian-strings",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "6xohq6c6xNE"
+    },
+    "name" : "A Story of Mysterious Asian Strings",
+    "authors" : [
+      {
+        "id" : "tomoki-yamaguchi",
+        "name" : "Tomoki Yamaguchi"
+      }
+    ],
+    "createdAt" : 1576170608.3839359
+  },
+  {
+    "id" : "altconf_2019_my-bad-addressing-a-faux-pas-without-a-fauxpology",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jXj8EIk7hL0"
+    },
+    "name" : "My Bad: Addressing a Faux Pas Without a Fauxpology",
+    "authors" : [
+      {
+        "id" : "jessica-dennis",
+        "name" : "Jessica Dennis"
+      }
+    ],
+    "createdAt" : 1576170634.9687529
+  },
+  {
+    "id" : "altconf_2019_reducing-image-memory-consumption-in-10-minutes",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1K6R-NDca04"
+    },
+    "name" : "Reducing Image Memory Consumption in 10 Minutes",
+    "authors" : [
+      {
+        "id" : "jordan-morgan",
+        "name" : "Jordan Morgan"
+      }
+    ],
+    "createdAt" : 1576186001.312427
+  },
+  {
+    "id" : "altconf_2019_animations-are-assets",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9DIJvVCCMyI"
+    },
+    "name" : "Animations are Assets",
+    "authors" : [
+      {
+        "id" : "guilherme-rambo",
+        "name" : "Guilherme Rambo"
+      }
+    ],
+    "createdAt" : 1576186035.4135089
+  },
+  {
+    "id" : "altconf_2019_growing-a-joyful-codebase-from-legacy-code",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "lBCzFhsayG0"
+    },
+    "name" : "Growing a Joyful Codebase from Legacy Code",
+    "authors" : [
+      {
+        "id" : "ben-davis",
+        "name" : "Ben Davis"
+      }
+    ],
+    "createdAt" : 1576186069.0450768
+  },
+  {
+    "id" : "altconf_2019_interview-with-confidence",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Fr6gop3aFmQ"
+    },
+    "name" : "Interview with Confidence",
+    "authors" : [
+      {
+        "id" : "alex-karp",
+        "name" : "Alex Karp"
+      }
+    ],
+    "createdAt" : 1576186133.4076629
+  },
+  {
+    "id" : "altconf_2019_finding-the-implicit-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "O_m6zK7WXh0"
+    },
+    "name" : "Finding the Implicit Design",
+    "authors" : [
+      {
+        "id" : "adam-tierney",
+        "name" : "Adam Tierney"
+      }
+    ],
+    "createdAt" : 1576186179.8816781
+  },
+  {
+    "id" : "altconf_2019_week-in-review",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "uJGGBkSTkeo"
+    },
+    "name" : "Week in Review",
+    "authors" : [
+      {
+        "id" : "james-dempsey",
+        "name" : "James Dempsey"
+      }
+    ],
+    "createdAt" : 1576186220.245698
+  },
+  {
+    "id" : "altconf_2019_the-hidden-potential-of-people-with-asd",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nOtw9J6mRQU"
+    },
+    "name" : "The Hidden Potential of People with ASD",
+    "authors" : [
+      {
+        "id" : "nic-laughter",
+        "name" : "Nic Laughter"
+      }
+    ],
+    "createdAt" : 1576186251.9840779
+  },
+  {
+    "id" : "altconf_2019_living-the-monadstic-life",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "rUvSG6RUaVk"
+    },
+    "name" : "Living the Monadstic Life",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ],
+    "createdAt" : 1576186286.8968139
+  },
+  {
+    "id" : "altconf_2019_inapp-ppaymenturchases",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "RCUcbT2JQf8"
+    },
+    "name" : "In-App P{payment,urchase}s",
+    "authors" : [
+      {
+        "id" : "shannon-skipper",
+        "name" : "Shannon Skipper"
+      }
+    ],
+    "createdAt" : 1576186319.101423
+  },
+  {
+    "id" : "altconf_2019_raise-your-mobile-game-with-docusign-ios-sdk",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "yOJouh4zUxU"
+    },
+    "name" : "Raise your Mobile Game with DocuSign iOS SDK ",
+    "authors" : [
+      {
+        "id" : "ashok-meena",
+        "name" : "Ashok Meena"
+      },
+      {
+        "id" : "matthew-roknich",
+        "name" : "Matthew Roknich"
+      }
+    ],
+    "createdAt" : 1576186357.7208419
+  },
+  {
+    "id" : "altconf_2019_big-phone-little-hands",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "YxPHLMheQ8M"
+    },
+    "name" : "Big Phone, Little Hands",
+    "authors" : [
+      {
+        "id" : "david-reidy",
+        "name" : "David Reidy"
+      }
+    ],
+    "createdAt" : 1576186396.3738189
+  },
+  {
+    "id" : "altconf_2019_an-alternative-business-model-for-your-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "M7UcekyDEyM"
+    },
+    "name" : "An Alternative Business Model for your App",
+    "authors" : [
+      {
+        "id" : "robbie-hanson",
+        "name" : "Robbie Hanson"
+      }
+    ],
+    "createdAt" : 1576186421.1701601
+  },
+  {
+    "id" : "altconf_2019_introduction-to-swift-for-tensorflow",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "mo3fSb620og"
+    },
+    "name" : "Introduction to Swift for Tensorflow",
+    "authors" : [
+      {
+        "id" : "brett-koonce",
+        "name" : "Brett Koonce"
+      }
+    ],
+    "createdAt" : 1576186449.889282
+  },
+  {
+    "id" : "altconf_2019_arkit-vs-arcore-in-the-task-of-baggage-measurement",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "7Nq3EXTMlKQ"
+    },
+    "name" : "ARKit vs ARCore in the Task of Baggage Measurement",
+    "authors" : [
+      {
+        "id" : "pavel-zak",
+        "name" : "Pavel Zak"
+      }
+    ],
+    "createdAt" : 1576186483.091275
+  },
+  {
+    "id" : "altconf_2019_speed-up-your-core-data-stack-in-10-minutes",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "oIz17eOWhVQ"
+    },
+    "name" : "Speed up your Core Data Stack in 10 Minutes",
+    "authors" : [
+      {
+        "id" : "jakub-kornatowski",
+        "name" : "Jakub Kornatowski"
+      }
+    ],
+    "createdAt" : 1576186514.8253632
+  },
+  {
+    "id" : "altconf_2019_i-look-like-an-engineer-and-so-do-you",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "HFN285WhahE"
+    },
+    "name" : "I Look Like an Engineer (and so do you) ",
+    "authors" : [
+      {
+        "id" : "michael-may",
+        "name" : "Michael May"
+      }
+    ],
+    "createdAt" : 1576186552.2337599
+  },
+  {
+    "id" : "altconf_2019_auto-layout-with-an-extended-visual-format-language",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3n3AeUuWavw"
+    },
+    "name" : "Auto Layout with an Extended Visual Format Language",
+    "authors" : [
+      {
+        "id" : "ban-jun",
+        "name" : "BAN Jun"
+      }
+    ],
+    "createdAt" : 1576186581.08391
+  },
+  {
+    "id" : "altconf_2019_crash-course-on-crashes",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "6PNMjWO7QWs"
+    },
+    "name" : "Crash Course on Crashes",
+    "authors" : [
+      {
+        "id" : "liviu-romascanu",
+        "name" : "Liviu Romascanu"
+      }
+    ],
+    "createdAt" : 1576186617.207943
+  },
+  {
+    "id" : "altconf_2019_all-you-need-to-know-about-xcode-hidden-logs",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QVwOzfJIDCc"
+    },
+    "name" : "All you Need to Know About Xcode Hidden Logs",
+    "authors" : [
+      {
+        "id" : "erick-camacho",
+        "name" : "Erick Camacho"
+      }
+    ],
+    "createdAt" : 1576186642.678288
+  },
+  {
+    "id" : "altconf_2019_all-you-need-is-tools",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ydWpnj-PIjQ"
+    },
+    "name" : "All you Need is Tools",
+    "authors" : [
+      {
+        "id" : "pedro-piñera",
+        "name" : "Pedro Piñera"
+      }
+    ],
+    "createdAt" : 1576186668.0314441
+  },
+  {
+    "id" : "altconf_2019_rethinking-syncing",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "mAd4knd2mFk"
+    },
+    "name" : "Rethinking Syncing",
+    "authors" : [
+      {
+        "id" : "joe-keeley",
+        "name" : "Joe Keeley"
+      }
+    ],
+    "createdAt" : 1576186699.889734
+  },
+  {
+    "id" : "altconf_2019_macos-in-a-docker-container-for-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fBELP05oPO4"
+    },
+    "name" : "macOS in a Docker Container for Development",
+    "authors" : [
+      {
+        "id" : "chris-chapman",
+        "name" : "Chris Chapman"
+      }
+    ],
+    "createdAt" : 1576186734.252974
+  },
+  {
+    "id" : "altconf_2019_serverside-swift-state-of-the-union",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1Y8NPgvsG6A"
+    },
+    "name" : "Server-Side Swift State of the Union",
+    "authors" : [
+      {
+        "id" : "chris-bailey",
+        "name" : "Chris Bailey"
+      }
+    ],
+    "createdAt" : 1576186768.2058401
+  },
+  {
+    "id" : "altconf_2019_work-fast-die-young-and-leave-a-beautiful-codebase",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "2BQTfw2iBWM"
+    },
+    "name" : "Work Fast, Die Young, and Leave a Beautiful Codebase",
+    "authors" : [
+      {
+        "id" : "mike-lee",
+        "name" : "Mike Lee"
+      }
+    ],
+    "createdAt" : 1576186807.4472151
+  },
+  {
+    "id" : "altconf_2019_pay-it-forward-by-being-you",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nYmgi032ZRo"
+    },
+    "name" : "Pay it Forward by Being you",
+    "authors" : [
+      {
+        "id" : "mayuko-inoue",
+        "name" : "Mayuko Inoue"
+      }
+    ],
+    "createdAt" : 1576186851.9619079
+  }
+]

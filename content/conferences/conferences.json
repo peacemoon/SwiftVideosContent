@@ -52,6 +52,10 @@
         "name": "App Builders"
     },
     {
+        "id": "altconf",
+        "name": "AltConf"
+    },
+    {
         "id": "wwdc",
         "name": "WWDC"
     },

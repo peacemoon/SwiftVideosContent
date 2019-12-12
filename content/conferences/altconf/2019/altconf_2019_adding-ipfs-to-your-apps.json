@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_adding-ipfs-to-your-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "M6mUg-tMbk0"
+    },
+    "name" : "Adding IPFS to your Apps",
+    "authors" : [
+      {
+        "id" : "andrew-hill",
+        "name" : "Andrew Hill"
+      }
+    ],
+    "createdAt" : 1576170029.1252789
+  },
+  "description" : ""
+}

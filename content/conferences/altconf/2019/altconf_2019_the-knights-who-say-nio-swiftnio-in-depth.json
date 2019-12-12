@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_the-knights-who-say-nio-swiftnio-in-depth",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QJy299vK_ZY"
+    },
+    "name" : "The Knights Who Say NIO: SwiftNIO in Depth",
+    "authors" : [
+      {
+        "id" : "jon-shier",
+        "name" : "Jon Shier"
+      }
+    ],
+    "createdAt" : 1576170267.3578269
+  },
+  "description" : "SwiftNIO is an exciting new event-driven network application library from Apple written in Swift. Based on the architecture pioneered by Netty, it provides a foundation for highly scalable cloud services that can be built quickly and easily. In this session I will explore how SwiftNIO can be used to create high performance network services and how I was able to use it to create my own MQTT server (a lightweight messaging service). Finally, I’ll compare and contrast the performance of my simple implementation to enterprise grade solutions to see how Swift and SwiftNIO stack up in performance critical environments."
+}

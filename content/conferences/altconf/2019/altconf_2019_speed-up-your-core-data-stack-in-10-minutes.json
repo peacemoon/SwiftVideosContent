@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_speed-up-your-core-data-stack-in-10-minutes",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "oIz17eOWhVQ"
+    },
+    "name" : "Speed up your Core Data Stack in 10 Minutes",
+    "authors" : [
+      {
+        "id" : "jakub-kornatowski",
+        "name" : "Jakub Kornatowski"
+      }
+    ],
+    "createdAt" : 1576186514.8253632
+  },
+  "description" : "I want to present the best practices for simple and fast Core Data stack. The most interesting thing for that quick talk would be the part about how to achieve a batch delete of lots of objects from Core Data without blocking the thread and how to update the persistent container manually and merge the changes."
+}

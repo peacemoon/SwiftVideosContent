@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_how-to-tame-core-animation",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "qiwdPs_nPYs"
+    },
+    "name" : "How to Tame Core Animation",
+    "authors" : [
+      {
+        "id" : "kristaps-grinbergs",
+        "name" : "Kristaps Grinbergs"
+      }
+    ],
+    "createdAt" : 1576170154.6376219
+  },
+  "description" : "Core Animation is a wild animal - powerful and beautiful but hard to familiarize and tame. Yet, when you befriend this animal, you can do great things with app visuals. Here's my story on creating a powerful animation for Apple devices in Swift with lots of experiments, limit testing and some math."
+}

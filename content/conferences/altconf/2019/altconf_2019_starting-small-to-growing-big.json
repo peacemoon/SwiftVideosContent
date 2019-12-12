@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_starting-small-to-growing-big",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "d4AxBpeoCC8"
+    },
+    "name" : "Starting Small to Growing Big",
+    "authors" : [
+      {
+        "id" : "nikita-leonov",
+        "name" : "Nikita Leonov"
+      }
+    ],
+    "createdAt" : 1576170478.9601221
+  },
+  "description" : "A deep dive into the rapid evolution of a mobile organization in Atlassian. Insights on how mobile growth changed the company, and how the growth of the company changed mobile. An overview of the high-level architecture & design, organizational, and product changes over time."
+}

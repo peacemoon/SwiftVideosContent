@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_generic-swift-it-isnt-supposed-to-hurt",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "DXwJg0QTlZE"
+    },
+    "name" : "Generic Swift: It Isn't Supposed to Hurt",
+    "authors" : [
+      {
+        "id" : "rob-napier",
+        "name" : "Rob Napier"
+      }
+    ],
+    "createdAt" : 1576170425.7984672
+  },
+  "description" : ""
+}

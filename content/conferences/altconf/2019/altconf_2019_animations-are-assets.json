@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_animations-are-assets",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9DIJvVCCMyI"
+    },
+    "name" : "Animations are Assets",
+    "authors" : [
+      {
+        "id" : "guilherme-rambo",
+        "name" : "Guilherme Rambo"
+      }
+    ],
+    "createdAt" : 1576186035.4135089
+  },
+  "description" : ""
+}

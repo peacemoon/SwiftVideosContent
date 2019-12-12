@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_big-phone-little-hands",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "YxPHLMheQ8M"
+    },
+    "name" : "Big Phone, Little Hands",
+    "authors" : [
+      {
+        "id" : "david-reidy",
+        "name" : "David Reidy"
+      }
+    ],
+    "createdAt" : 1576186396.3738189
+  },
+  "description" : "The last few years has seen a growth in popularity of larger sized phones. Hands have not evolved to match this increase in size, as a result it can be be difficult for users to use a phone easily, especially if circumstances call for the phone to be used one-handed. This was the situation I faced in developing my latest software. In this presentation we will look at some simple layout techniques that can be used to make an application easier for a person to use. We will also consider the different needs of left-handed and right-handed users."
+}
