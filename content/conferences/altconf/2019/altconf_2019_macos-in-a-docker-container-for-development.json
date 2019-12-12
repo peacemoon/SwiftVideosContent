@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_macos-in-a-docker-container-for-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fBELP05oPO4"
+    },
+    "name" : "macOS in a Docker Container for Development",
+    "authors" : [
+      {
+        "id" : "chris-chapman",
+        "name" : "Chris Chapman"
+      }
+    ],
+    "createdAt" : 1576186734.252974
+  },
+  "description" : "MacStadium’s development team wanted to take advantage of the capability and power of Docker\/Kubernetes in a Mac development environment, but there was no good solution. To solve this problem, the team decided to build a tool to put macOS in a Docker container. In this session, Chris will talk about how he and his team used Docker to solve their Mac build problems."
+}

@@ -1,0 +1,31 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_dont-f-it-up",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "bzqY6ooBvkE"
+    },
+    "name" : "Don't F it up",
+    "authors" : [
+      {
+        "id" : "youll-come-away-with-an-understanding-of-what-security-tools-are-available-to-implement-asymmetric-endtoend-encryption-and-advanced-case-scenarios-like-multidevice-access",
+        "name" : "You’ll come away with an understanding of what security tools are available to implement asymmetric end-to-end encryption and advanced case scenarios like multi-device access"
+      },
+      {
+        "id" : "group-chat-and-digital-signatures-and-youll-understand-how-to-implement-them-in-your-app-to-protect-protected-health-information-phi-as-required-by-hipaa-regulationsmatheus-cardoso",
+        "name" : "group chat and digital signatures. And you’ll understand how to implement them in your App to protect Protected Health Information (PHI) as required by HIPAA regulations.Matheus Cardoso"
+      }
+    ],
+    "createdAt" : 1576170128.6375251
+  },
+  "description" : "It’s hard to innovate in a space when a simple coding mistake can cost you or your team millions of dollars in fines paid out for HIPAA violations. Luckily, with Apple’s HealthKit combined with other developer-first tools, you can confidently build a new App or add new features into your existing App without spending years or millions on outside security consultants. "
+}

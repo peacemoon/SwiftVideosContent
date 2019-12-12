@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_auto-layout-with-an-extended-visual-format-language",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3n3AeUuWavw"
+    },
+    "name" : "Auto Layout with an Extended Visual Format Language",
+    "authors" : [
+      {
+        "id" : "ban-jun",
+        "name" : "BAN Jun"
+      }
+    ],
+    "createdAt" : 1576186581.08391
+  },
+  "description" : ""
+}

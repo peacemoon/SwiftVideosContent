@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_serverside-swift-state-of-the-union",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1Y8NPgvsG6A"
+    },
+    "name" : "Server-Side Swift State of the Union",
+    "authors" : [
+      {
+        "id" : "chris-bailey",
+        "name" : "Chris Bailey"
+      }
+    ],
+    "createdAt" : 1576186768.2058401
+  },
+  "description" : "Swift on the server as an option for your backend servers is now in its third year and in that short space of time significant progress has been made. Foundational technologies such as Swift-NIO have been released, and the Swift Server Workgroup has driven the availability of official Docker images and recent projects covering logging and metrics. Additionally, the Kitura, Perfect and Vapor frameworks has seen significant adoption, including production use by some of the world’s largest companies. This session will discuss what has been been achieved in the last twelve months, describe the current state of Swift on the server, and make some predictions about what the next year will hold."
+}

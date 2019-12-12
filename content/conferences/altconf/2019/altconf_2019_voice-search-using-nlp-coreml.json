@@ -1,0 +1,31 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_voice-search-using-nlp-coreml",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "U9m3oDSJ9SY"
+    },
+    "name" : "Voice Search Using NLP & CoreML",
+    "authors" : [
+      {
+        "id" : "we-will-go-through-multiple-iterations-of-our-pipeline-to-arrive-at-a-relatively-simple-and-extensible-solution",
+        "name" : "We will go through multiple iterations of our pipeline to arrive at a relatively simple and extensible solution"
+      },
+      {
+        "id" : "featuring-everyones-favorite-coreml-and-no-thor-party-dependenciessimon-javora",
+        "name" : "featuring everyone’s favorite CoreML and no Thor party dependencies.Simon Javora"
+      }
+    ],
+    "createdAt" : 1576170099.236546
+  },
+  "description" : "Learn how someone with no experience in either language processing or machine learning somehow put together a functioning voice search implementation. "
+}

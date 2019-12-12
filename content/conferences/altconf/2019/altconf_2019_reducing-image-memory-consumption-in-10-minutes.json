@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_reducing-image-memory-consumption-in-10-minutes",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1K6R-NDca04"
+    },
+    "name" : "Reducing Image Memory Consumption in 10 Minutes",
+    "authors" : [
+      {
+        "id" : "jordan-morgan",
+        "name" : "Jordan Morgan"
+      }
+    ],
+    "createdAt" : 1576186001.312427
+  },
+  "description" : ""
+}

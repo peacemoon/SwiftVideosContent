@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_finding-the-implicit-design",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "O_m6zK7WXh0"
+    },
+    "name" : "Finding the Implicit Design",
+    "authors" : [
+      {
+        "id" : "adam-tierney",
+        "name" : "Adam Tierney"
+      }
+    ],
+    "createdAt" : 1576186179.8816781
+  },
+  "description" : "How do you go from picture to app? Walk through a case study on how to tease technical requirements out of a static design. Go into your next design review prepared to identify the implicit design: subtle but important requirements that ensure your users a fantastic user experience."
+}

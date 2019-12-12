@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_serverless-mobile-backend-as-a-service-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EHE-WIM_6eE"
+    },
+    "name" : "Serverless Mobile Backend as a Service in Swift",
+    "authors" : [
+      {
+        "id" : "marek-sadowski",
+        "name" : "Marek Sadowski"
+      }
+    ],
+    "createdAt" : 1576170403.910795
+  },
+  "description" : ""
+}

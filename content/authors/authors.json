@@ -160,6 +160,182 @@
     "name" : "Raz Burciu"
   },
   {
+    "id" : "nick-bourdakos",
+    "name" : "Nick Bourdakos"
+  },
+  {
+    "id" : "andrew-hill",
+    "name" : "Andrew Hill"
+  },
+  {
+    "id" : "david-okun",
+    "name" : "David Okun"
+  },
+  {
+    "id" : "we-will-go-through-multiple-iterations-of-our-pipeline-to-arrive-at-a-relatively-simple-and-extensible-solution",
+    "name" : "We will go through multiple iterations of our pipeline to arrive at a relatively simple and extensible solution"
+  },
+  {
+    "id" : "featuring-everyones-favorite-coreml-and-no-thor-party-dependenciessimon-javora",
+    "name" : "featuring everyone’s favorite CoreML and no Thor party dependencies.Simon Javora"
+  },
+  {
+    "id" : "youll-come-away-with-an-understanding-of-what-security-tools-are-available-to-implement-asymmetric-endtoend-encryption-and-advanced-case-scenarios-like-multidevice-access",
+    "name" : "You’ll come away with an understanding of what security tools are available to implement asymmetric end-to-end encryption and advanced case scenarios like multi-device access"
+  },
+  {
+    "id" : "group-chat-and-digital-signatures-and-youll-understand-how-to-implement-them-in-your-app-to-protect-protected-health-information-phi-as-required-by-hipaa-regulationsmatheus-cardoso",
+    "name" : "group chat and digital signatures. And you’ll understand how to implement them in your App to protect Protected Health Information (PHI) as required by HIPAA regulations.Matheus Cardoso"
+  },
+  {
+    "id" : "kristaps-grinbergs",
+    "name" : "Kristaps Grinbergs"
+  },
+  {
+    "id" : "robert-pieta",
+    "name" : "Robert Pieta"
+  },
+  {
+    "id" : "jon-shier",
+    "name" : "Jon Shier"
+  },
+  {
+    "id" : "paul-goracke",
+    "name" : "Paul Goracke"
+  },
+  {
+    "id" : "jacob-eiting",
+    "name" : "Jacob Eiting"
+  },
+  {
+    "id" : "marek-sadowski",
+    "name" : "Marek Sadowski"
+  },
+  {
+    "id" : "rob-napier",
+    "name" : "Rob Napier"
+  },
+  {
+    "id" : "leah-culver",
+    "name" : "Leah Culver"
+  },
+  {
+    "id" : "nikita-leonov",
+    "name" : "Nikita Leonov"
+  },
+  {
+    "id" : "ferran-poveda-abanses",
+    "name" : "Ferran Poveda Abanses"
+  },
+  {
+    "id" : "sally-shepard",
+    "name" : "Sally Shepard"
+  },
+  {
+    "id" : "tomoki-yamaguchi",
+    "name" : "Tomoki Yamaguchi"
+  },
+  {
+    "id" : "jessica-dennis",
+    "name" : "Jessica Dennis"
+  },
+  {
+    "id" : "jordan-morgan",
+    "name" : "Jordan Morgan"
+  },
+  {
+    "id" : "guilherme-rambo",
+    "name" : "Guilherme Rambo"
+  },
+  {
+    "id" : "ben-davis",
+    "name" : "Ben Davis"
+  },
+  {
+    "id" : "alex-karp",
+    "name" : "Alex Karp"
+  },
+  {
+    "id" : "adam-tierney",
+    "name" : "Adam Tierney"
+  },
+  {
+    "id" : "james-dempsey",
+    "name" : "James Dempsey"
+  },
+  {
+    "id" : "nic-laughter",
+    "name" : "Nic Laughter"
+  },
+  {
+    "id" : "shannon-skipper",
+    "name" : "Shannon Skipper"
+  },
+  {
+    "id" : "ashok-meena",
+    "name" : "Ashok Meena"
+  },
+  {
+    "id" : "matthew-roknich",
+    "name" : "Matthew Roknich"
+  },
+  {
+    "id" : "david-reidy",
+    "name" : "David Reidy"
+  },
+  {
+    "id" : "robbie-hanson",
+    "name" : "Robbie Hanson"
+  },
+  {
+    "id" : "brett-koonce",
+    "name" : "Brett Koonce"
+  },
+  {
+    "id" : "pavel-zak",
+    "name" : "Pavel Zak"
+  },
+  {
+    "id" : "jakub-kornatowski",
+    "name" : "Jakub Kornatowski"
+  },
+  {
+    "id" : "michael-may",
+    "name" : "Michael May"
+  },
+  {
+    "id" : "ban-jun",
+    "name" : "BAN Jun"
+  },
+  {
+    "id" : "liviu-romascanu",
+    "name" : "Liviu Romascanu"
+  },
+  {
+    "id" : "erick-camacho",
+    "name" : "Erick Camacho"
+  },
+  {
+    "id" : "pedro-piñera",
+    "name" : "Pedro Piñera"
+  },
+  {
+    "id" : "joe-keeley",
+    "name" : "Joe Keeley"
+  },
+  {
+    "id" : "chris-chapman",
+    "name" : "Chris Chapman"
+  },
+  {
+    "id" : "chris-bailey",
+    "name" : "Chris Bailey"
+  },
+  {
+    "id" : "mayuko-inoue",
+    "name" : "Mayuko Inoue"
+  },
+  {
     "id" : "john-sundell",
     "name" : "John Sundell"
   },
@@ -232,20 +408,12 @@
     "name" : "Carola Nitz"
   },
   {
-    "id" : "kristaps-grinbergs",
-    "name" : "Kristaps Grinbergs"
-  },
-  {
     "id" : "aleksandar-vacic",
     "name" : "Aleksandar Vacić"
   },
   {
     "id" : "brandon-williams",
     "name" : "Brandon Williams"
-  },
-  {
-    "id" : "guilherme-rambo",
-    "name" : "Guilherme Rambo"
   },
   {
     "id" : "marco-zimmermann",
@@ -346,10 +514,6 @@
   {
     "id" : "rob-whitaker",
     "name" : "Rob Whitaker"
-  },
-  {
-    "id" : "alex-karp",
-    "name" : "Alex Karp"
   },
   {
     "id" : "neil-dodd",
@@ -492,10 +656,6 @@
     "name" : "David Bonnet"
   },
   {
-    "id" : "rob-napier",
-    "name" : "Rob Napier"
-  },
-  {
     "id" : "anastasiia-voitova",
     "name" : "Anastasiia Voitova"
   },
@@ -530,10 +690,6 @@
   {
     "id" : "kelly-hutchison",
     "name" : "Kelly Hutchison"
-  },
-  {
-    "id" : "sally-shepard",
-    "name" : "Sally Shepard"
   },
   {
     "id" : "james-thomson",
@@ -614,10 +770,6 @@
   {
     "id" : "eleni-papanikolopoulou",
     "name" : "Eleni Papanikolopoulou"
-  },
-  {
-    "id" : "pavel-zak",
-    "name" : "Pavel Zak"
   },
   {
     "id" : "marina-gornostaeva",
@@ -924,10 +1076,6 @@
     "name" : "Jen Person"
   },
   {
-    "id" : "leah-culver",
-    "name" : "Leah Culver"
-  },
-  {
     "id" : "Mattt",
     "name" : "Mattt"
   },
@@ -946,10 +1094,6 @@
   {
     "id" : "alicia-v-carr",
     "name" : "Alicia V Carr"
-  },
-  {
-    "id" : "chris-bailey",
-    "name" : "Chris Bailey"
   },
   {
     "id" : "paige-bailey",
@@ -1002,10 +1146,6 @@
   {
     "id" : "ishmael-shabazz",
     "name" : "Ishmael Shabazz"
-  },
-  {
-    "id" : "jordan-morgan",
-    "name" : "Jordan Morgan"
   },
   {
     "id" : "dr-bhaswati-bhattacharya",
@@ -1074,10 +1214,6 @@
   {
     "id" : "maxim-cramer",
     "name" : "Maxim Cramer"
-  },
-  {
-    "id" : "nic-laughter",
-    "name" : "Nic Laughter"
   },
   {
     "id" : "nobuo-saito",

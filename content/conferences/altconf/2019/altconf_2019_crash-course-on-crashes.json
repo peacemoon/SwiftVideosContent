@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_crash-course-on-crashes",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "6PNMjWO7QWs"
+    },
+    "name" : "Crash Course on Crashes",
+    "authors" : [
+      {
+        "id" : "liviu-romascanu",
+        "name" : "Liviu Romascanu"
+      }
+    ],
+    "createdAt" : 1576186617.207943
+  },
+  "description" : ""
+}

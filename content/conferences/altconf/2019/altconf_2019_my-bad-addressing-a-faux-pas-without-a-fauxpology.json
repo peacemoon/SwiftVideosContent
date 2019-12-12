@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "altconf_2019_my-bad-addressing-a-faux-pas-without-a-fauxpology",
+    "conference" : {
+      "metaData" : {
+        "id" : "altconf",
+        "name" : "AltConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jXj8EIk7hL0"
+    },
+    "name" : "My Bad: Addressing a Faux Pas Without a Fauxpology",
+    "authors" : [
+      {
+        "id" : "jessica-dennis",
+        "name" : "Jessica Dennis"
+      }
+    ],
+    "createdAt" : 1576170634.9687529
+  },
+  "description" : "We all slip up sometimes, and it's entirely too easy to react in the moment in a way that just makes everything worse — but getting called out can be a tremendous opportunity for some personal growth! So let's take our feet out of our mouths, throw away our shovels and stop digging, and learn how to gracefully, effectively, and appropriately apologize."
+}
