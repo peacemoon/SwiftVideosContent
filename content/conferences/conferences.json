@@ -16,6 +16,10 @@
         "name": "AppDevCon"
     },
     {
+        "id": "iosdevcampdc",
+        "name": "iOSDevCampDC"
+    },
+    {
         "id": "mobiconf",
         "name": "mobiconf"
     },
