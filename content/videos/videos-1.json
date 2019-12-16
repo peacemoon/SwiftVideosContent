@@ -5215,6 +5215,202 @@
     ]
   },
   {
+    "id" : "iosdevcampdc_2019_keynote",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "WBpWYCzHdGw"
+    },
+    "name" : "Keynote",
+    "authors" : [
+      {
+        "id" : "jaimee-newberry",
+        "name" : "Jaimee Newberry"
+      }
+    ],
+    "createdAt" : 1576496490.6939659
+  },
+  {
+    "id" : "iosdevcampdc_2019_a-first-look-at-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "4ICJB-tGY0c"
+    },
+    "name" : "A First Look at SwiftUI",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ],
+    "createdAt" : 1576496312.7281132
+  },
+  {
+    "id" : "iosdevcampdc_2019_machine-learning-on-ios-devices",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "noDbDQpe4Ig"
+    },
+    "name" : "Machine Learning on iOS Devices",
+    "authors" : [
+      {
+        "id" : "miriam-friedel",
+        "name" : "Miriam Friedel"
+      }
+    ],
+    "createdAt" : 1576496339.6374321
+  },
+  {
+    "id" : "iosdevcampdc_2019_arkit-visualizing-the-invisible",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Qb_E8DcEjY4"
+    },
+    "name" : "ARKit: Visualizing the Invisible",
+    "authors" : [
+      {
+        "id" : "rebecca-vieyra",
+        "name" : "Rebecca Vieyra"
+      },
+      {
+        "id" : "chrystian-vieyra",
+        "name" : "Chrystian Vieyra"
+      }
+    ],
+    "createdAt" : 1576496382.216574
+  },
+  {
+    "id" : "iosdevcampdc_2019_unidirectional-data-flow-patterns-using-reactive-store",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "83s-uhfzF0E"
+    },
+    "name" : "Unidirectional Data Flow Patterns using Reactive Store",
+    "authors" : [
+      {
+        "id" : "jamie-pinkham",
+        "name" : "Jamie Pinkham"
+      }
+    ],
+    "createdAt" : 1576496415.363729
+  },
+  {
+    "id" : "iosdevcampdc_2019_the-linker-hidden-powers-and-common-pitfalls",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EGlBhAD1knc"
+    },
+    "name" : "The Linker: Hidden Powers and Common Pitfalls",
+    "authors" : [
+      {
+        "id" : "kevin-cassidy-jr",
+        "name" : "Kevin Cassidy Jr"
+      }
+    ],
+    "createdAt" : 1576496435.05145
+  },
+  {
+    "id" : "iosdevcampdc_2019_overcoming-diamond-inheritance-with-functional-programming",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "LI3kAV7RcGw"
+    },
+    "name" : "Overcoming diamond inheritance with functional programming",
+    "authors" : [
+      {
+        "id" : "elliot-schrock",
+        "name" : "Elliot Schrock"
+      }
+    ],
+    "createdAt" : 1576496469.008909
+  },
+  {
+    "id" : "iosdevcampdc_2019_speaker-panel",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3hYoKeW5l5M"
+    },
+    "name" : "Speaker Panel",
+    "authors" : [
+      {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      }
+    ],
+    "createdAt" : 1576496521.5666299
+  },
+  {
     "id" : "mobiconf_2019_omg-collection-views",
     "conference" : {
       "metaData" : {

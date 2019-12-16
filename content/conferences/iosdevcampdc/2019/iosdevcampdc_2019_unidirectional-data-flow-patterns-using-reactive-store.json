@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosdevcampdc_2019_unidirectional-data-flow-patterns-using-reactive-store",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "83s-uhfzF0E"
+    },
+    "name" : "Unidirectional Data Flow Patterns using Reactive Store",
+    "authors" : [
+      {
+        "id" : "jamie-pinkham",
+        "name" : "Jamie Pinkham"
+      }
+    ],
+    "createdAt" : 1576496415.363729
+  },
+  "description" : ""
+}

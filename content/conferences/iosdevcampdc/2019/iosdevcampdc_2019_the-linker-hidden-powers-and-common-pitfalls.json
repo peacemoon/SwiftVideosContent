@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosdevcampdc_2019_the-linker-hidden-powers-and-common-pitfalls",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EGlBhAD1knc"
+    },
+    "name" : "The Linker: Hidden Powers and Common Pitfalls",
+    "authors" : [
+      {
+        "id" : "kevin-cassidy-jr",
+        "name" : "Kevin Cassidy Jr"
+      }
+    ],
+    "createdAt" : 1576496435.05145
+  },
+  "description" : ""
+}

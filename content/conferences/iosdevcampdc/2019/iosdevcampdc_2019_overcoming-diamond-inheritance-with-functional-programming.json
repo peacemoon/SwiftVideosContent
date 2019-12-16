@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosdevcampdc_2019_overcoming-diamond-inheritance-with-functional-programming",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "LI3kAV7RcGw"
+    },
+    "name" : "Overcoming diamond inheritance with functional programming",
+    "authors" : [
+      {
+        "id" : "elliot-schrock",
+        "name" : "Elliot Schrock"
+      }
+    ],
+    "createdAt" : 1576496469.008909
+  },
+  "description" : ""
+}
