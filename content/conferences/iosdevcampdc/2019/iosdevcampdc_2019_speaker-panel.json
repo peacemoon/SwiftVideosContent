@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosdevcampdc_2019_speaker-panel",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3hYoKeW5l5M"
+    },
+    "name" : "Speaker Panel",
+    "authors" : [
+      {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      }
+    ],
+    "createdAt" : 1576496521.5666299
+  },
+  "description" : ""
+}

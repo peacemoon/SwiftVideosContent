@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosdevcampdc_2019_machine-learning-on-ios-devices",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosdevcampdc",
+        "name" : "iOSDevCampDC"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "noDbDQpe4Ig"
+    },
+    "name" : "Machine Learning on iOS Devices",
+    "authors" : [
+      {
+        "id" : "miriam-friedel",
+        "name" : "Miriam Friedel"
+      }
+    ],
+    "createdAt" : 1576496339.6374321
+  },
+  "description" : ""
+}
