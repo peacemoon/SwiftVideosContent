@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2018_putting-your-app-on-a-diet",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "KDuhh5epXLo"
+    },
+    "name" : "Putting your app on a diet",
+    "authors" : [
+      {
+        "id" : "ellie-shin",
+        "name" : "Ellie Shin"
+      }
+    ],
+    "createdAt" : 1576855008.94719
+  },
+  "description" : "Is your app written in Swift or are you considering rewriting your app in Swift? Are you adding more and more features to your app, and getting worried about your app size blowing up? If so, reducing your app size should be on your radar. This talk will go over binary size analysis and optimizations we used at Uber, as well as general tips and tricks you might be able to apply to your app."
+}

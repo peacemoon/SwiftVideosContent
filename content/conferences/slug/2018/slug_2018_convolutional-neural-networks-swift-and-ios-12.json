@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2018_convolutional-neural-networks-swift-and-ios-12",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jki130apVhI"
+    },
+    "name" : "Convolutional neural networks, Swift and iOS 12",
+    "authors" : [
+      {
+        "id" : "brett-koonce",
+        "name" : "Brett Koonce"
+      }
+    ],
+    "createdAt" : 1576854958.687114
+  },
+  "description" : "We will discuss the theory and math behind convolutional neural networks, then look at how to build CNN's to perform image recognition. Then, we will look at the current state of the art for image recognition in general and mobile devices in particular."
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2018_hashing-hashable-and-hash-values",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "MKIk8rH1OUQ"
+    },
+    "name" : "Hashing, Hashable, and Hash Values",
+    "authors" : [
+      {
+        "id" : "greg-heo",
+        "name" : "Greg Heo"
+      }
+    ],
+    "createdAt" : 1576854678.471915
+  },
+  "description" : "What is the simplest hash implementation? How about the worst? What is a hash anyway? And why does it matter? By the end of this talk, you'll have the answers to these questions. You’ll also be able to whiteboard out a solution at your next on site interview, no longer be frightened of hash collisions, and understand the hashable changes coming up in Swift 4.2."
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2019_opinionated-dependency-injection-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "dA9rGQRwHGs"
+    },
+    "name" : "Opinionated Dependency Injection in Swift",
+    "authors" : [
+      {
+        "id" : "patrick-barry",
+        "name" : "Patrick Barry"
+      }
+    ],
+    "createdAt" : 1576855319.8077059
+  },
+  "description" : "Writing dependable code at scale means writing tests, and writing tests means using Dependency Injection. The concept of DI is absurdly simple -- yet DI frameworks often end up being quite complex. At Lyft, we developed a minimalist, opinionated DI solution for our Swift codebase. It provides compile-time safety, decentralized configuration, and a clean syntax. And by having preferences about state and \"magic\", it remains absurdly simple."
+}

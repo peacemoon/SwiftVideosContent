@@ -6583,6 +6583,486 @@
     "createdAt" : 1573849718.093255
   },
   {
+    "id" : "slug_2018_bridging-objc-and-swift-json-jsonobjectdecoder",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "PZA9DS4LBAQ"
+    },
+    "name" : "Bridging Obj-C and Swift JSON: JSONObjectDecoder",
+    "authors" : [
+      {
+        "id" : "ben-asher",
+        "name" : "Ben Asher"
+      }
+    ],
+    "createdAt" : 1576854569.1642971
+  },
+  {
+    "id" : "slug_2018_grpc-ios-at-lyft",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Go3_72i8bjI"
+    },
+    "name" : "gRPC & iOS at Lyft",
+    "authors" : [
+      {
+        "id" : "michael-rebello",
+        "name" : "Michael Rebello"
+      }
+    ],
+    "createdAt" : 1576854619.6781311
+  },
+  {
+    "id" : "slug_2018_hashing-hashable-and-hash-values",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "MKIk8rH1OUQ"
+    },
+    "name" : "Hashing, Hashable, and Hash Values",
+    "authors" : [
+      {
+        "id" : "greg-heo",
+        "name" : "Greg Heo"
+      }
+    ],
+    "createdAt" : 1576854678.471915
+  },
+  {
+    "id" : "slug_2018_starting-a-mobile-design-system",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xB36hr7FQis"
+    },
+    "name" : "Starting a Mobile Design System",
+    "authors" : [
+      {
+        "id" : "sam-soffes",
+        "name" : "Sam Soffes"
+      }
+    ],
+    "createdAt" : 1576854810.1972499
+  },
+  {
+    "id" : "slug_2018_bespoke-artisanal-swift-static-analysis",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "n9Djp4ic7u8"
+    },
+    "name" : "Bespoke, Artisanal Swift Static Analysis",
+    "authors" : [
+      {
+        "id" : "jp-simard",
+        "name" : "JP Simard"
+      }
+    ],
+    "createdAt" : 1576854918.8499069
+  },
+  {
+    "id" : "slug_2018_convolutional-neural-networks-swift-and-ios-12",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jki130apVhI"
+    },
+    "name" : "Convolutional neural networks, Swift and iOS 12",
+    "authors" : [
+      {
+        "id" : "brett-koonce",
+        "name" : "Brett Koonce"
+      }
+    ],
+    "createdAt" : 1576854958.687114
+  },
+  {
+    "id" : "slug_2018_putting-your-app-on-a-diet",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "KDuhh5epXLo"
+    },
+    "name" : "Putting your app on a diet",
+    "authors" : [
+      {
+        "id" : "ellie-shin",
+        "name" : "Ellie Shin"
+      }
+    ],
+    "createdAt" : 1576855008.94719
+  },
+  {
+    "id" : "slug_2018_advanced-debugging-and-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9Io2_W1iDLQ"
+    },
+    "name" : "Advanced Debugging and Swift",
+    "authors" : [
+      {
+        "id" : "dave-lee",
+        "name" : "Dave Lee"
+      }
+    ],
+    "createdAt" : 1576855117.963284
+  },
+  {
+    "id" : "slug_2019_maintaining-a-swift-projects-dependency-graph-with-weaver",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "h3CMMbgozG0"
+    },
+    "name" : "Maintaining a Swift project's dependency graph with Weaver",
+    "authors" : [
+      {
+        "id" : "theophane-rupin",
+        "name" : "Theophane Rupin"
+      }
+    ],
+    "createdAt" : 1576855265.557682
+  },
+  {
+    "id" : "slug_2019_opinionated-dependency-injection-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "dA9rGQRwHGs"
+    },
+    "name" : "Opinionated Dependency Injection in Swift",
+    "authors" : [
+      {
+        "id" : "patrick-barry",
+        "name" : "Patrick Barry"
+      }
+    ],
+    "createdAt" : 1576855319.8077059
+  },
+  {
+    "id" : "slug_2019_coreimage-for-fun-and-profit",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "S5aucjB74lc"
+    },
+    "name" : "CoreImage for Fun and Profit",
+    "authors" : [
+      {
+        "id" : "noah-gilmore",
+        "name" : "Noah Gilmore"
+      }
+    ],
+    "createdAt" : 1576855460.2743559
+  },
+  {
+    "id" : "slug_2019_how-not-to-ab-test",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "NVQuBow1B10"
+    },
+    "name" : "How (not) to A\/B Test",
+    "authors" : [
+      {
+        "id" : "kyle-bashour",
+        "name" : "Kyle Bashour"
+      }
+    ],
+    "createdAt" : 1576855792.8800941
+  },
+  {
+    "id" : "slug_2019_building-a-view-debugger-using-scenekit",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "S6YN2Bsde_Q"
+    },
+    "name" : "Building a view debugger using SceneKit",
+    "authors" : [
+      {
+        "id" : "indragie-karunaratne",
+        "name" : "Indragie Karunaratne"
+      }
+    ],
+    "createdAt" : 1576855897.5522652
+  },
+  {
+    "id" : "slug_2019_privacy-aware-logging-with-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nIGlxcUES_Q"
+    },
+    "name" : "Privacy Aware Logging with Swift",
+    "authors" : [
+      {
+        "id" : "oleg-dreyman",
+        "name" : "Oleg Dreyman"
+      }
+    ],
+    "createdAt" : 1576856106.5234718
+  },
+  {
+    "id" : "slug_2019_exploiting-the-swift-abi",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "0rHG_Pa86oA"
+    },
+    "name" : "Exploiting The Swift ABI",
+    "authors" : [
+      {
+        "id" : "robert-widmann",
+        "name" : "Robert Widmann"
+      }
+    ],
+    "createdAt" : 1576856383.858053
+  },
+  {
+    "id" : "slug_2019_combining-sounds-in-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "sY5Zlv_-hbU"
+    },
+    "name" : "Combining Sounds in Swift",
+    "authors" : [
+      {
+        "id" : "adam-bell",
+        "name" : "Adam Bell"
+      }
+    ],
+    "createdAt" : 1576856420.716629
+  },
+  {
+    "id" : "slug_2019_a-classdump-in-2019",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "KCxXPhu3S7o"
+    },
+    "name" : "A class-dump in 2019",
+    "authors" : [
+      {
+        "id" : "derek-selander",
+        "name" : "Derek Selander"
+      }
+    ],
+    "createdAt" : 1576856453.3348598
+  },
+  {
+    "id" : "slug_2019_context-menus-from-basics-to-polish",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Fj-08kQmcY4"
+    },
+    "name" : "Context Menus: from basics to polish",
+    "authors" : [
+      {
+        "id" : "kyle-bashour",
+        "name" : "Kyle Bashour"
+      }
+    ],
+    "createdAt" : 1576856485.6843309
+  },
+  {
+    "id" : "slug_2019_using-and-creating-property-wrappers",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "dZ0gvRjmlFM"
+    },
+    "name" : "Using and creating Property Wrappers",
+    "authors" : [
+      {
+        "id" : "tim-roesner",
+        "name" : "Tim Roesner"
+      }
+    ],
+    "createdAt" : 1576856537.8355041
+  },
+  {
+    "id" : "slug_2019_building-a-realtime-video-processor-with-swift-and-metal",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "rPZRVFLpCGM"
+    },
+    "name" : "Building a Realtime Video Processor with Swift and Metal",
+    "authors" : [
+      {
+        "id" : "ben-sandofsky",
+        "name" : "Ben Sandofsky"
+      }
+    ],
+    "createdAt" : 1576856577.1249352
+  },
+  {
     "id" : "swift-and-fika_2018_adventures-in-api-design",
     "conference" : {
       "metaData" : {

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2019_building-a-realtime-video-processor-with-swift-and-metal",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "rPZRVFLpCGM"
+    },
+    "name" : "Building a Realtime Video Processor with Swift and Metal",
+    "authors" : [
+      {
+        "id" : "ben-sandofsky",
+        "name" : "Ben Sandofsky"
+      }
+    ],
+    "createdAt" : 1576856577.1249352
+  },
+  "description" : "Halide and Spectre are powered by an in-house realtime video renderer. This talk covers low-level details of GPU programming, data oriented design, and what makes Swift a competitive alternative to C++."
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2018_advanced-debugging-and-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9Io2_W1iDLQ"
+    },
+    "name" : "Advanced Debugging and Swift",
+    "authors" : [
+      {
+        "id" : "dave-lee",
+        "name" : "Dave Lee"
+      }
+    ],
+    "createdAt" : 1576855117.963284
+  },
+  "description" : "Debugging is one of those skills that it pays to build up over time. This talk will demonstrate debugging techniques that are not widely known. Learn how to reuse your Swift knowledge to write debugging and development helpers. See how the debugger can answer questions about what behavior is actually happening at runtime."
+}

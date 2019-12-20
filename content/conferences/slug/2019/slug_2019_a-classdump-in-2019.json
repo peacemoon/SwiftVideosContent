@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2019_a-classdump-in-2019",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "KCxXPhu3S7o"
+    },
+    "name" : "A class-dump in 2019",
+    "authors" : [
+      {
+        "id" : "derek-selander",
+        "name" : "Derek Selander"
+      }
+    ],
+    "createdAt" : 1576856453.3348598
+  },
+  "description" : "Care to know how the \"bad guys\" can introspect your compiled Swift app? This talk will go from bottom to top, discussing all the concepts needed to build a fully functional Swift 5 class-dump. You'll enjoy this rather technical talk if you're a tool maker, or if you just want to know how stuff works."
+}
