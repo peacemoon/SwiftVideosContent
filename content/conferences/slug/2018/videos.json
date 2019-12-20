@@ -1,0 +1,194 @@
+[
+  {
+    "id" : "slug_2018_bridging-objc-and-swift-json-jsonobjectdecoder",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "PZA9DS4LBAQ"
+    },
+    "name" : "Bridging Obj-C and Swift JSON: JSONObjectDecoder",
+    "authors" : [
+      {
+        "id" : "ben-asher",
+        "name" : "Ben Asher"
+      }
+    ],
+    "createdAt" : 1576854569.1642971
+  },
+  {
+    "id" : "slug_2018_grpc-ios-at-lyft",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Go3_72i8bjI"
+    },
+    "name" : "gRPC & iOS at Lyft",
+    "authors" : [
+      {
+        "id" : "michael-rebello",
+        "name" : "Michael Rebello"
+      }
+    ],
+    "createdAt" : 1576854619.6781311
+  },
+  {
+    "id" : "slug_2018_hashing-hashable-and-hash-values",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "MKIk8rH1OUQ"
+    },
+    "name" : "Hashing, Hashable, and Hash Values",
+    "authors" : [
+      {
+        "id" : "greg-heo",
+        "name" : "Greg Heo"
+      }
+    ],
+    "createdAt" : 1576854678.471915
+  },
+  {
+    "id" : "slug_2018_starting-a-mobile-design-system",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xB36hr7FQis"
+    },
+    "name" : "Starting a Mobile Design System",
+    "authors" : [
+      {
+        "id" : "sam-soffes",
+        "name" : "Sam Soffes"
+      }
+    ],
+    "createdAt" : 1576854810.1972499
+  },
+  {
+    "id" : "slug_2018_bespoke-artisanal-swift-static-analysis",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "n9Djp4ic7u8"
+    },
+    "name" : "Bespoke, Artisanal Swift Static Analysis",
+    "authors" : [
+      {
+        "id" : "jp-simard",
+        "name" : "JP Simard"
+      }
+    ],
+    "createdAt" : 1576854918.8499069
+  },
+  {
+    "id" : "slug_2018_convolutional-neural-networks-swift-and-ios-12",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jki130apVhI"
+    },
+    "name" : "Convolutional neural networks, Swift and iOS 12",
+    "authors" : [
+      {
+        "id" : "brett-koonce",
+        "name" : "Brett Koonce"
+      }
+    ],
+    "createdAt" : 1576854958.687114
+  },
+  {
+    "id" : "slug_2018_putting-your-app-on-a-diet",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "KDuhh5epXLo"
+    },
+    "name" : "Putting your app on a diet",
+    "authors" : [
+      {
+        "id" : "ellie-shin",
+        "name" : "Ellie Shin"
+      }
+    ],
+    "createdAt" : 1576855008.94719
+  },
+  {
+    "id" : "slug_2018_advanced-debugging-and-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "9Io2_W1iDLQ"
+    },
+    "name" : "Advanced Debugging and Swift",
+    "authors" : [
+      {
+        "id" : "dave-lee",
+        "name" : "Dave Lee"
+      }
+    ],
+    "createdAt" : 1576855117.963284
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2019_privacy-aware-logging-with-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nIGlxcUES_Q"
+    },
+    "name" : "Privacy Aware Logging with Swift",
+    "authors" : [
+      {
+        "id" : "oleg-dreyman",
+        "name" : "Oleg Dreyman"
+      }
+    ],
+    "createdAt" : 1576856106.5234718
+  },
+  "description" : "Sometimes when developing our app we're tempted to remote log as much information as possible. But by doing that, we might unintentionally compromise sensitive user data. In this talk, Oleg will show us how we can leverage powers of Swift to create a safer logging experience."
+}

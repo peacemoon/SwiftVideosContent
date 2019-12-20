@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2019_how-not-to-ab-test",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "NVQuBow1B10"
+    },
+    "name" : "How (not) to A\/B Test",
+    "authors" : [
+      {
+        "id" : "kyle-bashour",
+        "name" : "Kyle Bashour"
+      }
+    ],
+    "createdAt" : 1576855792.8800941
+  },
+  "description" : "How big is too big? How small is too small? Kyle will walk through how we A\/B test on iOS at Lyft, and lessons learned along the way."
+}

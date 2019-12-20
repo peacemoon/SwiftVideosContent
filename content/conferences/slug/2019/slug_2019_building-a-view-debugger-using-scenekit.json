@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2019_building-a-view-debugger-using-scenekit",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "S6YN2Bsde_Q"
+    },
+    "name" : "Building a view debugger using SceneKit",
+    "authors" : [
+      {
+        "id" : "indragie-karunaratne",
+        "name" : "Indragie Karunaratne"
+      }
+    ],
+    "createdAt" : 1576855897.5522652
+  },
+  "description" : "I recently open sourced a project called InAppViewDebugger (https:\/\/github.com\/indragiek\/InAppVie...), which implements a Reveal-style 3D snapshot view built using SceneKit. In this talk, I'll talk about the process of building this framework from the perspective of someone who has no experience building 3D UIs, and about building a Swift framework that is designed to be used from both Swift and Objective-C apps."
+}

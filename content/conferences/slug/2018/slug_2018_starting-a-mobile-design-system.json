@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "slug_2018_starting-a-mobile-design-system",
+    "conference" : {
+      "metaData" : {
+        "id" : "slug",
+        "name" : "Swift Language User Group"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xB36hr7FQis"
+    },
+    "name" : "Starting a Mobile Design System",
+    "authors" : [
+      {
+        "id" : "sam-soffes",
+        "name" : "Sam Soffes"
+      }
+    ],
+    "createdAt" : 1576854810.1972499
+  },
+  "description" : "A look at how Lyft building their mobile design system and tooling in Swift."
+}
