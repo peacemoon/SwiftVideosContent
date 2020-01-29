@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_lazy-load-to-launch-fast",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Jg1W2auGGXo"
+    },
+    "name" : "Lazy load to launch fast",
+    "authors" : [
+      {
+        "id" : "alexander-freas",
+        "name" : "Alexander Freas"
+      }
+    ],
+    "createdAt" : 1580326804.2954769
+  },
+  "description" : ""
+}

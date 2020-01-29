@@ -7619,6 +7619,342 @@
     ]
   },
   {
+    "id" : "swift-heroes_2019_invest-in-test-unit-testing-ios-applications",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ELtwTes7T-A"
+    },
+    "name" : "Invest in Test: Unit testing iOS applications",
+    "authors" : [
+      {
+        "id" : "jayesh-kawli",
+        "name" : "Jayesh Kawli"
+      }
+    ],
+    "createdAt" : 1580326553.9851561
+  },
+  {
+    "id" : "swift-heroes_2019_the-underestimated-power-of-keypaths",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "p76XTTTDUlU"
+    },
+    "name" : "The Underestimated Power of Keypaths",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ],
+    "createdAt" : 1580326600.950264
+  },
+  {
+    "id" : "swift-heroes_2019_wrapping-things-with-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "yJV4rMAStwA"
+    },
+    "name" : "Wrapping things with Combine",
+    "authors" : [
+      {
+        "id" : "stefano-mondino",
+        "name" : "Stefano Mondino"
+      }
+    ],
+    "createdAt" : 1580326623.110328
+  },
+  {
+    "id" : "swift-heroes_2019_designing-a-design-system",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "UFyx7EtbcMU"
+    },
+    "name" : "Designing a Design System",
+    "authors" : [
+      {
+        "id" : "shai-mishali",
+        "name" : "Shai Mishali"
+      }
+    ],
+    "createdAt" : 1580326691.0946
+  },
+  {
+    "id" : "swift-heroes_2019_bringing-swift-ui-to-your-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Dxkr-bq1L28"
+    },
+    "name" : "Bringing Swift UI to your App",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ],
+    "createdAt" : 1580326715.894522
+  },
+  {
+    "id" : "swift-heroes_2019_the-nomadic-approach-to-teaching-ios-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "j87C2TjyDPA"
+    },
+    "name" : "The Nomadic Approach to Teaching iOS Development",
+    "authors" : [
+      {
+        "id" : "vadim-drobinin",
+        "name" : "Vadim Drobinin"
+      }
+    ],
+    "createdAt" : 1580326740.69538
+  },
+  {
+    "id" : "swift-heroes_2019_green-development-is-it-even-a-thing",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "0y-4TyKB2UY"
+    },
+    "name" : "Green development: is it even a thing?",
+    "authors" : [
+      {
+        "id" : "aleksandra-komagorkina",
+        "name" : "Aleksandra Komagorkina"
+      }
+    ],
+    "createdAt" : 1580326767.5908799
+  },
+  {
+    "id" : "swift-heroes_2019_lazy-load-to-launch-fast",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Jg1W2auGGXo"
+    },
+    "name" : "Lazy load to launch fast",
+    "authors" : [
+      {
+        "id" : "alexander-freas",
+        "name" : "Alexander Freas"
+      }
+    ],
+    "createdAt" : 1580326804.2954769
+  },
+  {
+    "id" : "swift-heroes_2019_its-probably-fine",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1yT0AKl0LIA"
+    },
+    "name" : "Its Probably Fine",
+    "authors" : [
+      {
+        "id" : "cate-huston",
+        "name" : "Cate Huston"
+      }
+    ],
+    "createdAt" : 1580326826.047035
+  },
+  {
+    "id" : "swift-heroes_2019_how-to-hook-users-inside-your-app-design-marketing",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EWRzZ_Mf3cY"
+    },
+    "name" : "How to hook users inside your app: design & marketing",
+    "authors" : [
+      {
+        "id" : "lisa-dziuba",
+        "name" : "Lisa Dziuba"
+      }
+    ],
+    "createdAt" : 1580326849.5362248
+  },
+  {
+    "id" : "swift-heroes_2019_conquer-the-bot-world-with-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xUh6AlsRXFM"
+    },
+    "name" : "Conquer the Bot World with Swift ",
+    "authors" : [
+      {
+        "id" : "fabrizio-brancati",
+        "name" : "Fabrizio Brancati"
+      }
+    ],
+    "createdAt" : 1580326872.1926241
+  },
+  {
+    "id" : "swift-heroes_2019_swift-code-reuse-made-simple-packages-modules-libraries",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "w3QGc8wWTIg"
+    },
+    "name" : "Swift code reuse made simple: packages, modules, libraries",
+    "authors" : [
+      {
+        "id" : "julia-vashchenko",
+        "name" : "Julia Vashchenko"
+      }
+    ],
+    "createdAt" : 1580326894.960259
+  },
+  {
+    "id" : "swift-heroes_2019_advanced-swift-package-manager",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "g9bBph435Lc"
+    },
+    "name" : "Advanced Swift Package Manager",
+    "authors" : [
+      {
+        "id" : "tim-condon",
+        "name" : "Tim Condon"
+      }
+    ],
+    "createdAt" : 1580326914.832602
+  },
+  {
+    "id" : "swift-heroes_2019_building-modern-swift-frameworks",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "DzLKrv7B8_k"
+    },
+    "name" : "Building Modern Swift Frameworks",
+    "authors" : [
+      {
+        "id" : "omar-albeik",
+        "name" : "Omar Albeik"
+      }
+    ],
+    "createdAt" : 1580326936.1280708
+  },
+  {
     "id" : "swift-india_2019_building-a-meaningful-career",
     "conference" : {
       "metaData" : {

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_its-probably-fine",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1yT0AKl0LIA"
+    },
+    "name" : "Its Probably Fine",
+    "authors" : [
+      {
+        "id" : "cate-huston",
+        "name" : "Cate Huston"
+      }
+    ],
+    "createdAt" : 1580326826.047035
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_green-development-is-it-even-a-thing",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "=0y-4TyKB2UY"
+    },
+    "name" : "Green development: is it even a thing?",
+    "authors" : [
+      {
+        "id" : "aleksandra-komagorkina",
+        "name" : "Aleksandra Komagorkina"
+      }
+    ],
+    "createdAt" : 1580326767.5908799
+  },
+  "description" : ""
+}

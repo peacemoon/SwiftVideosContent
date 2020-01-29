@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_conquer-the-bot-world-with-swift",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "xUh6AlsRXFM"
+    },
+    "name" : "Conquer the Bot World with Swift ",
+    "authors" : [
+      {
+        "id" : "fabrizio-brancati",
+        "name" : "Fabrizio Brancati"
+      }
+    ],
+    "createdAt" : 1580326872.1926241
+  },
+  "description" : ""
+}

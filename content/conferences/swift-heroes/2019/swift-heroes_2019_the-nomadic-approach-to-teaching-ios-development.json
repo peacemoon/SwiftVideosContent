@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_the-nomadic-approach-to-teaching-ios-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "j87C2TjyDPA"
+    },
+    "name" : "The Nomadic Approach to Teaching iOS Development",
+    "authors" : [
+      {
+        "id" : "vadim-drobinin",
+        "name" : "Vadim Drobinin"
+      }
+    ],
+    "createdAt" : 1580326740.69538
+  },
+  "description" : ""
+}
