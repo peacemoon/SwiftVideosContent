@@ -916,12 +916,68 @@
     "name" : "Andrea Baldon"
   },
   {
-    "id" : "daniel-kennett",
-    "name" : "Daniel Kennett"
+    "id" : "ben-asher",
+    "name" : "Ben Asher"
+  },
+  {
+    "id" : "michael-rebello",
+    "name" : "Michael Rebello"
+  },
+  {
+    "id" : "greg-heo",
+    "name" : "Greg Heo"
+  },
+  {
+    "id" : "sam-soffes",
+    "name" : "Sam Soffes"
   },
   {
     "id" : "jp-simard",
     "name" : "JP Simard"
+  },
+  {
+    "id" : "dave-lee",
+    "name" : "Dave Lee"
+  },
+  {
+    "id" : "theophane-rupin",
+    "name" : "Theophane Rupin"
+  },
+  {
+    "id" : "patrick-barry",
+    "name" : "Patrick Barry"
+  },
+  {
+    "id" : "noah-gilmore",
+    "name" : "Noah Gilmore"
+  },
+  {
+    "id" : "kyle-bashour",
+    "name" : "Kyle Bashour"
+  },
+  {
+    "id" : "indragie-karunaratne",
+    "name" : "Indragie Karunaratne"
+  },
+  {
+    "id" : "oleg-dreyman",
+    "name" : "Oleg Dreyman"
+  },
+  {
+    "id" : "robert-widmann",
+    "name" : "Robert Widmann"
+  },
+  {
+    "id" : "adam-bell",
+    "name" : "Adam Bell"
+  },
+  {
+    "id" : "tim-roesner",
+    "name" : "Tim Roesner"
+  },
+  {
+    "id" : "daniel-kennett",
+    "name" : "Daniel Kennett"
   },
   {
     "id" : "anastasiia-vixentael",
@@ -968,6 +1024,34 @@
     "name" : "Rikke Koblauch"
   },
   {
+    "id" : "shai-mishali",
+    "name" : "Shai Mishali"
+  },
+  {
+    "id" : "alexander-freas",
+    "name" : "Alexander Freas"
+  },
+  {
+    "id" : "cate-huston",
+    "name" : "Cate Huston"
+  },
+  {
+    "id" : "lisa-dziuba",
+    "name" : "Lisa Dziuba"
+  },
+  {
+    "id" : "fabrizio-brancati",
+    "name" : "Fabrizio Brancati"
+  },
+  {
+    "id" : "julia-vashchenko",
+    "name" : "Julia Vashchenko"
+  },
+  {
+    "id" : "omar-albeik",
+    "name" : "Omar Albeik"
+  },
+  {
     "id" : "gopal-sharma",
     "name" : "Gopal Sharma"
   },
@@ -978,10 +1062,6 @@
   {
     "id" : "abhishek-pandey",
     "name" : "Abhishek Pandey"
-  },
-  {
-    "id" : "noah-gilmore",
-    "name" : "Noah Gilmore"
   },
   {
     "id" : "amruta-itagi",
@@ -1144,16 +1224,8 @@
     "name" : "Marc Aupont"
   },
   {
-    "id" : "cate-huston",
-    "name" : "Cate Huston"
-  },
-  {
     "id" : "eli-budelli",
     "name" : "Eli Budelli"
-  },
-  {
-    "id" : "shai-mishali",
-    "name" : "Shai Mishali"
   },
   {
     "id" : "anne-cahalan",
@@ -1218,10 +1290,6 @@
   {
     "id" : "yusuke-hosonuma",
     "name" : "Yusuke Hosonuma"
-  },
-  {
-    "id" : "adam-bell",
-    "name" : "Adam Bell"
   },
   {
     "id" : "rina-kotake",
@@ -1342,10 +1410,6 @@
   {
     "id" : "shannon-hughes",
     "name" : "Shannon Hughes"
-  },
-  {
-    "id" : "lisa-dziuba",
-    "name" : "Lisa Dziuba"
   },
   {
     "id" : "apple",

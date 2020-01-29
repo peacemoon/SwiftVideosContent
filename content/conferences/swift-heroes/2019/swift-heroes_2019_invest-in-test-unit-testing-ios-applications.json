@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_invest-in-test-unit-testing-ios-applications",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ELtwTes7T-A"
+    },
+    "name" : "Invest in Test: Unit testing iOS applications",
+    "authors" : [
+      {
+        "id" : "jayesh-kawli",
+        "name" : "Jayesh Kawli"
+      }
+    ],
+    "createdAt" : 1580326553.9851561
+  },
+  "description" : ""
+}

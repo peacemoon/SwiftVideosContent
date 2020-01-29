@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_swift-code-reuse-made-simple-packages-modules-libraries",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "w3QGc8wWTIg"
+    },
+    "name" : "Swift code reuse made simple: packages, modules, libraries",
+    "authors" : [
+      {
+        "id" : "julia-vashchenko",
+        "name" : "Julia Vashchenko"
+      }
+    ],
+    "createdAt" : 1580326894.960259
+  },
+  "description" : ""
+}

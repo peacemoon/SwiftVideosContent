@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_how-to-hook-users-inside-your-app-design-marketing",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EWRzZ_Mf3cY"
+    },
+    "name" : "How to hook users inside your app: design & marketing",
+    "authors" : [
+      {
+        "id" : "lisa-dziuba",
+        "name" : "Lisa Dziuba"
+      }
+    ],
+    "createdAt" : 1580326849.5362248
+  },
+  "description" : ""
+}

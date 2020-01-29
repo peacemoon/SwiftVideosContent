@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_advanced-swift-package-manager",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "g9bBph435Lc"
+    },
+    "name" : "Advanced Swift Package Manager",
+    "authors" : [
+      {
+        "id" : "tim-condon",
+        "name" : "Tim Condon"
+      }
+    ],
+    "createdAt" : 1580326914.832602
+  },
+  "description" : ""
+}

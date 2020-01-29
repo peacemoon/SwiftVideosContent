@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swift-heroes_2019_the-underestimated-power-of-keypaths",
+    "conference" : {
+      "metaData" : {
+        "id" : "swift-heroes",
+        "name" : "Swift Heroes"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "p76XTTTDUlU"
+    },
+    "name" : "The Underestimated Power of Keypaths",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ],
+    "createdAt" : 1580326600.950264
+  },
+  "description" : ""
+}
