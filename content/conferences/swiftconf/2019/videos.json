@@ -1,0 +1,194 @@
+[
+  {
+    "id" : "swiftconf_2019_solving-the-15puzzle-in-swift-a-look-at-algorithms-and-speed",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "PgZ3afnuVa4"
+    },
+    "name" : "Solving the 15-puzzle in Swift: A Look At Algorithms And Speed",
+    "authors" : [
+      {
+        "id" : "bas-broek",
+        "name" : "Bas Broek"
+      }
+    ],
+    "createdAt" : 1580465891.6878529
+  },
+  {
+    "id" : "swiftconf_2019_ui-code-that-sparks-joy",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "grFo3cO0Htw"
+    },
+    "name" : "UI Code That Sparks Joy",
+    "authors" : [
+      {
+        "id" : "nataliya-patsovska",
+        "name" : "Nataliya Patsovska"
+      }
+    ],
+    "createdAt" : 1580465956.260792
+  },
+  {
+    "id" : "swiftconf_2019_a-functional-look-at-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Z72w5NtmyjM"
+    },
+    "name" : "A Functional look at Combine",
+    "authors" : [
+      {
+        "id" : "a-functional-look-at-combine",
+        "name" : "A Functional look at Combine"
+      }
+    ],
+    "createdAt" : 1580466913.779985
+  },
+  {
+    "id" : "swiftconf_2019_crisis-of-iamdeveloper",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "hJWyx1CYFx4"
+    },
+    "name" : "Crisis of #Iamdeveloper",
+    "authors" : [
+      {
+        "id" : "kateryna-gridina",
+        "name" : "Kateryna Gridina"
+      }
+    ],
+    "createdAt" : 1580470536.5007238
+  },
+  {
+    "id" : "swiftconf_2019_best-practices",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nIHfhPozB3k"
+    },
+    "name" : "Best Practices",
+    "authors" : [
+      {
+        "id" : "roy-marmelstein",
+        "name" : "Roy Marmelstein"
+      }
+    ],
+    "createdAt" : 1580470631.989382
+  },
+  {
+    "id" : "swiftconf_2019_why-we-should-all-tell-stories",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Fiw7HFTC6_w"
+    },
+    "name" : "Why We Should All Tell Stories",
+    "authors" : [
+      {
+        "id" : "maxim-cramer",
+        "name" : "Maxim Cramer"
+      }
+    ],
+    "createdAt" : 1580470661.2162671
+  },
+  {
+    "id" : "swiftconf_2019_psychology-at-play",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fjZuKLf4m5E"
+    },
+    "name" : "Psychology at Play",
+    "authors" : [
+      {
+        "id" : "dori-adar",
+        "name" : "Dori Adar"
+      }
+    ],
+    "createdAt" : 1580734239.962266
+  },
+  {
+    "id" : "swiftconf_2019_implementing-pseudokeywords-through-functional-programming",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jWGzK-0l3w4"
+    },
+    "name" : "Implementing pseudo-keywords through functional programming",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ],
+    "createdAt" : 1580734268.1973062
+  }
+]

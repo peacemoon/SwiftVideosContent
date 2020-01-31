@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2018_serverside-swift-without-the-servers",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "OSweJ0ybnUI"
+    },
+    "name" : " Server-side swift without the servers?",
+    "authors" : [
+      {
+        "id" : "mateusz-stawecki",
+        "name" : "Mateusz Stawecki"
+      }
+    ],
+    "createdAt" : 1580471331.3921409
+  },
+  "description" : ""
+}

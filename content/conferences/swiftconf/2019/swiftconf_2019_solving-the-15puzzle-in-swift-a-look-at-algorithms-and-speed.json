@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2019_solving-the-15puzzle-in-swift-a-look-at-algorithms-and-speed",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "PgZ3afnuVa4"
+    },
+    "name" : "Solving the 15-puzzle in Swift: A Look At Algorithms And Speed",
+    "authors" : [
+      {
+        "id" : "bas-broek",
+        "name" : "Bas Broek"
+      }
+    ],
+    "createdAt" : 1580465891.6878529
+  },
+  "description" : "Algorithms and optimization can sound daunting, but are a really interesting programming problem. In this talk, we'll be looking at writing a solver for a puzzle, improving it along the way by making it more performant."
+}

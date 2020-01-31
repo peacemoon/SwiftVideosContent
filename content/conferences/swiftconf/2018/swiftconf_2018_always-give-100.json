@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2018_always-give-100",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aPnT-n-igEI"
+    },
+    "name" : "Always Give 100%",
+    "authors" : [
+      {
+        "id" : "jakub-turek",
+        "name" : "Jakub Turek"
+      }
+    ],
+    "createdAt" : 1580471093.5027142
+  },
+  "description" : "The talk is about unit testing and developing iOS apps in TDD with Swift. It will cover a plethora of tips and techniques that me and the team has discovered en route to the app with 200K lines of Swift at nearly 100% code coverage."
+}

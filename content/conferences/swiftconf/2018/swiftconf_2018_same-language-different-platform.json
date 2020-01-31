@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2018_same-language-different-platform",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vesAhaiaujA"
+    },
+    "name" : "Same language, different platform",
+    "authors" : [
+      {
+        "id" : "steffen-sommer",
+        "name" : "Steffen Sommer"
+      }
+    ],
+    "createdAt" : 1580471172.5665889
+  },
+  "description" : ""
+}

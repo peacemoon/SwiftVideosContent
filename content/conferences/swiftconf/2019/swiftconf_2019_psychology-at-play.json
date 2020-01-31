@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2019_psychology-at-play",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fjZuKLf4m5E"
+    },
+    "name" : "Psychology at Play",
+    "authors" : [
+      {
+        "id" : "dori-adar",
+        "name" : "Dori Adar"
+      }
+    ],
+    "createdAt" : 1580734239.962266
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2018_grow-your-own-model-ml-on-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nIUXzpp78k8"
+    },
+    "name" : "Grow your own model (ML on iOS)",
+    "authors" : [
+      {
+        "id" : "manu-rink",
+        "name" : "Manu Rink"
+      }
+    ],
+    "createdAt" : 1580471196.1008301
+  },
+  "description" : ""
+}

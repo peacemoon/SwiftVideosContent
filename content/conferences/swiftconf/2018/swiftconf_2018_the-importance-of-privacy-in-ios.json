@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2018_the-importance-of-privacy-in-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "MM3elvG9edY"
+    },
+    "name" : "The importance of Privacy in iOS",
+    "authors" : [
+      {
+        "id" : "stuff",
+        "name" : "Stuff"
+      }
+    ],
+    "createdAt" : 1580471012.100513
+  },
+  "description" : ""
+}

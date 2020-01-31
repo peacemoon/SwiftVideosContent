@@ -1204,6 +1204,50 @@
     "name" : "Kyle Newsome"
   },
   {
+    "id" : "oscar-falmer",
+    "name" : "Oscar Falmer"
+  },
+  {
+    "id" : "stuff",
+    "name" : "Stuff"
+  },
+  {
+    "id" : "jakub-turek",
+    "name" : "Jakub Turek"
+  },
+  {
+    "id" : "egor-tolstoy",
+    "name" : "Egor Tolstoy"
+  },
+  {
+    "id" : "steffen-sommer",
+    "name" : "Steffen Sommer"
+  },
+  {
+    "id" : "manu-rink",
+    "name" : "Manu Rink"
+  },
+  {
+    "id" : "mateusz-stawecki",
+    "name" : "Mateusz Stawecki"
+  },
+  {
+    "id" : "bas-broek",
+    "name" : "Bas Broek"
+  },
+  {
+    "id" : "a-functional-look-at-combine",
+    "name" : "A Functional look at Combine"
+  },
+  {
+    "id" : "maxim-cramer",
+    "name" : "Maxim Cramer"
+  },
+  {
+    "id" : "dori-adar",
+    "name" : "Dori Adar"
+  },
+  {
     "id" : "joannis-orlandos",
     "name" : "Joannis Orlandos"
   },
@@ -1262,10 +1306,6 @@
   {
     "id" : "erica-correa",
     "name" : "Erica Correa"
-  },
-  {
-    "id" : "bas-broek",
-    "name" : "Bas Broek"
   },
   {
     "id" : "sebastiaan-de-with",
@@ -1378,10 +1418,6 @@
   {
     "id" : "ryo-izumi",
     "name" : "Ryo Izumi"
-  },
-  {
-    "id" : "maxim-cramer",
-    "name" : "Maxim Cramer"
   },
   {
     "id" : "nobuo-saito",
