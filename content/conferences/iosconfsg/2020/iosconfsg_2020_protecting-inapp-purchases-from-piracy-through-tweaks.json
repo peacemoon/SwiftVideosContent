@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_protecting-inapp-purchases-from-piracy-through-tweaks",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "B2Kgqq3GiJQ"
+    },
+    "name" : "Protecting in-app purchases from piracy through tweaks",
+    "authors" : [
+      {
+        "id" : "damian-malarczyk",
+        "name" : "Damian Malarczyk"
+      }
+    ],
+    "createdAt" : 1580735204.9033971
+  },
+  "description" : "Piracy is a major problem for iOS app developers as it directly impacts revenue. At the same time, it is incredibly easy for users to gain access to paid content for free. All they need to do is download and install freely available tweaks. In this talk, Damian will explain what you can do to protect your premium in-app content and functionality."
+}

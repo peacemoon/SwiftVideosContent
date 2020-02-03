@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_global-variable-oriented-programming",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CyQ59ZfT5E0"
+    },
+    "name" : "Global Variable Oriented Programming",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ],
+    "createdAt" : 1580734707.0526509
+  },
+  "description" : "In this talk, Paul will walk you through the glorious history of global variables in software development, demonstrate why they aren’t going away any time soon, and even show you how you can use reflection, property wrappers, and Combine to get a little bit of global variable magic in your UIKit code."
+}

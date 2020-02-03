@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_designing-your-app-to-be-discoverable",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ZZamXbKLLiI"
+    },
+    "name" : "Designing Your App to be Discoverable",
+    "authors" : [
+      {
+        "id" : "dave-verwer",
+        "name" : "Dave Verwer"
+      }
+    ],
+    "createdAt" : 1580734593.7233081
+  },
+  "description" : ""
+}

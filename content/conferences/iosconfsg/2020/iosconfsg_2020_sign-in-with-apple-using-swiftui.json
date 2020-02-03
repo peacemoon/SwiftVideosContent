@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_sign-in-with-apple-using-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "esWENJ3igQw"
+    },
+    "name" : "Sign in with Apple using SwiftUI",
+    "authors" : [
+      {
+        "id" : "scott-grosch",
+        "name" : "Scott Grosch"
+      }
+    ],
+    "createdAt" : 1580734978.1300991
+  },
+  "description" : "Learn how to implement Sign in with Apple using SwiftUI, to give users more privacy and control in your iOS apps."
+}

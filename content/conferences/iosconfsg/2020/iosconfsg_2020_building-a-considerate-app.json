@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_building-a-considerate-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "c7OZbss-SK8"
+    },
+    "name" : "Building a considerate app",
+    "authors" : [
+      {
+        "id" : "jeff-watkins",
+        "name" : "Jeff Watkins"
+      }
+    ],
+    "createdAt" : 1580735099.8298941
+  },
+  "description" : "We're all working hard to add the latest platform features to our applications, whether that's machine learning, augmented reality, or declarative user interfaces, but we really want our apps to be a success, we must understand our users and accommodate their needs. Let's take a look at how you can use Voice Over, Localisation, and Dynamic Type to make an app that adapts better to the needs of your users."
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_deprecated-monolith-available-modules",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CKbAThSlHKE"
+    },
+    "name" : "@deprecated Monolith @available Modules",
+    "authors" : [
+      {
+        "id" : "luis-ascorbe",
+        "name" : "Luis Ascorbe"
+      }
+    ],
+    "createdAt" : 1580735066.193145
+  },
+  "description" : "At his previous company Wallapop, Luis and his team have been fight with modules for over 2 years. While they were looking for the best solution to split the app, they've a hit a serious compiler bug several times which didn't let us build the app. In this talk he'd like to tell the story how they were changing the project over time to make it scalable. What worked, and what didn't, where they failed, and what't the current state is."
+}

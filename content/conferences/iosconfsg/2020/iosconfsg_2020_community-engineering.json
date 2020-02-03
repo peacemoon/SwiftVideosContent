@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_community-engineering",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3WpzH5UJPss"
+    },
+    "name" : "Community Engineering",
+    "authors" : [
+      {
+        "id" : "tamar-nachmany",
+        "name" : "Tamar Nachmany"
+      }
+    ],
+    "createdAt" : 1580735148.7211461
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_building-secure-ios-apps-you-dont-have-to-learn-it-the-hard-way",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "b6LI6j_aJ9k"
+    },
+    "name" : "Building Secure iOS Apps (you don’t have to learn it the hard way!)",
+    "authors" : [
+      {
+        "id" : "sven-schleier",
+        "name" : "Sven Schleier"
+      }
+    ],
+    "createdAt" : 1580734743.6161981
+  },
+  "description" : "As an iOS developer you might ask yourself, what are the attacks I should be concerned about, e.g. is it possible to bypass Touch ID? In this talk Sven will make a deep dive into security on iOS Apps, and then head off into some nice mobile hacking demos. Learn what is needed to secure your iOS app?"
+}
