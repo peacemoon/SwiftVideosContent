@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "mobiconf_2019_learnings-from-building-design-systems-at-xing",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aDPx6gJcam8"
+    },
+    "name" : "Learnings from building Design Systems at XING",
+    "authors" : [
+      {
+        "id" : "benedikt-terhechte",
+        "name" : "Benedikt Terhechte"
+      }
+    ],
+    "createdAt" : 1580766705.6048861
+  },
+  "description" : "Design systems are a way of organizing the visual look of your app with a certain pattern. This talk will discuss design systems from a developers perspective. After a brief introduction, it will showcase the benefits that such a system brings to the development of an app, but also the challenges when implementing it. The talk will showcase different approaches to implementing design systems based on the learnings of multiple years of working with them within the XING app."
+}

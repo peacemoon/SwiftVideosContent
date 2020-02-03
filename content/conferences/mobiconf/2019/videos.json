@@ -115,5 +115,125 @@
       }
     ],
     "createdAt" : 1573770426.5584469
+  },
+  {
+    "id" : "mobiconf_2019_pushing-protocols-to-their-limits",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jDvk7nztqHw"
+    },
+    "name" : "Pushing Protocols to Their Limits",
+    "authors" : [
+      {
+        "id" : "joshua-garnham",
+        "name" : "Joshua Garnham"
+      }
+    ],
+    "createdAt" : 1580766504.93488
+  },
+  {
+    "id" : "mobiconf_2019_iamdeveloper-choice",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "l4T1tZNtT_A"
+    },
+    "name" : "#Iamdeveloper choice",
+    "authors" : [
+      {
+        "id" : "kateryna-gridina",
+        "name" : "Kateryna Gridina"
+      }
+    ],
+    "createdAt" : 1580766559.2999749
+  },
+  {
+    "id" : "mobiconf_2019_shipping-a-catalyst-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QiUPrPIGgjs"
+    },
+    "name" : "Shipping a Catalyst app",
+    "authors" : [
+      {
+        "id" : "peter-steinberger",
+        "name" : "Peter Steinberger"
+      }
+    ],
+    "createdAt" : 1580766658.9691119
+  },
+  {
+    "id" : "mobiconf_2019_learnings-from-building-design-systems-at-xing",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aDPx6gJcam8"
+    },
+    "name" : "Learnings from building Design Systems at XING",
+    "authors" : [
+      {
+        "id" : "benedikt-terhechte",
+        "name" : "Benedikt Terhechte"
+      }
+    ],
+    "createdAt" : 1580766705.6048861
+  },
+  {
+    "id" : "mobiconf_2019_building-an-app-with-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ublL11FpZgQ"
+    },
+    "name" : "Building an app with Combine",
+    "authors" : [
+      {
+        "id" : "antoine-van-der-lee",
+        "name" : "Antoine van der Lee"
+      }
+    ],
+    "createdAt" : 1580766766.2328901
   }
 ]

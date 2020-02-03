@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "mobiconf_2019_pushing-protocols-to-their-limits",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jDvk7nztqHw"
+    },
+    "name" : "Pushing Protocols to Their Limits",
+    "authors" : [
+      {
+        "id" : "joshua-garnham",
+        "name" : "Joshua Garnham"
+      }
+    ],
+    "createdAt" : 1580766504.93488
+  },
+  "description" : "With the great power of protocols in Swift comes great responsibility. In this session we’ll build on the teachings of Crusty and look at how we can push protocols to their limits, making use of associated types as well as navigating the minefield that is Collection conformance. Here we’ll discover some pitfalls of the protocol based approach and take a look at some solutions, focussing on the weird and wonderful world that is type erasure."
+}

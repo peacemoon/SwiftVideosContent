@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "mobiconf_2019_shipping-a-catalyst-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QiUPrPIGgjs"
+    },
+    "name" : "Shipping a Catalyst app",
+    "authors" : [
+      {
+        "id" : "peter-steinberger",
+        "name" : "Peter Steinberger"
+      }
+    ],
+    "createdAt" : 1580766658.9691119
+  },
+  "description" : "PSPDFKit ported PDF Viewer (https:\/\/pdfviewer.io), a project with over 2 MLOC and lots of UIKit code to the mac via Catalyst. Having played with “Marzipan” in 2018, the team was able to port their huge app in a relative short timeframe. Learn what you have to do after checking the [X] Mac checkbox, how far Catalyst can be pushed, how it interacts with AppKit, and how to work around the worst bugs. We’ll show real code, a selection of r̵a̵d̵a̵r̵ Feedback Assistant items, strategies to keep code branching low, and some design alterations that were necessary to make it feel more at home on the Mac."
+}
