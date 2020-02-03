@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "mobiconf_2019_building-an-app-with-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ublL11FpZgQ"
+    },
+    "name" : "Building an app with Combine",
+    "authors" : [
+      {
+        "id" : "antoine-van-der-lee",
+        "name" : "Antoine van der Lee"
+      }
+    ],
+    "createdAt" : 1580766766.2328901
+  },
+  "description" : "In this workshop, you’ll learn how to build an app with the Combine framework which is released by Apple during WWDC 2019. Combine allows you to write functional reactive code by providing a declarative Swift API and can be compared to frameworks like RxSwift and ReactiveSwift (formally known as ReactiveCocoa).The workshop will teach you the basics of Combine, when to use it and when to stick with composition. After a short presentation which shows all principles of Combine, you will code yourself through a four steps example app which challenges you to complete and reach level 4."
+}

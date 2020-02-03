@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "mobiconf_2019_iamdeveloper-choice",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "l4T1tZNtT_A"
+    },
+    "name" : "#Iamdeveloper choice",
+    "authors" : [
+      {
+        "id" : "kateryna-gridina",
+        "name" : "Kateryna Gridina"
+      }
+    ],
+    "createdAt" : 1580766559.2999749
+  },
+  "description" : "Sometimes, we know what we want. Other times, we don‘t. We make thousands of decisions every day. Some questions we ask ourselves: what is the next step in my career? Will I always be a developer? Did I reach the ceiling as a developer? Am I confused by trying to figure out what‘s next for me? If those questions have never crossed your mind, join the talk to hear my story. If they did – join my talk to, maybe, create your own new story."
+}
