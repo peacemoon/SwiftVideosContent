@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_continuous-integration-for-ios-with-bitrise",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "IDDTOhZKBaU"
+    },
+    "name" : "Continuous Integration for iOS with Bitrise",
+    "authors" : [
+      {
+        "id" : "anna-alexi",
+        "name" : "Anna Alexi"
+      }
+    ],
+    "createdAt" : 1580734823.6237669
+  },
+  "description" : ""
+}

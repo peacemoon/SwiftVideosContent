@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_bring-me-to-life-a-tale-of-dyld-and-how-ios-launches-your-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "p-dvAOHlLEc"
+    },
+    "name" : "Bring me to life; A tale of dyld, and how iOS launches your app",
+    "authors" : [
+      {
+        "id" : "omer-iqbal",
+        "name" : "Omer Iqbal"
+      }
+    ],
+    "createdAt" : 1580734955.269201
+  },
+  "description" : "What exactly happens before the OS calls your 'main' function? How does iOS know which libraries to load before then? And how can you optimise your startup time? This talk will take a deep look at the launch process, and how iOS’s dynamic linker (lovingly called dyld) resolves library dependencies and loads them in memory."
+}

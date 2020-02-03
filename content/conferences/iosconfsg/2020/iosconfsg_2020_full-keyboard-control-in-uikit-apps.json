@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_full-keyboard-control-in-uikit-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gFnhvZIoTLc"
+    },
+    "name" : "Full Keyboard Control in UIKit Apps",
+    "authors" : [
+      {
+        "id" : "douglas-hill",
+        "name" : "Douglas Hill"
+      }
+    ],
+    "createdAt" : 1580734796.7591128
+  },
+  "description" : "The best apps go beyond keyboard shortcuts by supporting full keyboard control. This talk will explore how to do that in your UIKit app, whether it runs on an iPad or uses Catalyst to run on a Mac."
+}

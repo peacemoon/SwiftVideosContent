@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_graphql-for-people-who-dont-need-it",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gDoSAD9rc3Y"
+    },
+    "name" : "GraphQL for people who don’t need it",
+    "authors" : [
+      {
+        "id" : "choon-keat-chew",
+        "name" : "Choon Keat Chew"
+      }
+    ],
+    "createdAt" : 1580734849.5436759
+  },
+  "description" : ""
+}

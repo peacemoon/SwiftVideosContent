@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_scripting-in-swift-for-a-testable-build",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "tohaS-UYTYg"
+    },
+    "name" : "Scripting in Swift For a Testable Build",
+    "authors" : [
+      {
+        "id" : "ellen-shapiro",
+        "name" : "Ellen Shapiro"
+      }
+    ],
+    "createdAt" : 1580734926.763716
+  },
+  "description" : "Underlying many large iOS projects is a tangled nest of bash scripts that developers are often afraid to touch for fear of breaking something, and which is littered with print statements from generations of developers trying to figure out how on earth it works. How can we move away from this mess and to something more sustainable? Ellen will discuss moving a codebase like this to a command line tool that can be called from a Swift script, and which can be tested and breakpointed, and just might save a tiny bit of your sanity."
+}
