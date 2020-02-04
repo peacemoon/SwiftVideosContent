@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_declarative-networking-with-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Eu36rlm_Mrw"
+    },
+    "name" : "Declarative Networking with Combine",
+    "authors" : [
+      {
+        "id" : "ritesh-gupta",
+        "name" : "Ritesh Gupta"
+      }
+    ],
+    "createdAt" : 1580813322.8175011
+  },
+  "description" : "Combine is a new reactive framework by Apple which provides a declarative Swift API for handling asynchronous tasks. This talk will explore how we can form a declarative networking layer using Combine. We will take advantage of the existing combine operators like DataTaskPublisher, Just, Fail, Catch, etc to define (i.e. validate and parse) success and error streams declaratively."
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_explain-me-metal-like-im-5",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "zXBEJzAaHY8"
+    },
+    "name" : "Explain me Metal like I'm 5",
+    "authors" : [
+      {
+        "id" : "andrey-volodin",
+        "name" : "Andrey Volodin"
+      }
+    ],
+    "createdAt" : 1580813095.815491
+  },
+  "description" : "This talk is dedicated for the audience that has minimal or no experience with GPU programming on iOS or elsewhere. We will go through on how GPU works and what specific distinction Metal has. Andrey will show how to write modern Metal pipeline that works just blazingly fast and can be easily understood."
+}
