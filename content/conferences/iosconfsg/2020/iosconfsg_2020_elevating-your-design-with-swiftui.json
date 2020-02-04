@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "iosconfsg_2020_elevating-your-design-with-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jH2uz4iL5xI"
+    },
+    "name" : "Elevating your design with SwiftUI",
+    "authors" : [
+      {
+        "id" : "meng-to",
+        "name" : "Meng To"
+      }
+    ],
+    "createdAt" : 1580813287.2906499
+  },
+  "description" : "Make less design mistakes by following the standards set by SwiftUI. Learn how it provides great practices for colors, padding, adaptive layout, alignment guides, dynamic types and more."
+}

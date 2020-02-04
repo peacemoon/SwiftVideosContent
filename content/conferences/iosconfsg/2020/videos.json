@@ -382,5 +382,101 @@
       }
     ],
     "createdAt" : 1580735232.3298731
+  },
+  {
+    "id" : "iosconfsg_2020_explain-me-metal-like-im-5",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "zXBEJzAaHY8"
+    },
+    "name" : "Explain me Metal like I'm 5",
+    "authors" : [
+      {
+        "id" : "andrey-volodin",
+        "name" : "Andrey Volodin"
+      }
+    ],
+    "createdAt" : 1580813095.815491
+  },
+  {
+    "id" : "iosconfsg_2020_property-wrappers-or-how-swift-decided-to-become-java",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ztXo4Bn2Uss"
+    },
+    "name" : "Property Wrappers or How Swift decided to become Java ",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ],
+    "createdAt" : 1580813260.426379
+  },
+  {
+    "id" : "iosconfsg_2020_elevating-your-design-with-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jH2uz4iL5xI"
+    },
+    "name" : "Elevating your design with SwiftUI",
+    "authors" : [
+      {
+        "id" : "meng-to",
+        "name" : "Meng To"
+      }
+    ],
+    "createdAt" : 1580813287.2906499
+  },
+  {
+    "id" : "iosconfsg_2020_declarative-networking-with-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Eu36rlm_Mrw"
+    },
+    "name" : "Declarative Networking with Combine",
+    "authors" : [
+      {
+        "id" : "ritesh-gupta",
+        "name" : "Ritesh Gupta"
+      }
+    ],
+    "createdAt" : 1580813322.8175011
   }
 ]
