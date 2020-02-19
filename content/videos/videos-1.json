@@ -5215,6 +5215,486 @@
     ]
   },
   {
+    "id" : "iosconfsg_2020_designing-your-app-to-be-discoverable",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ZZamXbKLLiI"
+    },
+    "name" : "Designing Your App to be Discoverable",
+    "authors" : [
+      {
+        "id" : "dave-verwer",
+        "name" : "Dave Verwer"
+      }
+    ],
+    "createdAt" : 1580734593.7233081
+  },
+  {
+    "id" : "iosconfsg_2020_global-variable-oriented-programming",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CyQ59ZfT5E0"
+    },
+    "name" : "Global Variable Oriented Programming",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ],
+    "createdAt" : 1580734707.0526509
+  },
+  {
+    "id" : "iosconfsg_2020_building-secure-ios-apps-you-dont-have-to-learn-it-the-hard-way",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "b6LI6j_aJ9k"
+    },
+    "name" : "Building Secure iOS Apps (you don’t have to learn it the hard way!)",
+    "authors" : [
+      {
+        "id" : "sven-schleier",
+        "name" : "Sven Schleier"
+      }
+    ],
+    "createdAt" : 1580734743.6161981
+  },
+  {
+    "id" : "iosconfsg_2020_full-keyboard-control-in-uikit-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gFnhvZIoTLc"
+    },
+    "name" : "Full Keyboard Control in UIKit Apps",
+    "authors" : [
+      {
+        "id" : "douglas-hill",
+        "name" : "Douglas Hill"
+      }
+    ],
+    "createdAt" : 1580734796.7591128
+  },
+  {
+    "id" : "iosconfsg_2020_continuous-integration-for-ios-with-bitrise",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "IDDTOhZKBaU"
+    },
+    "name" : "Continuous Integration for iOS with Bitrise",
+    "authors" : [
+      {
+        "id" : "anna-alexi",
+        "name" : "Anna Alexi"
+      }
+    ],
+    "createdAt" : 1580734823.6237669
+  },
+  {
+    "id" : "iosconfsg_2020_graphql-for-people-who-dont-need-it",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "gDoSAD9rc3Y"
+    },
+    "name" : "GraphQL for people who don’t need it",
+    "authors" : [
+      {
+        "id" : "choon-keat-chew",
+        "name" : "Choon Keat Chew"
+      }
+    ],
+    "createdAt" : 1580734849.5436759
+  },
+  {
+    "id" : "iosconfsg_2020_scripting-in-swift-for-a-testable-build",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "tohaS-UYTYg"
+    },
+    "name" : "Scripting in Swift For a Testable Build",
+    "authors" : [
+      {
+        "id" : "ellen-shapiro",
+        "name" : "Ellen Shapiro"
+      }
+    ],
+    "createdAt" : 1580734926.763716
+  },
+  {
+    "id" : "iosconfsg_2020_bring-me-to-life-a-tale-of-dyld-and-how-ios-launches-your-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "p-dvAOHlLEc"
+    },
+    "name" : "Bring me to life; A tale of dyld, and how iOS launches your app",
+    "authors" : [
+      {
+        "id" : "omer-iqbal",
+        "name" : "Omer Iqbal"
+      }
+    ],
+    "createdAt" : 1580734955.269201
+  },
+  {
+    "id" : "iosconfsg_2020_sign-in-with-apple-using-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "esWENJ3igQw"
+    },
+    "name" : "Sign in with Apple using SwiftUI",
+    "authors" : [
+      {
+        "id" : "scott-grosch",
+        "name" : "Scott Grosch"
+      }
+    ],
+    "createdAt" : 1580734978.1300991
+  },
+  {
+    "id" : "iosconfsg_2020_swiftui-and-svg",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "bXRsXqt2GhY"
+    },
+    "name" : "SwiftUI and SVG",
+    "authors" : [
+      {
+        "id" : "matt-delves",
+        "name" : "Matt Delves"
+      }
+    ],
+    "createdAt" : 1580735007.333081
+  },
+  {
+    "id" : "iosconfsg_2020_deprecated-monolith-available-modules",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CKbAThSlHKE"
+    },
+    "name" : "@deprecated Monolith @available Modules",
+    "authors" : [
+      {
+        "id" : "luis-ascorbe",
+        "name" : "Luis Ascorbe"
+      }
+    ],
+    "createdAt" : 1580735066.193145
+  },
+  {
+    "id" : "iosconfsg_2020_building-a-considerate-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "c7OZbss-SK8"
+    },
+    "name" : "Building a considerate app",
+    "authors" : [
+      {
+        "id" : "jeff-watkins",
+        "name" : "Jeff Watkins"
+      }
+    ],
+    "createdAt" : 1580735099.8298941
+  },
+  {
+    "id" : "iosconfsg_2020_community-engineering",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "3WpzH5UJPss"
+    },
+    "name" : "Community Engineering",
+    "authors" : [
+      {
+        "id" : "tamar-nachmany",
+        "name" : "Tamar Nachmany"
+      }
+    ],
+    "createdAt" : 1580735148.7211461
+  },
+  {
+    "id" : "iosconfsg_2020_testing-swiftui-and-combine-the-state-of-the-art",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "HGToxDuX_wY"
+    },
+    "name" : "Testing SwiftUI and Combine: The State of the Art",
+    "authors" : [
+      {
+        "id" : "vojta-stavik",
+        "name" : "Vojta Stavik"
+      }
+    ],
+    "createdAt" : 1580735176.935879
+  },
+  {
+    "id" : "iosconfsg_2020_protecting-inapp-purchases-from-piracy-through-tweaks",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "B2Kgqq3GiJQ"
+    },
+    "name" : "Protecting in-app purchases from piracy through tweaks",
+    "authors" : [
+      {
+        "id" : "damian-malarczyk",
+        "name" : "Damian Malarczyk"
+      }
+    ],
+    "createdAt" : 1580735204.9033971
+  },
+  {
+    "id" : "iosconfsg_2020_full-stack-development-with-swift-and-vapor",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "fpWOD3JpSrI"
+    },
+    "name" : "Full stack development with Swift and Vapor",
+    "authors" : [
+      {
+        "id" : "tim-condon",
+        "name" : "Tim Condon"
+      }
+    ],
+    "createdAt" : 1580735232.3298731
+  },
+  {
+    "id" : "iosconfsg_2020_explain-me-metal-like-im-5",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "zXBEJzAaHY8"
+    },
+    "name" : "Explain me Metal like I'm 5",
+    "authors" : [
+      {
+        "id" : "andrey-volodin",
+        "name" : "Andrey Volodin"
+      }
+    ],
+    "createdAt" : 1580813095.815491
+  },
+  {
+    "id" : "iosconfsg_2020_property-wrappers-or-how-swift-decided-to-become-java",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ztXo4Bn2Uss"
+    },
+    "name" : "Property Wrappers or How Swift decided to become Java ",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ],
+    "createdAt" : 1580813260.426379
+  },
+  {
+    "id" : "iosconfsg_2020_elevating-your-design-with-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jH2uz4iL5xI"
+    },
+    "name" : "Elevating your design with SwiftUI",
+    "authors" : [
+      {
+        "id" : "meng-to",
+        "name" : "Meng To"
+      }
+    ],
+    "createdAt" : 1580813287.2906499
+  },
+  {
+    "id" : "iosconfsg_2020_declarative-networking-with-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "iosconfsg",
+        "name" : "iOS Conf SG"
+      },
+      "edition" : {
+        "year" : 2020
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Eu36rlm_Mrw"
+    },
+    "name" : "Declarative Networking with Combine",
+    "authors" : [
+      {
+        "id" : "ritesh-gupta",
+        "name" : "Ritesh Gupta"
+      }
+    ],
+    "createdAt" : 1580813322.8175011
+  },
+  {
     "id" : "iosdevcampdc_2019_keynote",
     "conference" : {
       "metaData" : {
@@ -5526,6 +6006,174 @@
       }
     ],
     "createdAt" : 1573770426.5584469
+  },
+  {
+    "id" : "mobiconf_2019_pushing-protocols-to-their-limits",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jDvk7nztqHw"
+    },
+    "name" : "Pushing Protocols to Their Limits",
+    "authors" : [
+      {
+        "id" : "joshua-garnham",
+        "name" : "Joshua Garnham"
+      }
+    ],
+    "createdAt" : 1580766504.93488
+  },
+  {
+    "id" : "mobiconf_2019_iamdeveloper-choice",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "l4T1tZNtT_A"
+    },
+    "name" : "#Iamdeveloper choice",
+    "authors" : [
+      {
+        "id" : "kateryna-gridina",
+        "name" : "Kateryna Gridina"
+      }
+    ],
+    "createdAt" : 1580766559.2999749
+  },
+  {
+    "id" : "mobiconf_2019_shipping-a-catalyst-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QiUPrPIGgjs"
+    },
+    "name" : "Shipping a Catalyst app",
+    "authors" : [
+      {
+        "id" : "peter-steinberger",
+        "name" : "Peter Steinberger"
+      }
+    ],
+    "createdAt" : 1580766658.9691119
+  },
+  {
+    "id" : "mobiconf_2019_learnings-from-building-design-systems-at-xing",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aDPx6gJcam8"
+    },
+    "name" : "Learnings from building Design Systems at XING",
+    "authors" : [
+      {
+        "id" : "benedikt-terhechte",
+        "name" : "Benedikt Terhechte"
+      }
+    ],
+    "createdAt" : 1580766705.6048861
+  },
+  {
+    "id" : "mobiconf_2019_building-an-app-with-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ublL11FpZgQ"
+    },
+    "name" : "Building an app with Combine",
+    "authors" : [
+      {
+        "id" : "antoine-van-der-lee",
+        "name" : "Antoine van der Lee"
+      }
+    ],
+    "createdAt" : 1580766766.2328901
+  },
+  {
+    "id" : "mobiconf_2019_0xfeedface",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "HXFHumn0j1I"
+    },
+    "name" : "0xFEEDFACE",
+    "authors" : [
+      {
+        "id" : "kamil-borzym",
+        "name" : "Kamil Borzym"
+      }
+    ],
+    "createdAt" : 1582148886.050653
+  },
+  {
+    "id" : "mobiconf_2019_there-and-back-again-lessons-from-leaving-software-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Ip3bTQ_Nxdw"
+    },
+    "name" : "There and back again: Lessons from leaving software development",
+    "authors" : [
+      {
+        "id" : "sommer-panage",
+        "name" : "Sommer Panage"
+      }
+    ],
+    "createdAt" : 1582148925.3039861
   },
   {
     "id" : "moconfby_2018_machine-learning-on-mobile-a-primer",

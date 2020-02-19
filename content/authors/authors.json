@@ -744,6 +744,66 @@
     "name" : "Christian Grail"
   },
   {
+    "id" : "sven-schleier",
+    "name" : "Sven Schleier"
+  },
+  {
+    "id" : "douglas-hill",
+    "name" : "Douglas Hill"
+  },
+  {
+    "id" : "anna-alexi",
+    "name" : "Anna Alexi"
+  },
+  {
+    "id" : "choon-keat-chew",
+    "name" : "Choon Keat Chew"
+  },
+  {
+    "id" : "omer-iqbal",
+    "name" : "Omer Iqbal"
+  },
+  {
+    "id" : "scott-grosch",
+    "name" : "Scott Grosch"
+  },
+  {
+    "id" : "matt-delves",
+    "name" : "Matt Delves"
+  },
+  {
+    "id" : "luis-ascorbe",
+    "name" : "Luis Ascorbe"
+  },
+  {
+    "id" : "jeff-watkins",
+    "name" : "Jeff Watkins"
+  },
+  {
+    "id" : "tamar-nachmany",
+    "name" : "Tamar Nachmany"
+  },
+  {
+    "id" : "vojta-stavik",
+    "name" : "Vojta Stavik"
+  },
+  {
+    "id" : "damian-malarczyk",
+    "name" : "Damian Malarczyk"
+  },
+  {
+    "id" : "andrey-volodin",
+    "name" : "Andrey Volodin"
+  },
+  {
+    "id" : "meng-to",
+    "name" : "Meng To"
+  },
+  {
+    "id" : "ritesh-gupta",
+    "name" : "Ritesh Gupta"
+  },
+  {
     "id" : "jaimee-newberry",
     "name" : "Jaimee Newberry"
   },
@@ -778,6 +838,26 @@
   {
     "id" : "andrzej-zuzak",
     "name" : "Andrzej Zuzak"
+  },
+  {
+    "id" : "joshua-garnham",
+    "name" : "Joshua Garnham"
+  },
+  {
+    "id" : "benedikt-terhechte",
+    "name" : "Benedikt Terhechte"
+  },
+  {
+    "id" : "antoine-van-der-lee",
+    "name" : "Antoine van der Lee"
+  },
+  {
+    "id" : "kamil-borzym",
+    "name" : "Kamil Borzym"
+  },
+  {
+    "id" : "sommer-panage",
+    "name" : "Sommer Panage"
   },
   {
     "id" : "sam_davies",
@@ -892,10 +972,6 @@
     "name" : "Aleksandar Vacić"
   },
   {
-    "id" : "jeff-watkins",
-    "name" : "Jeff Watkins"
-  },
-  {
     "id" : "jeroen-bakker",
     "name" : "Jeroen Bakker"
   },
@@ -984,10 +1060,6 @@
     "name" : "Anastasiia Vixentael"
   },
   {
-    "id" : "antoine-van-der-lee",
-    "name" : "Antoine van der Lee"
-  },
-  {
     "id" : "elviro-rocca",
     "name" : "Elviro Rocca"
   },
@@ -1074,10 +1146,6 @@
   {
     "id" : "Bharath Nagaraj Rao",
     "name" : "Bharath Nagaraj Rao"
-  },
-  {
-    "id" : "ritesh-gupta",
-    "name" : "Ritesh Gupta"
   },
   {
     "id" : "daiki-matsudate",
@@ -1326,10 +1394,6 @@
   {
     "id" : "liz-marley",
     "name" : "Liz Marley"
-  },
-  {
-    "id" : "benedikt-terhechte",
-    "name" : "Benedikt Terhechte"
   },
   {
     "id" : "tomoya-hirano",
