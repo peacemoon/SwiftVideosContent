@@ -1,0 +1,242 @@
+[
+  {
+    "id" : "swiftconf_2018_keynote-stabilizing-your-abi",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "GzP2oaZRi7Q"
+    },
+    "name" : "Keynote – Stabilizing your ABI",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ],
+    "createdAt" : 1580470879.4636211
+  },
+  {
+    "id" : "swiftconf_2018_how-to-arkit-20",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Y5Ki-MKVP_0"
+    },
+    "name" : "How to ARKit 2.0",
+    "authors" : [
+      {
+        "id" : "oscar-falmer",
+        "name" : "Oscar Falmer"
+      }
+    ],
+    "createdAt" : 1580470723.899287
+  },
+  {
+    "id" : "swiftconf_2018_mastering-ios-animation",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "_4McEnarqNc"
+    },
+    "name" : "Mastering iOS Animation",
+    "authors" : [
+      {
+        "id" : "paul-hudson",
+        "name" : "Paul Hudson"
+      }
+    ],
+    "createdAt" : 1580470824.226851
+  },
+  {
+    "id" : "swiftconf_2018_the-importance-of-privacy-in-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "MM3elvG9edY"
+    },
+    "name" : "The importance of Privacy in iOS",
+    "authors" : [
+      {
+        "id" : "stuff",
+        "name" : "Stuff"
+      }
+    ],
+    "createdAt" : 1580471012.100513
+  },
+  {
+    "id" : "swiftconf_2018_always-give-100",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "aPnT-n-igEI"
+    },
+    "name" : "Always Give 100%",
+    "authors" : [
+      {
+        "id" : "jakub-turek",
+        "name" : "Jakub Turek"
+      }
+    ],
+    "createdAt" : 1580471093.5027142
+  },
+  {
+    "id" : "swiftconf_2018_developer-experience",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "jSkohApHFEE"
+    },
+    "name" : "Developer experience",
+    "authors" : [
+      {
+        "id" : "egor-tolstoy",
+        "name" : "Egor Tolstoy"
+      }
+    ],
+    "createdAt" : 1580471138.414026
+  },
+  {
+    "id" : "swiftconf_2018_same-language-different-platform",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vesAhaiaujA"
+    },
+    "name" : "Same language, different platform",
+    "authors" : [
+      {
+        "id" : "steffen-sommer",
+        "name" : "Steffen Sommer"
+      }
+    ],
+    "createdAt" : 1580471172.5665889
+  },
+  {
+    "id" : "swiftconf_2018_grow-your-own-model-ml-on-ios",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nIUXzpp78k8"
+    },
+    "name" : "Grow your own model (ML on iOS)",
+    "authors" : [
+      {
+        "id" : "manu-rink",
+        "name" : "Manu Rink"
+      }
+    ],
+    "createdAt" : 1580471196.1008301
+  },
+  {
+    "id" : "swiftconf_2018_rxswift-debunking-the-myth-of-hard",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "GdvLP0ZAhhc"
+    },
+    "name" : "RxSwift: debunking the myth of hard",
+    "authors" : [
+      {
+        "id" : "shai-mishali",
+        "name" : "Shai Mishali"
+      }
+    ],
+    "createdAt" : 1580471231.4032459
+  },
+  {
+    "id" : "swiftconf_2018_serverside-swift-without-the-servers",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "OSweJ0ybnUI"
+    },
+    "name" : " Server-side swift without the servers?",
+    "authors" : [
+      {
+        "id" : "mateusz-stawecki",
+        "name" : "Mateusz Stawecki"
+      }
+    ],
+    "createdAt" : 1580471331.3921409
+  }
+]

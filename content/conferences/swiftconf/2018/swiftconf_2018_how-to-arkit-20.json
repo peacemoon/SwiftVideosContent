@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2018_how-to-arkit-20",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Y5Ki-MKVP_0"
+    },
+    "name" : "How to ARKit 2.0",
+    "authors" : [
+      {
+        "id" : "oscar-falmer",
+        "name" : "Oscar Falmer"
+      }
+    ],
+    "createdAt" : 1580470723.899287
+  },
+  "description" : "ARKit 2.0 is coming up with iOS 12 with exciting new features such as Image Live Tracking and 3D Object Detection. Let’s dive into these two features with some technical aspects and code examples."
+}

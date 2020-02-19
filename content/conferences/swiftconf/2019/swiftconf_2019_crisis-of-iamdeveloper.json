@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2019_crisis-of-iamdeveloper",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "hJWyx1CYFx4"
+    },
+    "name" : "Crisis of #Iamdeveloper",
+    "authors" : [
+      {
+        "id" : "kateryna-gridina",
+        "name" : "Kateryna Gridina"
+      }
+    ],
+    "createdAt" : 1580470536.5007238
+  },
+  "description" : "If you have a crisis, on what to do next with your career - go freelance, change the company or open your own company, this talk is for you. I will share some of my and other developers experience about this topic."
+}

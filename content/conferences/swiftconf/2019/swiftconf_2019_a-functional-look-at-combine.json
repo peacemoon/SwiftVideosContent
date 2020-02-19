@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2019_a-functional-look-at-combine",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Z72w5NtmyjM"
+    },
+    "name" : "A Functional look at Combine",
+    "authors" : [
+      {
+        "id" : "a-functional-look-at-combine",
+        "name" : "A Functional look at Combine"
+      }
+    ],
+    "createdAt" : 1580466913.779985
+  },
+  "description" : "We have a lot of insight into working with Swift sequences such as Arrays, Dictionaries, and Sets. In this talk, we take a look at the Combine framework and apply what we know about collections that are indexed over space to those that are indexed over time."
+}

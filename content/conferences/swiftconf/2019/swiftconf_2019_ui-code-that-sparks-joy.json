@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2019_ui-code-that-sparks-joy",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "grFo3cO0Htw"
+    },
+    "name" : "UI Code That Sparks Joy",
+    "authors" : [
+      {
+        "id" : "nataliya-patsovska",
+        "name" : "Nataliya Patsovska"
+      }
+    ],
+    "createdAt" : 1580465956.260792
+  },
+  "description" : ""
+}

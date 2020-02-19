@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2018_keynote-stabilizing-your-abi",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "GzP2oaZRi7Q"
+    },
+    "name" : "Keynote – Stabilizing your ABI",
+    "authors" : [
+      {
+        "id" : "daniel-steinberg",
+        "name" : "Daniel Steinberg"
+      }
+    ],
+    "createdAt" : 1580470879.4636211
+  },
+  "description" : "The focus of Swift 5 is ABI stabilization. This is a big moment in the evolution of this language we depend so much on. We begin this year’s Swift Conf with a look at what ABI Stabilization means in the life of the Swift Programming Language and what it could mean in your life."
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2018_rxswift-debunking-the-myth-of-hard",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2018
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "GdvLP0ZAhhc"
+    },
+    "name" : "RxSwift: debunking the myth of hard",
+    "authors" : [
+      {
+        "id" : "shai-mishali",
+        "name" : "Shai Mishali"
+      }
+    ],
+    "createdAt" : 1580471231.4032459
+  },
+  "description" : ""
+}

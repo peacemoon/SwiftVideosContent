@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2019_best-practices",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "nIHfhPozB3k"
+    },
+    "name" : "Best Practices",
+    "authors" : [
+      {
+        "id" : "roy-marmelstein",
+        "name" : "Roy Marmelstein"
+      }
+    ],
+    "createdAt" : 1580470631.989382
+  },
+  "description" : ""
+}

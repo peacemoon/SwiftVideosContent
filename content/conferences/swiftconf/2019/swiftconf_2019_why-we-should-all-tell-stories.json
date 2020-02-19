@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "swiftconf_2019_why-we-should-all-tell-stories",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftconf",
+        "name" : "SwiftConf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Fiw7HFTC6_w"
+    },
+    "name" : "Why We Should All Tell Stories",
+    "authors" : [
+      {
+        "id" : "maxim-cramer",
+        "name" : "Maxim Cramer"
+      }
+    ],
+    "createdAt" : 1580470661.2162671
+  },
+  "description" : "We all generate ideas constantly. From how to write better code, to how to build better products. But what to do with all these great ideas? You can schedule meetings, write blog posts, and more, but how do you captivate your peers and the world? You tell a story."
+}
