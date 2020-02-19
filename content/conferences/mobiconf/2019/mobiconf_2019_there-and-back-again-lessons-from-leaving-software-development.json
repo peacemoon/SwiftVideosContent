@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "mobiconf_2019_there-and-back-again-lessons-from-leaving-software-development",
+    "conference" : {
+      "metaData" : {
+        "id" : "mobiconf",
+        "name" : "mobiconf"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "Ip3bTQ_Nxdw"
+    },
+    "name" : "There and back again: Lessons from leaving software development",
+    "authors" : [
+      {
+        "id" : "sommer-panage",
+        "name" : "Sommer Panage"
+      }
+    ],
+    "createdAt" : 1582148925.3039861
+  },
+  "description" : ""
+}
