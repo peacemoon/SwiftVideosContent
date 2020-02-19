@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_boosting-productivity-with-modular-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CxpeJ6PfoRg"
+    },
+    "name" : "Boosting productivity with Modular Apps",
+    "authors" : [
+      {
+        "id" : "juan-martin-sotuyo",
+        "name" : "Juan Martin Sotuyo"
+      }
+    ],
+    "createdAt" : 1582153099.4673181
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_feature-flag-all-things",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vVUodmYoFu0"
+    },
+    "name" : "Feature flag all things",
+    "authors" : [
+      {
+        "id" : "aline-borges",
+        "name" : "Aline Borges"
+      }
+    ],
+    "createdAt" : 1582153421.693794
+  },
+  "description" : ""
+}

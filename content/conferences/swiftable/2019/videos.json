@@ -1,0 +1,514 @@
+[
+  {
+    "id" : "swiftable_2019_swiftui-under-the-hood",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "GuK6wwX8M0E"
+    },
+    "name" : "SwiftUI under the hood",
+    "authors" : [
+      {
+        "id" : "chris-eidhof",
+        "name" : "Chris Eidhof"
+      }
+    ],
+    "createdAt" : 1582152459.092515
+  },
+  {
+    "id" : "swiftable_2019_fluid-animations-and-interactions-on-ios-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "89QkikrQvQE"
+    },
+    "name" : "Fluid animations and interactions on iOS apps",
+    "authors" : [
+      {
+        "id" : "guilherme-rambo",
+        "name" : "Guilherme Rambo"
+      }
+    ],
+    "createdAt" : 1582152505.496325
+  },
+  {
+    "id" : "swiftable_2019_ios-testing-at-nubank",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "voJRJjEJQ8s"
+    },
+    "name" : "iOS testing at @NuBank",
+    "authors" : [
+      {
+        "id" : "francesco-perroti",
+        "name" : "Francesco Perroti"
+      }
+    ],
+    "createdAt" : 1582152531.66364
+  },
+  {
+    "id" : "swiftable_2019_the-accessibility-api",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "blstJq8Dn7M"
+    },
+    "name" : "The Accessibility API",
+    "authors" : [
+      {
+        "id" : "sally-shepard",
+        "name" : "Sally Shepard"
+      }
+    ],
+    "createdAt" : 1582152553.1333308
+  },
+  {
+    "id" : "swiftable_2019_optimising-ios-app-development-processes",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1BiEryyobjk"
+    },
+    "name" : "Optimising iOS app development processes",
+    "authors" : [
+      {
+        "id" : "felix-krause",
+        "name" : "Felix Krause"
+      }
+    ],
+    "createdAt" : 1582152577.9035249
+  },
+  {
+    "id" : "swiftable_2019_making-awesome-layouts-with-uicollectionview",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "x554z43rdtA"
+    },
+    "name" : "Making awesome layouts with UICollectionView",
+    "authors" : [
+      {
+        "id" : "juan-laube",
+        "name" : "Juan Laube"
+      }
+    ],
+    "createdAt" : 1582152628.2887011
+  },
+  {
+    "id" : "swiftable_2019_when-poets-write-software",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "A7AsU-OQfqU"
+    },
+    "name" : "When poets write software",
+    "authors" : [
+      {
+        "id" : "haiyan-ma",
+        "name" : "Haiyan Ma"
+      }
+    ],
+    "createdAt" : 1582152673.4716101
+  },
+  {
+    "id" : "swiftable_2019_identify-and-fix-memory-leaks-in-your-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "lU6ywuZRw0U"
+    },
+    "name" : "Identify and fix memory leaks in your app",
+    "authors" : [
+      {
+        "id" : "larissa-barra",
+        "name" : "Larissa Barra"
+      },
+      {
+        "id" : "michel-bueno",
+        "name" : "Michel Bueno"
+      }
+    ],
+    "createdAt" : 1582152719.5123661
+  },
+  {
+    "id" : "swiftable_2019_setting-for-a-successful-app-marketing-strategy-thinking-in-the-long-term",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "MLt8UZEX0cQ"
+    },
+    "name" : "Setting for a Successful App Marketing Strategy thinking in the long term",
+    "authors" : [
+      {
+        "id" : "maite-barreneche",
+        "name" : "Maite Barreneche"
+      }
+    ],
+    "createdAt" : 1582152773.158757
+  },
+  {
+    "id" : "swiftable_2019_the-very-best-of-ios-memes",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "H4Le734glmU"
+    },
+    "name" : "The Very Best of iOS Memes",
+    "authors" : [
+      {
+        "id" : "vincent-pradeilles",
+        "name" : "Vincent Pradeilles"
+      }
+    ],
+    "createdAt" : 1582152837.328315
+  },
+  {
+    "id" : "swiftable_2019_shipping-a-mac-catalyst-app-the-good-the-bad-and-the-ugly",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EK0O8_Tt6TE"
+    },
+    "name" : "Shipping a Mac Catalyst app: The good, the bad and the ugly",
+    "authors" : [
+      {
+        "id" : "peter-steinberger",
+        "name" : "Peter Steinberger"
+      }
+    ],
+    "createdAt" : 1582152864.3263159
+  },
+  {
+    "id" : "swiftable_2019_an-introduction-to-propertybased-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QJcBKaKHMRU"
+    },
+    "name" : "An introduction to property-based testing",
+    "authors" : [
+      {
+        "id" : "vicent-pradeilles",
+        "name" : "Vicent Pradeilles"
+      }
+    ],
+    "createdAt" : 1582152898.1449919
+  },
+  {
+    "id" : "swiftable_2019_routing-airbnb",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "ray2vMjg2ug"
+    },
+    "name" : "Routing @Airbnb",
+    "authors" : [
+      {
+        "id" : "amie-kweon",
+        "name" : "Amie Kweon"
+      }
+    ],
+    "createdAt" : 1582152948.5031819
+  },
+  {
+    "id" : "swiftable_2019_improving-developer-experience-through-tools-and-techniques",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "UXuh4UEDrW8"
+    },
+    "name" : "Improving Developer Experience through tools and techniques",
+    "authors" : [
+      {
+        "id" : "kryzysztof-zablocki",
+        "name" : "Kryzysztof Zablocki"
+      }
+    ],
+    "createdAt" : 1582153059.945226
+  },
+  {
+    "id" : "swiftable_2019_boosting-productivity-with-modular-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "CxpeJ6PfoRg"
+    },
+    "name" : "Boosting productivity with Modular Apps",
+    "authors" : [
+      {
+        "id" : "juan-martin-sotuyo",
+        "name" : "Juan Martin Sotuyo"
+      }
+    ],
+    "createdAt" : 1582153099.4673181
+  },
+  {
+    "id" : "swiftable_2019_creating-forms-with-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "2eoOsmBf1wI"
+    },
+    "name" : "Creating forms with SwiftUI",
+    "authors" : [
+      {
+        "id" : "mathias-claassen",
+        "name" : "Mathias Claassen"
+      },
+      {
+        "id" : "rodrigo-arsuaga",
+        "name" : "Rodrigo Arsuaga"
+      }
+    ],
+    "createdAt" : 1582153191.0573969
+  },
+  {
+    "id" : "swiftable_2019_viper-what-could-possibly-go-wrong",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "g5kHqXlTlWo"
+    },
+    "name" : "VIPER: What could possibly go wrong?",
+    "authors" : [
+      {
+        "id" : "julian-gutierrez-ferrara",
+        "name" : "Julian Gutierrez Ferrara"
+      }
+    ],
+    "createdAt" : 1582153219.512563
+  },
+  {
+    "id" : "swiftable_2019_an-alternative-approach-to-building-shipping-swift-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "u40WqvdRsg"
+    },
+    "name" : "An alternative approach to building & shipping Swift apps",
+    "authors" : [
+      {
+        "id" : "keith-smiley",
+        "name" : "Keith Smiley"
+      }
+    ],
+    "createdAt" : 1582153256.421046
+  },
+  {
+    "id" : "swiftable_2019_envoy-mobile-the-upcoming-networking-revolution",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "rMBrVfoQ7-g"
+    },
+    "name" : "Envoy Mobile & the upcoming networking revolution",
+    "authors" : [
+      {
+        "id" : "michael-rebello",
+        "name" : "Michael Rebello"
+      }
+    ],
+    "createdAt" : 1582153384.3841581
+  },
+  {
+    "id" : "swiftable_2019_feature-flag-all-things",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "vVUodmYoFu0"
+    },
+    "name" : "Feature flag all things",
+    "authors" : [
+      {
+        "id" : "aline-borges",
+        "name" : "Aline Borges"
+      }
+    ],
+    "createdAt" : 1582153421.693794
+  },
+  {
+    "id" : "swiftable_2019_working-effectively-at-scale",
+    "conference" : {
+      "metaData" : {
+        "id" : "swiftable",
+        "name" : "Swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "KhZcSRXJHFs"
+    },
+    "name" : "Working effectively at scale",
+    "authors" : [
+      {
+        "id" : "francisco-diaz",
+        "name" : "Francisco Diaz"
+      }
+    ],
+    "createdAt" : 1582153472.205641
+  }
+]

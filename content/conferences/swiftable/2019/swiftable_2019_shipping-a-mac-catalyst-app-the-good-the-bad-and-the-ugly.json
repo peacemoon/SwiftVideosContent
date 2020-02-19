@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_shipping-a-mac-catalyst-app-the-good-the-bad-and-the-ugly",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "EK0O8_Tt6TE"
+    },
+    "name" : "Shipping a Mac Catalyst app: The good, the bad and the ugly",
+    "authors" : [
+      {
+        "id" : "peter-steinberger",
+        "name" : "Peter Steinberger"
+      }
+    ],
+    "createdAt" : 1582152864.3263159
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_working-effectively-at-scale",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "KhZcSRXJHFs"
+    },
+    "name" : "Working effectively at scale",
+    "authors" : [
+      {
+        "id" : "francisco-diaz",
+        "name" : "Francisco Diaz"
+      }
+    ],
+    "createdAt" : 1582153472.205641
+  },
+  "description" : ""
+}

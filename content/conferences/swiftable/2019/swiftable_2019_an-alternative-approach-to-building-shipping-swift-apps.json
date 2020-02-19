@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_an-alternative-approach-to-building-shipping-swift-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "u40WqvdRsg"
+    },
+    "name" : "An alternative approach to building & shipping Swift apps",
+    "authors" : [
+      {
+        "id" : "keith-smiley",
+        "name" : "Keith Smiley"
+      }
+    ],
+    "createdAt" : 1582153256.421046
+  },
+  "description" : ""
+}

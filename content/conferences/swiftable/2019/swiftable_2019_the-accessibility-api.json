@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_the-accessibility-api",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "blstJq8Dn7M"
+    },
+    "name" : "The Accessibility API",
+    "authors" : [
+      {
+        "id" : "sally-shepard",
+        "name" : "Sally Shepard"
+      }
+    ],
+    "createdAt" : 1582152553.1333308
+  },
+  "description" : ""
+}

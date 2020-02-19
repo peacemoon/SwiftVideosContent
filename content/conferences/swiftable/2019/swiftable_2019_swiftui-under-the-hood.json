@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_swiftui-under-the-hood",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "GuK6wwX8M0E"
+    },
+    "name" : "SwiftUI under the hood",
+    "authors" : [
+      {
+        "id" : "chris-eidhof",
+        "name" : "Chris Eidhof"
+      }
+    ],
+    "createdAt" : 1582152459.092515
+  },
+  "description" : ""
+}
