@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_when-poets-write-software",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "A7AsU-OQfqU"
+    },
+    "name" : "When poets write software",
+    "authors" : [
+      {
+        "id" : "haiyan-ma",
+        "name" : "Haiyan Ma"
+      }
+    ],
+    "createdAt" : 1582152673.4716101
+  },
+  "description" : ""
+}

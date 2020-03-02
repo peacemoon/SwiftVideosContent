@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_viper-what-could-possibly-go-wrong",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "g5kHqXlTlWo"
+    },
+    "name" : "VIPER: What could possibly go wrong?",
+    "authors" : [
+      {
+        "id" : "julian-gutierrez-ferrara",
+        "name" : "Julian Gutierrez Ferrara"
+      }
+    ],
+    "createdAt" : 1582153219.512563
+  },
+  "description" : ""
+}

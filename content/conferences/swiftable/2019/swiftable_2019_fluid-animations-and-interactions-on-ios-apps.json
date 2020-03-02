@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_fluid-animations-and-interactions-on-ios-apps",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "89QkikrQvQE"
+    },
+    "name" : "Fluid animations and interactions on iOS apps",
+    "authors" : [
+      {
+        "id" : "guilherme-rambo",
+        "name" : "Guilherme Rambo"
+      }
+    ],
+    "createdAt" : 1582152505.496325
+  },
+  "description" : ""
+}

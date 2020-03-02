@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_envoy-mobile-the-upcoming-networking-revolution",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "rMBrVfoQ7-g"
+    },
+    "name" : "Envoy Mobile & the upcoming networking revolution",
+    "authors" : [
+      {
+        "id" : "michael-rebello",
+        "name" : "Michael Rebello"
+      }
+    ],
+    "createdAt" : 1582153384.3841581
+  },
+  "description" : ""
+}

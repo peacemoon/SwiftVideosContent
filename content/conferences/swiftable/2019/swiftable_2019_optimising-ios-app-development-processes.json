@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_optimising-ios-app-development-processes",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "1BiEryyobjk"
+    },
+    "name" : "Optimising iOS app development processes",
+    "authors" : [
+      {
+        "id" : "felix-krause",
+        "name" : "Felix Krause"
+      }
+    ],
+    "createdAt" : 1582152577.9035249
+  },
+  "description" : ""
+}

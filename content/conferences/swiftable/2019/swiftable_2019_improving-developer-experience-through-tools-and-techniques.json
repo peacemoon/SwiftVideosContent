@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_improving-developer-experience-through-tools-and-techniques",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "UXuh4UEDrW8"
+    },
+    "name" : "Improving Developer Experience through tools and techniques",
+    "authors" : [
+      {
+        "id" : "kryzysztof-zablocki",
+        "name" : "Kryzysztof Zablocki"
+      }
+    ],
+    "createdAt" : 1582153059.945226
+  },
+  "description" : ""
+}

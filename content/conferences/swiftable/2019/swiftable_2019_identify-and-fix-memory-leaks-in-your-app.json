@@ -1,0 +1,31 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_identify-and-fix-memory-leaks-in-your-app",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "lU6ywuZRw0U"
+    },
+    "name" : "Identify and fix memory leaks in your app",
+    "authors" : [
+      {
+        "id" : "larissa-barra",
+        "name" : "Larissa Barra"
+      },
+      {
+        "id" : "michel-bueno",
+        "name" : "Michel Bueno"
+      }
+    ],
+    "createdAt" : 1582152719.5123661
+  },
+  "description" : ""
+}

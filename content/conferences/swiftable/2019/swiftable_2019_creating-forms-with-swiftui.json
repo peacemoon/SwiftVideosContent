@@ -1,0 +1,31 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_creating-forms-with-swiftui",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "2eoOsmBf1wI"
+    },
+    "name" : "Creating forms with SwiftUI",
+    "authors" : [
+      {
+        "id" : "mathias-claassen",
+        "name" : "Mathias Claassen"
+      },
+      {
+        "id" : "rodrigo-arsuaga",
+        "name" : "Rodrigo Arsuaga"
+      }
+    ],
+    "createdAt" : 1582153191.0573969
+  },
+  "description" : ""
+}

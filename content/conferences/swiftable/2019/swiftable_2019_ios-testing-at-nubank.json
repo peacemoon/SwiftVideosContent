@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_ios-testing-at-nubank",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "voJRJjEJQ8s"
+    },
+    "name" : "iOS testing at @NuBank",
+    "authors" : [
+      {
+        "id" : "francesco-perroti",
+        "name" : "Francesco Perroti"
+      }
+    ],
+    "createdAt" : 1582152531.66364
+  },
+  "description" : ""
+}

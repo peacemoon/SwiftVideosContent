@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_making-awesome-layouts-with-uicollectionview",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "x554z43rdtA"
+    },
+    "name" : "Making awesome layouts with UICollectionView",
+    "authors" : [
+      {
+        "id" : "juan-laube",
+        "name" : "Juan Laube"
+      }
+    ],
+    "createdAt" : 1582152628.2887011
+  },
+  "description" : ""
+}

@@ -1,0 +1,27 @@
+{
+  "metaData" : {
+    "id" : "Swiftable_2019_an-introduction-to-propertybased-testing",
+    "conference" : {
+      "metaData" : {
+        "id" : "Swiftable",
+        "name" : "swiftable"
+      },
+      "edition" : {
+        "year" : 2019
+      }
+    },
+    "source" : {
+      "type" : "youtube",
+      "value" : "QJcBKaKHMRU"
+    },
+    "name" : "An introduction to property-based testing",
+    "authors" : [
+      {
+        "id" : "vicent-pradeilles",
+        "name" : "Vicent Pradeilles"
+      }
+    ],
+    "createdAt" : 1582152898.1449919
+  },
+  "description" : ""
+}
