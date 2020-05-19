@@ -1,0 +1,49 @@
+[
+    {
+        "id": "iosdevweekly",
+        "name": "iOS Dev Weekly",
+        "destination": {
+            "type": "newsletter",
+            "www": "https://iosdevweekly.com/",
+            "twitter": "",
+            "github": ""
+        }
+    },
+    {
+        "id": "iosgoodies",
+        "name": "iOSGoodies",
+        "destination": {
+            "type": "newsletter",
+            "url": "https://ios-goodies.com/",
+            "twitter": "iosgoodies",
+            "github": ""
+        }
+    },
+    {
+        "id": "indie-ios-focus-weekly",
+        "name": "indie iOS focus weekly",
+        "destination": {
+            "type": "newsletter",
+            "url": "https://indieiosfocus.com/"
+        }
+    },
+    {
+        "id": "swiftweekly",
+        "name": "Swift weekly",
+        "destination": {
+            "type": "newsletter",
+            "url": "https://swiftweekly.com/",
+            "twitter": "swift_weekly",
+            "github": "https://github.com/SwiftWeekly/swiftweekly.github.io"
+        }
+    },
+    {
+        "id": "",
+        "name": "raywenderlich.com Weekly",
+        "destination": {
+            "type": "",
+            "url": "https://www.raywenderlich.com/",
+            "twitter": ""
+        }
+    }
+]

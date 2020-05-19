@@ -1,0 +1,226 @@
+[
+    {
+        "id": "the-swift-community-podcast",
+        "name": "The Swift Community Podcast",
+        "destination": {
+            "type": "podcast",
+            "www": "https://www.swiftcommunitypodcast.org/",
+            "twitter": "",
+            "github": "https://github.com/SwiftCommunityPodcast/podcast"
+        }
+    },
+    {
+        "id": "inside-ios-dev",
+        "name": "Inside iOS Dev",
+        "destination": {
+            "type": "podcast",
+            "url": "https://insideiosdev.com/",
+            "twitter": ""
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "destination": {
+            "type": "podcast",
+            "url": "http://iosdevbreak.com/",
+            "twitter": ""
+        }
+    },
+    {
+        "id": "ios-dev-break",
+        "name": "iOS Dev Break",
+        "destination": {
+            "type": "podcast",
+            "url": "",
+            "twitter": ""
+        }
+    },
+    {
+        "id": "contra-variance",
+        "name": "Contra Variance",
+        "destination": {
+            "type": "podcast",
+            "url": "https://contravariance.rocks/",
+            "twitter": "_contravariance"
+        }
+    },
+    {
+        "id": "swiftovercoffee",
+        "name": "Swift over Coffee",
+        "authors": [
+            {
+                "id": "paul-hudson",
+                "name": "Paul Hudson"
+            },
+            {
+                "id": "sean-allen",
+                "name": "Sean Allen"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://anchor.fm/swiftovercoffee",
+            "twitter": "swiftovercoffee"
+        }
+    },
+    {
+        "id": "swift-unwrapped",
+        "name": "Swift Unwrapped",
+        "destination": {
+            "type": "podcast",
+            "url": "https://spec.fm/podcasts/swift-unwrapped"
+        }
+    },
+    {
+        "id": "swift-by-sundell",
+        "name": "Swift by Sundell",
+        "destination": {
+            "type": "podcast",
+            "url": "https://www.swiftbysundell.com/podcast/",
+            "twitter": "johnsundell"
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "auhtors": [
+            {
+                "id": "marco-arment",
+                "name": "Marco Arment"
+            },
+            {
+                "id": "david-smith",
+                "name": "David Smith"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://www.relay.fm/radar",
+            "twitter": ""
+        }
+    },
+    {
+        "id": "iphreaks",
+        "name": "iPhreaks",
+        "destination": {
+            "type": "podcast",
+            "url": "https://devchat.tv/iphreaks/",
+            "twitter": ""
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "authors": [
+            {
+                "id": "daniel-jalkut",
+                "name": "Daniel Jalkut"
+            },
+            {
+                "id": "manton-reece",
+                "name": "Manton Reece"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "http://coreint.org/",
+            "twitter": ""
+        }
+    },
+    {
+        "id": "acidental-tech-podcast",
+        "name": "Acidental Tech Podcast",
+        "authors": [
+            {
+                "id": "marco-arment",
+                "name": "Marco Arment"
+            },
+            {
+                "id": "casey-liss",
+                "name": "Casey Liss"
+            },
+            {
+                "id": "john-siracusa",
+                "name": "John Siracusa"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://atp.fm/",
+            "twitter": "atpfm"
+        }
+    },
+    {
+        "id": "appleinsider",
+        "name": "appleinsider",
+        "destination": {
+            "type": "podcast",
+            "url": "https://appleinsider.com/topic/podcast"
+        }
+    },
+    {
+        "id": "raywenderlich",
+        "name": "RayWenderlich",
+        "destination": {
+            "type": "podcast",
+            "url": "https://www.raywenderlich.com/podcast",
+            "twitter": "rwenderlich"
+        }
+    },
+    {
+        "id": "waiting-for-review",
+        "name": "Waiting for Review",
+        "authors": [
+            {
+                "id": "dave-nott",
+                "name": "Dave Nott"
+            },
+            {
+                "id": "dave-wood",
+                "name": "Dave Wood"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://www.waitingforreview.com/",
+            "twitter": "rwenderlich"
+        }
+    },
+    {
+        "id": "waiting-for-review",
+        "name": "Waiting for Review",
+        "authors": [
+            {
+                "id": "dave-nott",
+                "name": "Dave Nott"
+            },
+            {
+                "id": "dave-wood",
+                "name": "Dave Wood"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://www.waitingforreview.com/"
+        }
+    },
+    {
+        "id": "stacktrace",
+        "name": "Stacktrace",
+        "authors": [
+            {
+                "id": "gui-rambo",
+                "name": "Gui Rambo"
+            },
+            {
+                "id": "john-sundell",
+                "name": "John Sundell"
+            }
+        ],
+        "destination": {
+            "type": "podcast",
+            "url": "https://ww.9to5mac.com/guides/stacktrace/"
+        }
+    }
+]
